@@ -14,7 +14,7 @@ The following section will teach you the mechanics for playing through an indivi
 
 ![Standard attack modifier deck](img/rulebook/standard-attack-modifier-deck.png)
 
-**THE PLAY AREA INCLUDES:**
+### THE PLAY AREA INCLUDES:
 
 ![Play area](img/rulebook/play-area.png)
 
@@ -36,7 +36,7 @@ When a player begins their journey with the game, he or she will select one of t
 
 Once a character class has been chosen, the player takes the corresponding character mat, character tokens, and that character’s starting hand of Level 1 ability cards from the larger tuck box containing the character’s symbol, as well as the miniature contained in the smaller character tuck box.
 
-**A CHARACTER MAT INCLUDES:**
+### A CHARACTER MAT INCLUDES:
 
 ![Character mat and tracking dial](img/rulebook/character-mat.png)
 
@@ -56,7 +56,7 @@ Once a character class has been chosen, the player takes the corresponding chara
 
 Playing ability cards is what allows a character to perform **actions** in a scenario. Each round players choose two ability cards and use the **top action** of one card and the **bottom action** of the other card, resulting in two **actions** for each player on his or her turn. All ability cards are specific to a character class and are acquired when starting a new character or by leveling up.
 
-**AN ABILITY CARD INCLUDES:**
+### AN ABILITY CARD INCLUDES:
 
 ![Ability card](img/rulebook/ability-card.png)
 
@@ -78,7 +78,7 @@ Item cards are acquired by spending gold in between scenarios or looting specifi
 -----|------|------|----------|-----------|-----------
 Head | Body | Legs | One Hand | Two Hands | Small Item
 
-**AN ITEM CARD INCLUDES:**
+### AN ITEM CARD INCLUDES:
 
 ![Item card](img/rulebook/item-card.png)
 
@@ -104,7 +104,7 @@ Monster statistic cards give easy access to the base statistics of a given monst
 
 A monster stat sleeve should be used to track damage and condition tokens and to hide the unneeded information for other unused levels.
 
-**A MONSTER STATISTIC CARD INCLUDES:**
+### A MONSTER STATISTIC CARD INCLUDES:
 
 ![Monster Statistics Card](img/rulebook/monster-stat-card.png)
 
@@ -125,7 +125,7 @@ A monster stat sleeve should be used to track damage and condition tokens and to
 
 Each round, after players have selected their own ability cards, one card is played for each monster type currently on the board from their respective decks of monster ability cards. These cards determine which abilities each monster of that type—both normal and elite—will perform during the round on its turn.
 
-**A MONSTER ABILITY CARD INCLUDES:**
+### A MONSTER ABILITY CARD INCLUDES:
 
 ![Monster Ability Card](img/rulebook/monster-ability-card.png)
 
@@ -149,7 +149,7 @@ Each round, after players have selected their own ability cards, one card is pla
 
 Any time an **Attack** ability is performed, a separate attack modifier card is drawn for **each individual target** of the attack. Players draw from the personal attack modifier deck for their chosen character and monsters draw from a collective monster deck. The modifier listed on the card is then applied to the attack, possibly reducing or increasing its numerical value.
 
-**AN ATTACK MODIFIER CARD INCLUDES:**
+### AN ATTACK MODIFIER CARD INCLUDES:
 
 ![Attack Modifier Cards](img/rulebook/attack-modifier-cards.png)
 
@@ -221,7 +221,7 @@ When setting up a new scenario, the first step is to look in the scenario book t
 
 A scenario is constructed from a set of map tiles as instructed in the Scenario Book. Additionally, there will be special overlay tiles to fill out the encounter.
 
-**TYPES OF OVERLAY TILES:**
+### TYPES OF OVERLAY TILES:
 
 - **Doors** ![Door colour](img/misc/colour-door.png). A door acts as a separation between two rooms. When a character moves onto a closed door tile, they immediately flip over the door tile to the open side, revealing the adjacent room tile. Immediately place overlay tiles, monsters, and money tokens as indicated in the scenario description for the revealed room. While closed doors do not hinder character movement at all, they act as a wall for any monsters or character-summoned figures, and figures cannot be forced through a closed door. Open doors do not hinder any movement and cannot be closed. Door art varies by environment type, but they all function exactly the same.
 - **Corridors** ![Corridor colour](img/misc/colour-corridor.png). A corridor is placed on the connection of two map tiles to cover the walls and create a single room out of multiple map tiles. Corridors act like normal empty hexes.
@@ -314,9 +314,63 @@ Lost | Recover | Persistent Bonus (Active Effect) | Round Bonus (Active Effect)
 
 Players **must** either play two cards from their hand or declare a **long rest action** at the beginning of **every** round. If a player only has one card or no cards in their hand, the long rest action is their only option. If this option is **also** not available at the beginning of a round because a player has only one card or no cards in their discard pile as well, that player is considered **exhausted** and can no longer participate in the scenario (see Exhaustion on p. 28 for details).
 
-**RESTING**
+### RESTING
 
 Resting is the main way players can return discarded cards back into their hand of available cards. A player has two options when resting: a **short rest** or a **long rest**. In both cases, the rest action can -**only** be taken if a player has two or more cards in his or her discard pile, and a rest action **always** results in losing one of the discarded cards.
 
 - **Short rest:** During the cleanup step of a round, a player can perform a short rest. This allows that player to immediately shuffle his or her discard pile and **randomly** place one of the cards in the lost pile, then return the rest of the discarded cards to his or her hand. If the player would like to instead **keep** the card that was randomly lost, he or she can choose to suffer 1 damage and **randomly** lose a **different** discarded card, but this can only be done once per rest.
 - **Long rest:** A long rest is declared during the card selection step of a round and constitutes the player’s entire turn for the round. Resting players are considered to have an initiative value of 99. On the player’s turn, at the end of the initiative order, he or she must **choose** to lose one of his or her discarded cards, then return the rest of the discarded cards to his or her hand. The resting character also **performs a “Heal ![Heal](img/icons/general/heal.png) 2, Self” action and refreshes all of his or her spent item cards.**
+
+---
+**<p align="right">Page 18</p>**
+
+---
+
+## Determining Initiative
+
+After players have either selected their two action cards or declared a long rest, the players reveal a monster ability card for each type of monster that has at least one figure currently on the map. In addition, each player not taking a long rest reveals his or her selected cards for the round, placing their **leading card** on top so that its initiative value is visible.
+
+Initiative order is determined by comparing the initiative values on all played monster ability cards and all of the players’ leading cards. Whoever has the lowest initiative value takes their turn first, then the next highest, and so on until every figure on the board has acted. When a monster type takes an action, each monster of that type will perform the actions listed on their played ability card, starting with elites and then normal monsters in ascending standee order.
+
+If there is ever a tie in initiative between players, consult the non-leading card of each player to break the tie. (If there is still a tie, players should decide among themselves who goes first.) If there is a tie between a player and a monster type, the player goes first. If there is a tie between two monster types, the players decide which goes first.
+
+![Initiative example](img/rulebook/initiative-example.png)
+
+***Example:** At the start of the round, the Brute decides that he wishes to play the two cards shown. He also decides he wants to go late in the round, so he choses the “61” as his leading card. If he had wanted to go early, he could have chosen the “15” as the leading card. The Scoundrel reveals a leading card with “86” initiative, and the played Living Bones and Bandit Archer monster ability cards have “45” and “32” initiative respectively. The Bandit Archers activate first, then all of the Living Bones, then the Brute, and finally the Scoundrel.*
+
+## Character Turn
+
+On a character’s turn, he or she will perform the **top** action of one of the two ability cards played and the **bottom** action of the other. The **leading card** designation used to determine initiative is **no longer significant**. Either card can be played first for its top or bottom action. When playing a card’s action, the abilities of the action must be done in the order written and can’t be interrupted by the action on the other card. As soon as the action of a card is completed, it is immediately placed in the appropriate area (discard pile, lost pile, or active area) before anything else happens. Players are typically free to choose not to perform any part of the action on their card, however, they **must** perform any part that will cause a negative effect (e.g., reduce hit points, lose cards, or cause a negative condition) on themselves or their allies. An **ally** is any figure that fights with a character. This term includes summoned figures, but does not include the character itself. Abilities cannot affect allies unless the card or rules specify otherwise.
+
+![Basic actions](img/rulebook/basic-action.png)
+
+Players can also use **any card they play** as an **“Attack 2”** action on the **top** half or a **“Move 2”** action on the **bottom**. If a card is used this way, it is always discarded, regardless of what is printed on the card. On their turn, before, during, or after performing their two actions, players can use any number of items they have equipped.
+
+---
+**<p align="right">Page 19</p>**
+
+---
+
+### MOVE
+
+![Move](img/icons/general/move.png) A **“Move X”** ability allows a character to move **up to** X number of hexes on the map. Figures (characters and monsters) can move through allies, but cannot move through enemies or obstacles. Traps and other terrain effects of hexes must be resolved when a figure enters them with normal movement. A figure cannot end its movement in the same hex as another figure. Figures can **never** move through walls.
+
+![Jump](img/icons/general/jump.png) Some Move abilities are specified as a “Jump.” **Move X (Jump)** allows the character to ignore all figures and terrain effects during their movement. However, the last hex of a jump is still considered a normal movement, and so must obey the normal movement rules above.
+
+![Flying](img/icons/general/flying.png) Some figures may also have the **“Flying”** special trait. This allows figures to completely ignore any figures and terrain tiles during any part of their movement, including the last hex, except that they still must end their movement in an **unoccupied** hex (no figures present). This includes forced movement like PUSH or PULL. If a figure loses its Flying trait while occupying an obstacle hex, it takes damage as if it had sprung a damage trap and then moves immediately to the nearest **empty** hex (no figures, tokens, or overlay tiles of any kind present except corridors, pressure plates, and open doors).
+
+#### REVEALING A ROOM
+
+During any part of a character’s movement, if they enter a tile with a closed door, flip the door tile to the opened side and immediately reveal the adjacent room on the other side of the door. The Scenario Book will then specify what monsters, money tokens, and special overlay tiles should be placed in the revealed room, based on the number of characters (including exhausted characters). Note that, as in scenario setup, the standee numbers of the monsters in the new room should be randomized when placed. It is possible to run out of specific types of monster standees when revealing a room. If this happens, place only the standees that are available, starting with the monsters closest to the revealing character.
+
+Once everything is placed in the new room, any present monster types without an action card should have one drawn for them now. Once the revealing character’s turn ends, the initiative values of all monsters in the new room are reviewed, and any monster type that has a lower initiative value than the revealing character (i.e., they should have acted earlier in the round) must immediately act out their turn (in normal initiative order in case of multiple monster types in this situation). This ensures that all monsters revealed in the new room will **always** take a turn in the round in which they are revealed.
+
+### ATTACK
+
+![Attack](img/icons/general/attack.png) An **“Attack X”** ability allows a character to do a base X amount of damage to an enemy within their range. Figures cannot attack their allies. There are two types of attacks: **ranged** and **melee**.
+
+![Range](img/icons/general/range.png) **Ranged attacks** are accompanied by a **“Range Y”** value, which means any enemy within Y hexes can be targeted by the attack. Any ranged attack targeting an adjacent enemy gains Disadvantage against that target (see Advantage and Disadvantage on pp. 20–21 for details).
+
+**Melee attacks** have no accompanying range value and are considered to have a default range of 1 hex, which means they typically target adjacent enemies.
+
+**Line-of-sight:** All ranged and melee attacks can only be performed against enemies within line-of-sight, which means that a line can be drawn from any corner of the attacker’s hex to any corner of the defender’s hex without touching any part of a wall (the line edge of a map tile or the entire area of any partial hex along the edge of a map tile, unless covered by an overlay tile). Only walls block line-of-sight. In addition, **any ability** which specifies a range can only be performed on a figure within line-of-sight. If a non-attack ability does not specify a range, then line-of-sight is not required. Also note that two hexes separated by a wall line are not considered adjacent, and range cannot be counted through walls.
