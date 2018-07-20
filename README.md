@@ -211,3 +211,54 @@ When setting up a new scenario, the first step is to look in the scenario book t
 - The available starting character locations, depicted by ![Starting location](img/icons/general/starting-location.png) (r) . Players can choose to place their figures on any empty ![Starting location](img/icons/general/starting-location.png) hex at the start of the scenario.
 - The type of traps used in this scenario (s) and the reward for looting any treasure tiles on the board (t). The numbers for the treasures are referenced in the back of the Scenario Book, so that rewards are kept secret.
 - Locations of money tokens (u) and overlay tiles (v) to be placed on the map when the room tile is revealed.
+
+---
+**<p align="right">Page 14</p>**
+
+---
+
+## Overlay Tiles
+
+A scenario is constructed from a set of map tiles as instructed in the Scenario Book. Additionally, there will be special overlay tiles to fill out the encounter.
+
+**TYPES OF OVERLAY TILES:**
+
+- **Doors** ![Door colour](img/misc/colour-door.png). A door acts as a separation between two rooms. When a character moves onto a closed door tile, they immediately flip over the door tile to the open side, revealing the adjacent room tile. Immediately place overlay tiles, monsters, and money tokens as indicated in the scenario description for the revealed room. While closed doors do not hinder character movement at all, they act as a wall for any monsters or character-summoned figures, and figures cannot be forced through a closed door. Open doors do not hinder any movement and cannot be closed. Door art varies by environment type, but they all function exactly the same.
+- **Corridors** ![Corridor colour](img/misc/colour-corridor.png). A corridor is placed on the connection of two map tiles to cover the walls and create a single room out of multiple map tiles. Corridors act like normal empty hexes.
+- **Traps** ![Trap colour](img/misc/colour-trap.png). A trap is sprung when a figure enters its hex with normal or forced movement. Flying ![Flying](img/icons/general/flying.png) and Jump ![Jump](img/icons/general/jump.png) movements are unaffected by traps. When a trap is sprung, it inflicts some negative effect on the figure who sprung it and then it is **removed from the board**. A trap can also be disarmed through specific actions to remove it from the board without suffering its negative effects. Trap effects are varied and are specified in the Scenario Book. If part of a trap’s effect is listed as “damage,” the trap will inflict **2+L damage** on the affected figure, where L is the **scenario level**. Characters and monsters can also create traps on the board, with the effects specified by the ability that creates the trap. Whenever a trap is placed on the board, tokens for the damage and effects the trap applies should be placed on top of the trap tile for easy reference.
+- **Hazardous terrain** ![Harzardous terrain colour](img/misc/colour-hazardous.png). If a figure enters a hex with hazardous terrain via normal or forced movement, each hex will inflict half the damage of a trap (rounded down). Flying ![Flying](img/icons/general/flying.png) and Jump ![Jump](img/icons/general/jump.png) movements are unaffected by hazardous terrain. Unlike traps, hazardous terrain does not get removed after its effect is applied, but instead remains on the board indefinitely. Starting a turn on or exiting these hexes does not cause additional damage.
+- **Difficult terrain** ![Difficult terrain colour](img/misc/colour-difficult.png). It takes a figure two normal movement points to enter a hex with difficult terrain. Flying ![Flying](img/icons/general/flying.png), Jump ![Jump](img/icons/general/jump.png), and forced movements are unaffected by difficult terrain.
+- **Obstacles** ![Obstacles colour](img/misc/colour-obstacle.png). Obstacles have varying artwork, but they all have the same function: figures cannot move through obstacles with a normal movement, but can move through them with a Flying ![Flying](img/icons/general/flying.png) or Jump ![Jump](img/icons/general/jump.png) movement. **Obstacles do not hinder ranged attacks.** It is possible for certain character abilities to create or move obstacles. When doing so, players can never completely cut off one area of the scenario map from another, such that the area cannot be moved into without going through the obstacles.
+
+---
+**<p align="right">Page 15</p>**
+
+---
+
+- **Treasure** ![Treasure colour](img/misc/colour-treasure.png). Treasure tiles can be looted by a player (see Loot on p. 27 for details) for a variety of effects. There are two types of treasure tiles: “goal” tiles and numbered tiles. Goal tiles are important for the completion of a scenario, and the rules for looting them will be specified by the scenario. “Goal” tiles are reset every time a scenario is played. Numbered tiles can provide a number of different benefits. When one is looted, the looting player should immediately reference the number of the tile with the treasure index in the back of the scenario book to discover what was looted. If a **specific item name** is listed, find this item in the deck of unique items and immediately add it to your pool of items. If an **item design** is listed, find all copies of that item and add them to the city’s available supply. **Numbered treasure tiles can only be looted once.** After they have been looted, they should be crossed off in the Scenario Book as a reminder.
+
+## Scenario Level
+
+**Monster base statistics**, **trap damage**, the **amount of gold received from money tokens**, and the **amount of bonus experience for completing a scenario** are all dependent on the level of the scenario being played. The **scenario level** is chosen by the players before the scenario begins and is based on the average level of the party and how difficult the players want the scenario to be.
+
+A scenario’s level can be set to any number from 0 to 7, but cannot be changed once the scenario begins. The **recommended** scenario level is equal to the average level of the characters in the party, divided by 2 and rounded up; this would be considered “Normal” difficulty. If players desire an “Easy” experience, they can reduce the recommended scenario level by 1. If a more difficult experience is desired, the scenario level can be raised by 1 for “Hard” or 2 for “Very Hard.”
+
+Difficulty | Level modification
+-----------|-------------------
+Easy       | -1
+Normal     | +0
+Hard       | +1
+Very Hard  | +2
+
+Scenario level | Monster level | Gold conversion | Trap damage | Bonus experience
+---------------|---------------|-----------------|-------------|-----------------
+0|0|2|2|4
+1|1|2|3|6
+2|2|3|4|8
+3|3|3|5|10
+4|4|4|6|12
+5|5|4|7|14
+6|6|5|8|16
+7|7|6|9|18
+
+***Example**: If a party contains a Level 6 character, two Level 4 characters, and a Level 3 character, the average would be 4.25; divided by 2 and rounded up is 3, so a normal scenario difficulty level would be 3. The choice of scenario level is completely up to the players. Higher scenario levels will result in more difficult monsters, but will also yield more gold and experience.*
