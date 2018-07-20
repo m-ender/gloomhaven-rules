@@ -374,3 +374,61 @@ Once everything is placed in the new room, any present monster types without an 
 **Melee attacks** have no accompanying range value and are considered to have a default range of 1 hex, which means they typically target adjacent enemies.
 
 **Line-of-sight:** All ranged and melee attacks can only be performed against enemies within line-of-sight, which means that a line can be drawn from any corner of the attacker’s hex to any corner of the defender’s hex without touching any part of a wall (the line edge of a map tile or the entire area of any partial hex along the edge of a map tile, unless covered by an overlay tile). Only walls block line-of-sight. In addition, **any ability** which specifies a range can only be performed on a figure within line-of-sight. If a non-attack ability does not specify a range, then line-of-sight is not required. Also note that two hexes separated by a wall line are not considered adjacent, and range cannot be counted through walls.
+
+---
+**<p align="right">Page 20</p>**
+
+---
+
+When attacking, the base attack value written on the card can be modified by three types of values in the following order. Repeat these steps for each individual enemy targeted by the attack: 
+
+- An **attacker’s attack modifiers** are applied first. These modifiers include bonuses and penalties from active ability cards, items, and other sources (e.g., +1 Attack from POISON). 
+- Next, an **attack modifier card** is drawn from the attacker’s attack modifier deck and applied. 
+- Lastly, the **defender’s defensive bonuses** are applied. This reduces the incoming attack value for each individual enemy targeted based on each defender’s own shield modifier or other defensive bonuses. 
+- If there are multiple modifiers in any single step of this process, the player chooses the order in which they are applied. Also note that because the bonuses are applied **per target**, it is possible for the same attack action to ultimately deal different damage to each enemy it targets.
+
+***Example:** The Scoundrel performs an “Attack 3” ability on an adjacent elite Bandit Guard. The Scoundrel adds a +2 attack modifier because of specific conditions set by the card and also is allowed to double the attack because of an active card in front of her. She chooses to add the +2, then doubles the result, resulting in an “Attack 10.” She then plays an attack modifier card to reveal a “-1,” so the attack is reduced to 9. Finally, the Bandit Guard has a shield value of 1, so the attack value is reduced to 8 and the bandit suffers 8 damage.*
+
+Any damage suffered by a monster should be tracked on the stat sleeve in the section corresponding to the number on the specific monster’s standee. When a monster is brought to zero or fewer hit points by an attack or any source of damage, that monster immediately dies and is removed from the board. Any additional effects of an attack are not applied once a monster dies.
+
+**When a monster dies, a money token is also placed on the hex where it died if the monster was not summoned or spawned.**
+
+#### ADVANTAGE AND DISADVANTAGE
+
+Some attacks may have either **Advantage** or **Disadvantage**.
+
+- ![Advantage](img/rulebook/advantage.png)
+  
+  An attacker with **Advantage** will draw two modifier cards from their deck and use whichever one is **better** (a). If one rolling modifier card was drawn, its effect is added to the other card played (b). If two rolling modifier cards were drawn, continue to draw cards until a rolling modifier is not drawn and then add together all drawn effects (c).
+- ![Disadvantage](img/rulebook/disadvantage.png)
+
+  An attacker with **Disadvantage** will draw two modifier cards from their deck and use whichever one is **worse** (d). Rolling modifiers are disregarded in the case of Disadvantage (e). If two rolling modifier cards were drawn, continue to draw cards until a rolling modifier is not played and then only apply the effect of the last card drawn (f).
+
+---
+**<p align="right">Page 21</p>**
+
+---
+
+If there is ambiguity about which card drawn is better or worse, use whichever card was drawn first. Ambiguity can occur when comparing one or more added effects provided by attack modifier cards (e.g., elemental infusions, negative conditions, etc.) All added effects should be considered to have a positive but undefined numerical value.
+
+Instances of Advantage and Disadvantage are mostly gained by specific character or monster abilities. However, any ranged attack targeting an adjacent enemy also gains Disadvantage for that target. Instances of Advantage or Disadvantage don’t stack, and if an attack has instances of both Advantage and Disadvantage, they cancel out each other and the attack is performed normally.
+
+#### AREA EFFECTS
+
+Some attacks and other abilities allow figures to target multiple hexes or multiple targets at the same time. In these cases, the area of effect for the ability is shown on the ability card. **Note that any rotational orientation of the depicted diagram is valid. Also note that each target constitutes a separate *attack* (drawing its own attack modifier card), but all attacks together make up a single *attack action*.**
+
+![Area of Effect: attacker](img/icons/general/aoe-attacker.png) Grey indicates the hex on which the figure is currently located. An area attack which includes a grey hex is always considered a melee attack.
+
+![Area of Effect: target](img/icons/general/aoe-target.png) Red indicates the hexes with enemies affected by the ability.
+
+For a ranged area attack, only one of the red hexes needs to be within the range specified, and it does not need to contain an enemy. However, for both ranged and melee area attacks, **you can only attack enemies in hexes you have line of sight to**.
+
+![AoE example 1](img/rulebook/aoe-example-1.png) | ![AoE example 2](img/rulebook/aoe-example-2.png)
+-|-
+***Example:** This attack indicates that the figure can perform a ranged “Attack 4” on a cluster of three hexes as long as at least one of those hexes is within Range 3.* | ***Example:** This attack indicates that the figure can perform a melee “Attack 3” on the cluster of three hexes.*
+
+![Target](img/icons/general/target.png) Some attacks are accompanied by a “Target X” value, which means the character can target X number of different enemies within the attack’s range with the attack.
+
+For any attack that targets multiple enemies, an attack modifier card is drawn for **each target**. It is not possible to target the same enemy with multiple attacks from the same ability. **Note:** Abilities can **never** target allies (positive abilities meant for allies will use the term “affect” instead of “target”). An ally can be within the affected area of an attack, but **they will not be targeted by it.**
+
+Note also that as long as an attack does not specify range, it is considered melee, such that it is possible to attack a non-adjacent target with a melee attack if hex configuration allows.
