@@ -90,3 +90,22 @@ A monster stat sleeve should be used to track damage and condition tokens and to
 - A monster’s **attack** value (g), the base amount of damage the monster does with an **Attack** action.
 - A monster’s **range** value (h), which is the base number of hexes away from the monster’s own hex that the monster can reach with an attack or a heal. A “–” as the range value signifies the monster’s normal **Attack** action can only target adjacent hexes (i.e., a **melee** attack).
 - Any special traits this monster type possesses (i). These traits are permanent and persist from round to round. These traits may include Flying, which is symbolized by ![Flying](img/icons/general/flying.png) (j) next to the monster’s name (see Move on p. 19 for details).
+
+## Monster Ability Cards
+
+Each round, after players have selected their own ability cards, one card is played for each monster type currently on the board from their respective decks of monster ability cards. These cards determine which abilities each monster of that type—both normal and elite—will perform during the round on its turn.
+
+**A MONSTER ABILITY CARD INCLUDES:**
+
+![Monster Statistics Card](img/rulebook/monster-ability-card.png)
+
+- The name of the monster type (a). Sometimes, multiple monster types use the same, more generic ability deck. For instance, Bandit Guards, City Guards, and Inox Guards all use the same “Guard” deck.
+- An initiative number (b). This number will determine when every monster of that type will act in a given round (see Determining Initiative on p. 18 for details).
+- A list of abilities (c). A monster will perform each of these abilities in the order listed (if possible) and then end its turn (see Monster Turn on pp. 29–32 for details).
+- A shuffle symbol (d). If this symbol appears on a card, shuffle the corresponding monster’s ability discard pile back into the draw deck at the end of the round.
+
+## Battle Goal Cards
+
+![Monster Statistics Card](img/rulebook/battle-goal-card.png)
+
+**At the beginning of every scenario, each character receives two battle goal cards in secret and chooses one to keep, discarding the other.** If the scenario is successfully completed and the character meets the criteria of the chosen card (a), he or she will earn a number of **checkmarks** as specified on the bottom of the card (b). Checkmarks are used to enhance a player’s attack modifier deck (see Additional Perks on p. 44 for details). If the scenario resulted in failure, the character receives nothing from his or her battle goal card, regardless of whether the goal was achieved. Players can keep track of their battle goal progress using notes if necessary. Players should keep their battle goals secret from one another until the scenario is over.
