@@ -74,9 +74,9 @@ Playing ability cards is what allows a character to perform **actions** in a sce
 
 Item cards are acquired by spending gold in between scenarios or looting specific treasure tiles. All item cards a character equips will be placed below his or her character mat and can be used during a battle to augment his or her abilities. Item cards are not class-specific, so any character can use any item. However, characters are limited in the number of items they can **equip** (bring into a scenario). Each character can equip only one ![Head item](img/icons/items/head.png) item, one ![Body item](img/icons/items/body.png) item, one ![Legs item](img/icons/items/legs.png) item, up to two ![Two Hands item](img/icons/items/two-hands.png) items **OR** one ![One Hand item](img/icons/items/one-hand.png) item, and up to a number of ![Small item](img/icons/items/small-item.png) equal to half their level, rounded up. **Characters cannot own more than one copy of any item card.**
 
-Head | Body | Legs | One Hand | Two Hands | Small Item
------|------|------|----------|-----------|-----------
 ![Head item](img/icons/items/large/head.png) | ![Body item](img/icons/items/large/body.png) | ![Legs item](img/icons/items/large/legs.png) | ![Two Hands item](img/icons/items/large/two-hands.png) | ![One Hand item](img/icons/items/large/one-hand.png) | ![Small item](img/icons/items/large/small-item.png)
+-----|------|------|----------|-----------|-----------
+Head | Body | Legs | One Hand | Two Hands | Small Item
 
 **AN ITEM CARD INCLUDES:**
 
@@ -262,3 +262,61 @@ Scenario level | Monster level | Gold conversion | Trap damage | Bonus experienc
 7|7|6|9|18
 
 ***Example**: If a party contains a Level 6 character, two Level 4 characters, and a Level 3 character, the average would be 4.25; divided by 2 and rounded up is 3, so a normal scenario difficulty level would be 3. The choice of scenario level is completely up to the players. Higher scenario levels will result in more difficult monsters, but will also yield more gold and experience.*
+
+---
+**<p align="right">Page 16</p>**
+
+---
+
+## Game Variant: Open Information and Solo Play
+
+A single player can play the game as a solo experience by controlling two or more characters at once. Part of the game’s difficulty, however, comes from not knowing exactly what the other characters will be doing on their turn. Because a solo player has precise information about what each character is doing and can coordinate more effectively, the game becomes easier. To compensate for this, solo players should **increase the monster level and trap damage by 1 for any given scenario without increasing gold conversion and bonus experience.**
+
+Scenario level | Monster level | Gold conversion | Trap damage | Bonus experience
+---------------|---------------|-----------------|-------------|-----------------
+0|1|2|3|4
+1|2|2|4|6
+2|3|3|5|8
+3|4|3|6|10
+4|5|4|7|12
+5|6|4|8|14
+6|7|5|9|16
+
+Additionally, if they wish, a group of players may also play with fully open information by increasing the difficulty in the same way as for solo play. Playing with open information means that players can share the exact contents of their hands and discuss specific details about what they plan on doing. **This is not the recommended way to play the game**, but it may be desirable for certain groups.
+
+# Round Overview
+
+A scenario consists of a series of **rounds** that are played until players either meet the victory conditions of the scenario or fail the scenario. A round consists of the following steps:
+
+1. **Card selection:** Each player will either select two cards from his or her hand to play or declare he or she is performing a **long rest action** for the round.
+2. **Determining initiative:** Players reveal their cards for the round, and an ability card for each monster type currently in play is also revealed. An initiative order is then determined based on the initiative values of these revealed cards.
+3. **Character and monster turns:** Starting with the lowest initiative, players and monsters will act out their **turns**, performing the actions on their cards, possibly modified by character item cards.
+4. **Cleanup:** Some cleanup may be required at the end of the round (see End of Round on p. 32 for details).
+
+## Card Selection
+
+At the beginning of a round, each player will secretly select two cards from his or her hand to play facedown in front of them. Of the two cards, one should be selected as the **leading card**, which will determine the player’s order in the initiative for the round (see Determining Initiative on p. 18 for details).
+
+---
+**<p align="right">Page 17</p>**
+
+---
+
+Players should not show other players the cards in their hands nor give specific information about **any numerical value or title** on any of their cards. They are, however, allowed to make general statements about their actions for the round and discuss strategy. 
+- **Examples of appropriate communication:** “I’m attacking this guard near the middle of the round.”; “I’m planning on moving here and healing you pretty early in the round, hopefully before the monsters attack.” 
+- **Examples of inappropriate communication:** “You’ll need lower than an initiative 17 to go before me.”; “I should be doing 4 points of damage to the bandit, so you don’t have to worry about him.”; “I’m going to use Impaling Eruption and wipe out everyone.”
+
+During a player’s turn, the two played cards will be used to perform actions and then are either **discarded**, **lost**, or **activated**, depending on the actions that were taken. Played cards are normally placed in a player’s **discard pile** unless otherwise noted. **Discarded** cards can be returned to a player’s **hand** through **resting** (see below). If the performed action from a card contains a ![Loss](img/icons/general/loss.png) symbol in the lower right of the action field, the card is instead placed in a player’s **lost pile**. Lost cards can only be returned to a player’s hand during a scenario by using a special **recover** action. Whether the corresponding card is lost or discarded, some actions may contain an **active** effect (denoted by the symbols at right). Instead of being placed in the discard or lost pile, the card is placed in the **active area** in front of the player to keep track of the effect. Once the effect wears off, the card is then transferred to the appropriate pile (see Active Bonuses on pp. 25–26 for details).
+
+![Lost](img/icons/general/large/loss.png) | ![Recover](img/icons/general/large/recover.png) | ![Persistent Bonus](img/icons/general/large/persistent-permanent.png) | ![Round Bonus](img/icons/general/large/persistent-round.png)
+-----|------|------|----------
+Lost | Recover | Persistent Bonus (Active Effect) | Round Bonus (Active Effect)
+
+Players **must** either play two cards from their hand or declare a **long rest action** at the beginning of **every** round. If a player only has one card or no cards in their hand, the long rest action is their only option. If this option is **also** not available at the beginning of a round because a player has only one card or no cards in their discard pile as well, that player is considered **exhausted** and can no longer participate in the scenario (see Exhaustion on p. 28 for details).
+
+**RESTING**
+
+Resting is the main way players can return discarded cards back into their hand of available cards. A player has two options when resting: a **short rest** or a **long rest**. In both cases, the rest action can -**only** be taken if a player has two or more cards in his or her discard pile, and a rest action **always** results in losing one of the discarded cards.
+
+- **Short rest:** During the cleanup step of a round, a player can perform a short rest. This allows that player to immediately shuffle his or her discard pile and **randomly** place one of the cards in the lost pile, then return the rest of the discarded cards to his or her hand. If the player would like to instead **keep** the card that was randomly lost, he or she can choose to suffer 1 damage and **randomly** lose a **different** discarded card, but this can only be done once per rest.
+- **Long rest:** A long rest is declared during the card selection step of a round and constitutes the player’s entire turn for the round. Resting players are considered to have an initiative value of 99. On the player’s turn, at the end of the initiative order, he or she must **choose** to lose one of his or her discarded cards, then return the rest of the discarded cards to his or her hand. The resting character also **performs a “Heal ![Heal](img/icons/general/heal.png) 2, Self” action and refreshes all of his or her spent item cards.**
