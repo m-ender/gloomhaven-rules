@@ -57,3 +57,18 @@ Item cards are acquired by spending gold in between scenarios or looting specifi
 Head | Body | Legs | One Hand | Two Hands | Small Item
 -----|------|------|----------|-----------|-----------
 ![Head item](img/icons/items/large/head.png) | ![Body item](img/icons/items/large/body.png) | ![Legs item](img/icons/items/large/legs.png) | ![Two Hands item](img/icons/items/large/two-hands.png) | ![One Hand item](img/icons/items/large/one-hand.png) | ![Small item](img/icons/items/large/small-item.png)
+
+**AN ITEM CARD INCLUDES:**
+
+![Item card](img/rulebook/item-card.png)
+
+- The name of the item (a) and the amount of gold a character must pay to acquire the item from the shop (b).
+- What happens to the card after it is used (c). 
+  - This symbol ![Spend](img/icons/general/spend.png) means the item is **spent** after use, which is denoted by rotating the card to its side. Spent cards can be refreshed when a character performs a long rest (see Resting on p. 17 for more details). Sometimes an item is used multiple times before it is spent or consumed. This is depicted by use slots (d) on the card and can be tracked using a character token. 
+  - This symbol ![Consume](img/icons/general/loss.png) (not pictured) means the item is **consumed** after use, which is shown by flipping the card facedown. Consumed cards can only be refreshed **during a scenario** by specific abilities. **All items are refreshed between scenarios.** No item can be permanently consumed. 
+  - If a card depicts neither of these symbols, there are no restrictions on the number of times it can be used during a scenario, other than what is written in the text of the card.
+- When the item can be used and the bonus gained by the character when the item card is used (e).
+- The equip slot (Head, Body, Legs, One Hand, Two Hands, Small Item) the item occupies (f).
+- Some equipped items add a number of ![Penalty attack modifier cards](img/misc/penalty-card.png) cards to the equipping character’s attack modifier deck at the start of a scenario. If this is the case, the number of modifier cards is specified on the item (g).
+- A count of how many of this item are in the game (h) and where this card lies within that count (i).
+- Reference number for the item (j), which is on the back of the card.
