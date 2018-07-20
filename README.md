@@ -1,6 +1,11 @@
 # Gloomhaven Rule Book
 An inofficial light-weight, searchable copy of the rule book.
 
+---
+**<p align="right">Pages 4 and 5</p>**
+
+---
+
 # Play Overview
 
 The following section will teach you the mechanics for playing through an individual scenario, using the first one in the Scenario Book, **Black Barrow**, as an example.
@@ -20,6 +25,11 @@ The following section will teach you the mechanics for playing through an indivi
 - Piles of damage tokens (n), money tokens (o), and condition tokens (p).
 - The elemental infusion table (q) with all six elements set in the “Inert” column.
 
+---
+**<p align="right">Page 6</p>**
+
+---
+
 ## Character Mats
 
 When a player begins their journey with the game, he or she will select one of the available character classes to play. Only one copy of each character class can be played in any given scenario. Each class has a unique set of abilities, so this is an important decision to make. When the box is first opened, the Brute ![Brute](img/icons/class/01.png), Tinkerer ![Brute](img/icons/class/02.png), Spellweaver ![Brute](img/icons/class/03.png), Scoundrel ![Brute](img/icons/class/04.png), Cragheart ![Brute](img/icons/class/05.png), and Mindthief ![Brute](img/icons/class/06.png) are available.
@@ -37,6 +47,11 @@ Once a character class has been chosen, the player takes the corresponding chara
 - Designations along the border (j) for where to place **discarded**, **lost**, and **active** cards.
 - The reference number of the event cards (k) added to each deck when the character class is unlocked (not present on the six starting classes) and of event cards (l) added the first time the character class retires (see Announcing Retirement on p. 48 for details). These reference numbers apply to both city and road event decks.
 
+---
+**<p align="right">Page 7</p>**
+
+---
+
 ## Character Ability Cards
 
 Playing ability cards is what allows a character to perform **actions** in a scenario. Each round players choose two ability cards and use the **top action** of one card and the **bottom action** of the other card, resulting in two **actions** for each player on his or her turn. All ability cards are specific to a character class and are acquired when starting a new character or by leveling up.
@@ -49,6 +64,11 @@ Playing ability cards is what allows a character to perform **actions** in a sce
 - An initiative number (b). The initiative number of the leading card played determines a player’s order in the initiative of a given round (see Determining Initiative on p. 18 for more details).
 - The level of the class card (c). A character starting at Level 1 can only use their Level 1 cards (or, alternately, Level X cards), but a character gains more powerful cards as they level up to add to their pool of available ability cards.
 - A top action (d) and bottom action (e). When the two ability cards are played on a player’s turn, one is used for the top action and the other for the bottom action. Note that a single **action** can contain several separate **abilities** (f). (See Character Turn on pp. 18–28 for more details on character actions.)
+
+---
+**<p align="right">Page 8</p>**
+
+---
 
 ## Item Cards
 
@@ -73,6 +93,11 @@ Head | Body | Legs | One Hand | Two Hands | Small Item
 - A count of how many of this item are in the game (h) and where this card lies within that count (i).
 - Reference number for the item (j), which is on the back of the card.
 
+---
+**<p align="right">Page 9</p>**
+
+---
+
 ## Monster Statistics Cards
 
 Monster statistic cards give easy access to the base statistics of a given monster type for both its normal and elite variants. A monster’s base statistics will vary depending on the **scenario level** (see Scenario Level on p. 15 for details). Each edge of the cards, on both sides, reflects the statistics for a given scenario level. Rotate or flip the card to show the required level.
@@ -90,6 +115,11 @@ A monster stat sleeve should be used to track damage and condition tokens and to
 - A monster’s **attack** value (g), the base amount of damage the monster does with an **Attack** action.
 - A monster’s **range** value (h), which is the base number of hexes away from the monster’s own hex that the monster can reach with an attack or a heal. A “–” as the range value signifies the monster’s normal **Attack** action can only target adjacent hexes (i.e., a **melee** attack).
 - Any special traits this monster type possesses (i). These traits are permanent and persist from round to round. These traits may include Flying, which is symbolized by ![Flying](img/icons/general/flying.png) (j) next to the monster’s name (see Move on p. 19 for details).
+
+---
+**<p align="right">Page 10</p>**
+
+---
 
 ## Monster Ability Cards
 
@@ -109,6 +139,11 @@ Each round, after players have selected their own ability cards, one card is pla
 ![Battle Goal Card](img/rulebook/battle-goal-card.png)
 
 **At the beginning of every scenario, each character receives two battle goal cards in secret and chooses one to keep, discarding the other.** If the scenario is successfully completed and the character meets the criteria of the chosen card (a), he or she will earn a number of **checkmarks** as specified on the bottom of the card (b). Checkmarks are used to enhance a player’s attack modifier deck (see Additional Perks on p. 44 for details). If the scenario resulted in failure, the character receives nothing from his or her battle goal card, regardless of whether the goal was achieved. Players can keep track of their battle goal progress using notes if necessary. Players should keep their battle goals secret from one another until the scenario is over.
+
+---
+**<p align="right">Page 11</p>**
+
+---
 
 ## Attack Modifier Cards
 
