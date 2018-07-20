@@ -432,3 +432,61 @@ For a ranged area attack, only one of the red hexes needs to be within the range
 For any attack that targets multiple enemies, an attack modifier card is drawn for **each target**. It is not possible to target the same enemy with multiple attacks from the same ability. **Note:** Abilities can **never** target allies (positive abilities meant for allies will use the term “affect” instead of “target”). An ally can be within the affected area of an attack, but **they will not be targeted by it.**
 
 Note also that as long as an attack does not specify range, it is considered melee, such that it is possible to attack a non-adjacent target with a melee attack if hex configuration allows.
+
+---
+**<p align="right">Page 22</p>**
+
+---
+
+#### ATTACK EFFECTS
+
+Attack abilities will often have effects that increase their power. If an attack effect is listed on an ability card after an attack, the target (or targets) of the attack is subject to the additional effect as well, after damage from the attack is resolved. **Attack effects are applied regardless of whether the corresponding attack does damage.** These effects (except experience gains) are optional and can be skipped. Some character actions can also apply these effects without an attack, and in such cases the target of the effect is written on the ability card.
+
+![Push](img/icons/status/push.png) **PUSH X** – The target is forced to move X hexes in a direction specified by the attacker, but each hex moved must place the target **farther away from** the attacker than it was previously. If there are no viable hexes into which to push the target, the push ends. The target can be pushed through its allies, but not its enemies.
+
+![Pull](img/icons/status/pull.png) **PULL X** – The target is forced to move X hexes in a direction specified by the attacker, but each hex moved must place the target **closer to** the attacker than it was previously. If there are no viable hexes into which to pull the target, the pull ends. The target can be pulled through its allies, but not its enemies. Both push and pull effects are considered movements, however, they are not affected by difficult terrain.
+
+![Pierce](img/icons/status/pierce.png) **PIERCE X** – Up to X points of the target’s Shield are ignored for the attack. Unlike other effects, PIERCE is applied while calculating the accompanying attack damage instead of afterwards.
+
+***Example:** an Attack 3 PIERCE 2 ability used on a monster with Shield 3 would ignore two of the monster’s Shield points and inflict 2 damage (modified by an attack modifier card).*
+
+![Add Target](img/icons/status/add-target.png) **ADD TARGET** – If a figure triggers this effect with an attack action, the figure may add an additional target within range to their attack. All added effects and conditions of the attack action are applied to the target, as well, except for effects that would result in additional targets outside of the original added target (e.g., area attacks).
+
+### CONDITIONS
+
+Certain abilities may apply conditions to their targets. When a condition is applied to a figure (except CURSE and BLESS), the respective token is placed on the stat sleeve in the section corresponding the number on the specific monster’s standee to signify the effect. The condition remains on the figure until the requirements for removing the specific effect are met. Only one of each condition type may be applied to any single figure at a time, however conditions can be reapplied to refresh their duration.
+
+The following are **negative conditions**. If an ability has the name of one of these conditions contained within it, then the condition is applied to all targets of the ability, after the main effect of the ability is applied. Conditions are applied regardless of whether the corresponding attack does damage.
+
+![Poison](img/icons/status/poison.png) **POISON** – If a figure is poisoned, all enemies add +1 Attack to all of their attacks targeting the figure. If a Heal ability is used on a poisoned figure, the POISON token is removed, and the Heal has no other effect.
+
+![Wound](img/icons/status/wound.png) **WOUND** – If a figure is wounded, it suffers one point of damage at the start of each of its turns. If a Heal ability is used on a wounded figure, the WOUND token is removed and the Heal continues normally. If a figure is both poisoned and wounded, a Heal ability would remove both conditions but have no other effect.
+
+![Immobilize](img/icons/status/immobilize.png) **IMMOBILIZE** – If a figure is immobilized, it cannot perform any **move** abilities on its turn. At the end of its next turn, the IMMOBILIZE token is removed.
+
+---
+**<p align="right">Page 22</p>**
+
+---
+
+![Disarm](img/icons/status/disarm.png) **DISARM** – If a figure is disarmed, it cannot perform any **attack** abilities on its turn. At the end of its next turn, the DISARM token is removed.
+
+![Stun](img/icons/status/stun.png) **STUN** – If a figure is stunned, it cannot perform **any** abilities or use items on its turn **except to perform a long rest** (in the case of characters). At the end of its next turn, the STUN token is removed. Players must still play two cards or rest on their turn, and if a player plays two cards while stunned, the actions played are not used, and the cards are simply discarded.
+
+![Muddle](img/icons/status/muddle.png) **MUDDLE** – If a figure is muddled, it gains Disadvantage on all of its attacks. At the end of its next turn, the MUDDLE token is removed.
+
+![Curse](img/icons/status/curse.png) **CURSE** – If a figure is cursed, it must shuffle a CURSE card into its remaining attack modifier deck. When this card is revealed through one of the figure’s attacks, it is removed from the deck instead of being placed into the attack modifier discard pile. Note that there are two separate curse decks: 10 cards with a ![Monster icon](img/misc/monster.png) in the lower left corner and 10 cards with an ![Star icon](img/misc/star.png). ![Monster icon](img/misc/monster.png) cards can only be placed in the monster attack deck (when a monster is cursed), and ![Star icon](img/misc/star.png) cards can only be placed in a character's attack deck (when a character or character summon is cursed). Thus, a maximum of only 10 curse cards can be placed into any one deck.
+
+The following are **positive conditions**. Figures can apply positive conditions to themselves or allies through specific actions. Positive conditions cannot be prematurely removed.
+
+![Invisible](img/icons/status/invisible.png) **INVISIBLE** – If a figure is invisible, it cannot be focused on or targeted by an enemy. Invisibility does not affect a figure’s interactions with his or her allies. At the end of its next turn, the INVISIBLE token is removed. Monsters treat invisible characters exactly as if they were obstacles.
+
+![Strengthen](img/icons/status/strengthen.png) **STRENGTHEN** – If a figure is strengthened, it gains Advantage on all of its attacks. At the end of its next turn, the STRENGTHEN token is removed.
+
+![Bless](img/icons/status/bless.png) **BLESS** – If a figure is blessed, it must shuffle a BLESS card into its remaining attack modifier deck. When this card is revealed through one of the figure’s attacks, it is removed from the deck instead of being placed into the attack modifier discard pile.
+
+### ELEMENTAL INFUSIONS
+
+![Elemental infusion](img/rulebook/elemental-infusion.png)
+
+Some abilities have an elemental affinity associated with them (either **Fire**, **Ice**, **Air**, **Earth**, **Light**, or **Dark**). If any of these symbols is visible by itself in an action’s description (a), it means that by performing any part of the action, the figure must infuse the battlefield with that element. This is represented by moving the corresponding element’s token to the “Strong” column of the elemental infusion table **at the end of the turn** in which the ability was used.
