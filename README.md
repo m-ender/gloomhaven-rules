@@ -175,3 +175,39 @@ A shuffle symbol (j). At the end of the round in which a “Null” ![Null card]
 ![Modifier type icons](img/rulebook/modifier-type-icons.png)
 
 A type icon (k). All standard attack modifier decks have a 1, 2, 3, 4, or M icon (l) for easy sorting, such that all cards with a given icon form the standard 20-card deck. All cards a character class adds to their modifier decks through perks (see Leveling Up on pp. 44–45 for details) have the symbol of that character class (m). Cards added to a modifier deck by a scenario or item effect have a ![Star icon](img/misc/star.png) icon (n). These cards should be removed at the end of a scenario.
+
+---
+**<p align="right">Page 12</p>**
+
+---
+
+# Scenario Setup
+
+When setting up a new scenario, the first step is to look in the scenario book to set up the map tiles and prepare all the monster types you will be fighting. Then read the introduction text and apply any negative scenario effects from the “Special Rules” section. Next, two battle goals should be dealt to each player, one of which will be discarded. Players can then decide which items they would like to equip from the collection of items they own (adding in -1 cards to their attack modifier decks when applicable). Next, players should decide which ability cards they would like to put in their hand, choosing from the pool of those available to them. A player must select a number of cards equal to his or her character’s hand size. When first starting the game, a player’s hand should only consist of the set of **Level 1** ability cards for the character’s class. Once a player has become familiar with the class, he or she can begin substituting out Level 1 cards for the more complex cards with **X** as the level. Once the character begins to level up, he or she will also get access to higher level cards to add to his or her hand by pulling others out. After players select their hand, any effects of a preceding road event or city event are applied (see Traveling and Road Events on p. 41 for details).
+
+## Scenario Page
+
+![Scenario page](img/rulebook/scenario-page.png)
+- The name (a), reference number (b), and grid location (c) of the scenario with completion check box.
+- Any achievements (d) required to play the scenario in a campaign.
+- The victory conditions (e).
+- When playing the scenario as part of a campaign, the page provides introductory text (f), additional story points (g) that are read when entering the corresponding hex on the board (h), and concluding text (i) to be read when the victory condition is met.
+- The name, reference number, and grid location of any new scenario locations (j) unlocked by completing the scenario within a campaign.
+- Any other rewards (k) earned by completing the scenario when in a campaign.
+
+---
+**<p align="right">Page 13</p>**
+
+---
+
+- Any locations the scenario links to ((l); see Traveling and Road Events on pp. 41–42 for details).
+- The configuration of map tiles (m) and door tiles (n) to be placed during setup. The specific map tiles needed for each scenario are also given (o). Each scenario map is broken up into separate rooms by door overlay tiles. A room may contain more than one map tile if those tiles are connected by other overlay tiles.
+- <img align="right" alt="Monster key" src="img/rulebook/monster-key.png"> Indications used to populate the scenario map based on the monster key . These indications may be in one of two different orientations depending on the overall orientation of the map. Monster placement is indicated in a symbol’s upper left for two characters, upper right for three characters and bottom for four characters. **BLACK** means the monster is not present, **WHITE** means a normal monster is present, and **GOLD** means an elite monster is present. Normal monsters should be placed on the map with their corresponding standees in white bases, and elite monsters should be placed in gold bases. Example: / indicates which type of monster is placed on this hex, and in this case no monster is placed in for two characters, a normal monster is placed for three characters, and an elite monster is placed for four characters. 
+
+  ***Example:** ![Monster key example](img/misc/monster-key-example.png) indicates which type of monster is placed on this hex, and in this case no monster is placed in for two characters, a normal monster is placed for three characters, and an elite monster is placed for four characters.*
+
+  **Note that only monsters in the starting room are placed at the beginning of a scenario. Monster standees each have a number to determine the order in which they act during the turn (see Order of Action on p. 29 for details). The standee numbers should be randomized when placed.**
+  
+- The available starting character locations, depicted by ![Starting location](img/icons/general/starting-location.png) (r) . Players can choose to place their figures on any empty ![Starting location](img/icons/general/starting-location.png) hex at the start of the scenario.
+- The type of traps used in this scenario (s) and the reward for looting any treasure tiles on the board (t). The numbers for the treasures are referenced in the back of the Scenario Book, so that rewards are kept secret.
+- Locations of money tokens (u) and overlay tiles (v) to be placed on the map when the room tile is revealed.
