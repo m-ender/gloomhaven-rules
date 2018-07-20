@@ -72,3 +72,21 @@ Head | Body | Legs | One Hand | Two Hands | Small Item
 - Some equipped items add a number of ![Penalty attack modifier cards](img/misc/penalty-card.png) cards to the equipping character’s attack modifier deck at the start of a scenario. If this is the case, the number of modifier cards is specified on the item (g).
 - A count of how many of this item are in the game (h) and where this card lies within that count (i).
 - Reference number for the item (j), which is on the back of the card.
+
+## Monster Statistics Cards
+
+Monster statistic cards give easy access to the base statistics of a given monster type for both its normal and elite variants. A monster’s base statistics will vary depending on the **scenario level** (see Scenario Level on p. 15 for details). Each edge of the cards, on both sides, reflects the statistics for a given scenario level. Rotate or flip the card to show the required level.
+
+A monster stat sleeve should be used to track damage and condition tokens and to hide the unneeded information for other unused levels.
+
+**A MONSTER STATISTIC CARD INCLUDES:**
+
+![Monster Statistics Card](img/rulebook/monster-stat-card.png)
+
+- The monster’s name (a) and level of the statistic set (b) corresponding to the scenario level.
+- Sections for normal (c) and elite (d) versions of this monster.
+- A monster’s **hit point** value (e), which is the amount of damage that needs to be inflicted on the monster before it dies.
+- A monster’s **movement** value (f), the base number of hexes a monster can move with a **Move** action.
+- A monster’s **attack** value (g), the base amount of damage the monster does with an **Attack** action.
+- A monster’s **range** value (h), which is the base number of hexes away from the monster’s own hex that the monster can reach with an attack or a heal. A “–” as the range value signifies the monster’s normal **Attack** action can only target adjacent hexes (i.e., a **melee** attack).
+- Any special traits this monster type possesses (i). These traits are permanent and persist from round to round. These traits may include Flying, which is symbolized by ![Flying](img/icons/general/flying.png) (j) next to the monster’s name (see Move on p. 19 for details).
