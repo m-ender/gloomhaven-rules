@@ -465,7 +465,7 @@ The following are **negative conditions**. If an ability has the name of one of 
 ![Immobilize](img/icons/status/immobilize.png) **IMMOBILIZE** – If a figure is immobilized, it cannot perform any **move** abilities on its turn. At the end of its next turn, the IMMOBILIZE token is removed.
 
 ---
-**<p align="right">Page 22</p>**
+**<p align="right">Page 23</p>**
 
 ---
 
@@ -490,3 +490,52 @@ The following are **positive conditions**. Figures can apply positive conditions
 ![Elemental infusion](img/rulebook/elemental-infusion.png)
 
 Some abilities have an elemental affinity associated with them (either **Fire**, **Ice**, **Air**, **Earth**, **Light**, or **Dark**). If any of these symbols is visible by itself in an action’s description (a), it means that by performing any part of the action, the figure must infuse the battlefield with that element. This is represented by moving the corresponding element’s token to the “Strong” column of the elemental infusion table **at the end of the turn** in which the ability was used.
+
+---
+**<p align="right">Page 24</p>**
+
+---
+
+![Elemental waning](img/rulebook/elemental-waning.png)
+
+At the end of every round, however, all elemental infusions will wane, moving **one step** to the left in the table, from “Strong” to “Waning” **or** from “Waning” to “Inert.”
+
+![Elemental consumption](img/rulebook/elemental-consumption.png)
+
+Elemental infusions can be used to augment the effects of certain abilities. This augment is represented by an elemental symbol covered with a red ![Consume element](img/icons/elements/consume.png) (b), followed by a colon and how the ability is augmented if the element is consumed. If an ability is used that consumes an element and the corresponding element token is in the Strong or Waning column, that element token **may** be used to augment the ability by moving the token to the Inert column. A single icon cannot be used to consume more than one infusion, and **it is not possible to create an element and consume it on the same turn**, but it may be consumed by anyone with a later turn in the initiative order of the same round.
+
+If an ability contains multiple separate augments, the player may choose which augments to use in any order. If a single augment lists multiple element uses, all elements must be used to activate the augment.
+
+Just like characters, monsters also have the ability to create and consume elements. Monsters always consume elements if they can, and every activated monster of that type will gain the benefit of the consumed element, not just the first monster to consume it.
+
+![Any element](img/icons/elements/any.png) This multi-colored circle represents **any single one** of the six elements. If this symbol is present on a monster’s ability card, the players choose which element is created or consumed.
+
+![Fire](img/icons/elements/large/fire.png) | ![Ice](img/icons/elements/large/ice.png) | ![Air](img/icons/elements/large/air.png) | ![Earth](img/icons/elements/large/earth.png) | ![Light](img/icons/elements/large/light.png) | ![Dark](img/icons/elements/large/dark.png)
+-----|------|------|----------|-----------|-----------
+Fire | Ice | Air | Earth | Light | Dark
+
+---
+**<p align="right">Page 25</p>**
+
+---
+
+### ACTIVE BONUSES
+
+Some abilities can give a character, or his or her allies, bonuses on other abilities, either **persistently** until certain conditions are fulfilled **or** for the rest of the **round**. These abilities are denoted with symbols, and the cards with these effects are played into the **active area** in front of the player to keep track of these bonuses.
+
+**Persistent bonuses** can be identified by the symbol ![Persistent bonus](img/icons/general/persistent-permanent.png) displayed on the card. These ability effects will be active from the time the card is played until the conditions specified on the card are met. These conditions usually track the number of times a particular game event has occurred, such as making or defending against an attack. Place a token on the first marked position of the card’s action and advance it one space each time the effect is triggered, left to right, top to bottom. When the ability has been used once for each space on the card, remove the card from play by placing it in the lost pile. Players **must** use the benefits of a persistent bonus when possible, even if no benefit is gained. If there are no conditions specified or positions marked, the card may remain in the player’s active area for the rest of the scenario and can be removed from play at any time by placing it in the lost pile.
+
+![Persistent bonus example](img/rulebook/persistent-bonus-example.png)
+
+***Example**: The Spellweaver plays her Frost Armor ability, which negates the next two sources of damage against her. She places a character token on the first circle of the card (a). Then each time afterward that she normally would suffer 1 or more points of damage, the bonus is applied, the damage is negated, and the token is moved forward one space. Once the token moves twice, the card is moved to the player’s lost pile and the bonus is no longer active.***
+
+![Character tokens](img/rulebook/character-tokens.png)  
+*Examples of Character Tokens*
+
+**Round bonuses** will have this symbol ![Round bonus](img/icons/general/persistent-round.png) on the card. The effect of the ability will be active from the time the card is played until the end of the round, at which point the card will be placed in the player’s discard or lost pile (depending on whether the action also contains an ![Loss](img/icons/general/loss.png) symbol).
+
+Even though a bonus card is placed in the active area, it is still considered **discarded** or **lost**, depending on whether the action also contains an ![Loss](img/icons/general/loss.png) symbol. At any time, these cards can be moved to the appropriate pile, however, doing so immediately removes any bonuses that were being applied by the card.
+
+#### SHIELD
+
+![Shield](img/icons/general/shield.png) A “Shield X” bonus ability gives the recipient a defender’s bonus that reduces any incoming attack value by X. Multiple shield bonuses stack with one another and can be applied in any order. **A shield bonus only applies to damage caused by an attack.**
