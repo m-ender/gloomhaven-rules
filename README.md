@@ -97,7 +97,7 @@ Each round, after players have selected their own ability cards, one card is pla
 
 **A MONSTER ABILITY CARD INCLUDES:**
 
-![Monster Statistics Card](img/rulebook/monster-ability-card.png)
+![Monster Ability Card](img/rulebook/monster-ability-card.png)
 
 - The name of the monster type (a). Sometimes, multiple monster types use the same, more generic ability deck. For instance, Bandit Guards, City Guards, and Inox Guards all use the same “Guard” deck.
 - An initiative number (b). This number will determine when every monster of that type will act in a given round (see Determining Initiative on p. 18 for details).
@@ -106,6 +106,37 @@ Each round, after players have selected their own ability cards, one card is pla
 
 ## Battle Goal Cards
 
-![Monster Statistics Card](img/rulebook/battle-goal-card.png)
+![Battle Goal Card](img/rulebook/battle-goal-card.png)
 
 **At the beginning of every scenario, each character receives two battle goal cards in secret and chooses one to keep, discarding the other.** If the scenario is successfully completed and the character meets the criteria of the chosen card (a), he or she will earn a number of **checkmarks** as specified on the bottom of the card (b). Checkmarks are used to enhance a player’s attack modifier deck (see Additional Perks on p. 44 for details). If the scenario resulted in failure, the character receives nothing from his or her battle goal card, regardless of whether the goal was achieved. Players can keep track of their battle goal progress using notes if necessary. Players should keep their battle goals secret from one another until the scenario is over.
+
+## Attack Modifier Cards
+
+Any time an **Attack** ability is performed, a separate attack modifier card is drawn for **each individual target** of the attack. Players draw from the personal attack modifier deck for their chosen character and monsters draw from a collective monster deck. The modifier listed on the card is then applied to the attack, possibly reducing or increasing its numerical value.
+
+**AN ATTACK MODIFIER CARD INCLUDES:**
+
+![Attack Modifier Cards](img/rulebook/attack-modifier-cards.png)
+
+The value of the modifier for the attack (a). A “Null” symbol (b) means that no damage is done by the attack. A “2x” symbol (c) means the attack value is doubled.
+
+Conditions, elemental infusions, or other special effects of the attack (d). If the attack modifier of the card is +0, the special effect is shown in the center circle of the card (e). Otherwise, it is shown to the left of the modifier value (f). When these special effects are activated, they function exactly as if they had been written on the action card being used for the attack.
+
+![Rolling Modifier Card](img/rulebook/rolling-modifier-card.png)
+
+A rolling modifier symbol (g) indicates that an additional modifier card should be drawn. Modifier cards are then drawn until a rolling modifier is **not** revealed, at which point all the drawn modifiers are added together.
+
+![Rolling Modifier Example](img/rulebook/rolling-modifier-example.png)  
+*Add “PUSH 2” and the earth element effects to your attack, then increase y our attack value by 2.*
+
+![BLESS and CURSE cards](img/rulebook/bless-curse-cards.png)
+
+A special BLESS (h) or CURSE (i) border. If a BLESS or CURSE card is drawn, it should be **removed** from the player’s deck instead of being placed into the discard. Curse cards also have either a ![Monster icon](img/misc/monster.png) or an ![Star icon](img/misc/star.png) to denote whether they can be placed in the monster attack modifier deck ![Monster icon](img/misc/monster.png), or a character's attack modifier deck ![Star icon](img/misc/star.png).
+
+![Shuffle symbol](img/rulebook/shuffle.png)
+
+A shuffle symbol (j). At the end of the round in which a “Null” ![Null card](img/misc/null-card.png) or “2x” ![2x card](img/misc/2x-card.png) card is drawn from a deck, players will shuffle all the played modifier cards back into that particular draw deck. This shuffling also happens if a modifier card must be drawn and there are none left in the draw pile.
+
+![Modifier type icons](img/rulebook/modifier-type-icons.png)
+
+A type icon (k). All standard attack modifier decks have a 1, 2, 3, 4, or M icon (l) for easy sorting, such that all cards with a given icon form the standard 20-card deck. All cards a character class adds to their modifier decks through perks (see Leveling Up on pp. 44–45 for details) have the symbol of that character class (m). Cards added to a modifier deck by a scenario or item effect have a ![Star icon](img/misc/star.png) icon (n). These cards should be removed at the end of a scenario.
