@@ -764,3 +764,48 @@ A scenario can end in one of two ways: success or failure. Once a scenario’s s
 **If players successfully complete the scenario**, they receive checkmarks for their characters’ completed battle goal cards at this time. Checkmarks are recorded on the player’s character sheet and completing a set of three immediately earns a character an additional perk (see Additional Perks on p. 44 for details). Even if a character is exhausted, as long as the scenario was successfully completed, that character can still complete his or her battle goal, earn scenario rewards, and keep all the money and experience he or she collected before becoming exhausted. There is no penalty for becoming exhausted. Players also receive bonus experience for successfully completing the scenario. This bonus is equal to **four plus twice the scenario level** (see Scenario Level on p. 15 for details).
 
 If players are playing in a campaign, successfully completing a scenario will also allow them to read the conclusion flavor text of the scenario and gain the benefits listed at the end (see Scenario Completion on p. 49 for details). In a campaign the money and experience collected during a scenario will be very important to improve a character’s skills and abilities and should be tracked on the player’s character sheet. If the scenario was not part of a campaign, money and experience can be used as metric for gauging how well each character did.
+
+---
+**<p align="right">Page 34</p>**
+
+---
+
+# Special Scenario Rules
+
+Many scenarios will feature extra rules. The following are clarifications for common special scenario rules:
+
+- **Spawning:** When a monster is spawned, it is set up on the map at its spawning location or the nearest empty hex to that location. If a monster is spawned at the end of a round, it will begin to activate on the following round. If a monster is spawned during a round, it activates as if it had just been revealed (see Revealing a Room on p. 19 for details). 
+- **Locked doors:** Some doors are classified as “locked,” which means they cannot be opened by a character moving onto them. Instead, they act as walls until the conditions to open them specified in the scenario book are met. 
+- **Pressure plates:** Pressure plates function similarly to corridors, in that they have no effect on a figure’s movement. Instead, if a pressure plate is occupied by a character at the end of a turn, it may trigger a special effect specified in the scenario book, such as opening a door or spawning a monster. 
+- **Destroying obstacles:** When an obstacle is specified as having hit points in the scenario book, it can be attacked and will be destroyed and removed from the board when it drops below 1 hit point. Obstacles with hit points can only be destroyed through damage and not through other character abilities. These obstacles are considered enemies for all ability purposes and have an initiative of 99 for the purpose of summon focusing, but they are immune to all negative conditions. 
+- <img align="right" src="img/rulebook/scenario-aid-tokens.png"> **Objective and scenario aid tokens:** Objective tokens (a) are used in many scenarios to represent allied figures or loot locations. In the case of allied figures, the numbers on the tokens should be randomized when placed, with the numbers determining the figures’ activation order. Scenario aid tokens (b) can be placed on the map tiles to act as a reminder for special cases, such as where enemies spawn or when to read numbered sections from the scenario book. 
+- **Named monsters:** Often times the goal of a scenario is to kill a specific monster, either a boss or a unique variant of a regular monster, as specified in the scenario rules. These monsters are not considered normal or elite and thus are not affected by character abilities that target only normal or elite monsters. 
+- **Equations:** Some scenario properties such as hit points for obstacles or named monsters are determined by equations that depend on the scenario level and the number of characters. In such instances, “L” is used to denote the scenario level, and “C” is used to denote the number of characters.
+
+# Campaign Overview
+
+There are two ways to play Gloomhaven: campaign mode and casual mode.
+
+In **campaign mode**, players will form an official **party** of characters and undertake a number of consecutive scenarios over multiple play sessions. This allows players to follow a story thread as they make decisions and explore a path of their own choosing. A scenario can only be played in campaign mode if all the prerequisite global and party achievements listed as required in the Scenario Book are active for the party. In addition, once a scenario has been completed in campaign mode, it cannot be undertaken again in campaign mode by **any party**.
+
+In **casual mode**, players can play any revealed scenario on the world map regardless of achievements or whether it has been completed in campaign mode. Players can still gain experience and money, loot treasure tiles, complete battle goals, and make progress toward completing their personal quests, but any story text or rewards listed at the end of the scenario are disregarded. A party in campaign mode can switch to casual mode to go through a scenario they have already completed, but it is **strongly recommended** that a party not undertake a scenario in casual mode that they haven’t yet experienced in campaign mode. The rules that follow will deal specifically with playing the game in campaign mode.
+
+**The rules that follow will deal specifically with playing the game in campaign mode.**
+
+---
+**<p align="right">Page 35</p>**
+
+---
+
+## Campaign Board
+
+The **campaign board** is used to track the global progress of the game world. The locations, achievements, and prosperity tracked on the board apply globally to all parties playing in the world.
+
+![Campaign board](img/rulebook/campaign-board.png)
+
+### THE BOARD INCLUDES:
+
+- A map of Gloomhaven (a) and the surrounding area (b). Numbered circles on the map (c) represent scenarios that can be unlocked through the course of playing the campaign. When a scenario is unlocked, its corresponding sticker (d) is placed over the numbered circle (see Scenario Completion on p. 49 for details). When an unlocked scenario is completed in campaign mode, the blank spot on its sticker (e) is marked to signify this. 
+- A reference grid for the map (f) so that scenario locations can more easily be found. 
+- A space for tracking global achievements (g). When a global achievement is unlocked, its corresponding sticker (h) should be placed in one of the sticker slots in this space (see Achievements on p. 40 for details). 
+- A prosperity track (i). When the prosperity of Gloomhaven increases, a square on the prosperity track should be marked for every point of increase, moving from left to right (see Gloomhaven Prosperity on p. 48 for details). At certain thresholds, this will increase the prosperity level of Gloomhaven.
