@@ -955,3 +955,60 @@ An outcome can be preceded by one of the following conditions:
 - <img align="left" src="img/rulebook/event-outcome-otherwise.png"> The word “otherwise.” If none of the preceding outcomes were applied, apply this outcome instead.
 
 If the outcome does not have a condition, the outcome is applied.
+
+
+---
+**<p align="right">Page 42</p>**
+
+---
+
+“Collective” rewards or penalties are distributed among the party, and rewards or penalties specified as “each” are applied to each character in the party individually. If a player is directed to lose anything (money, checkmarks, etc.), but they cannot do so because they do not have a sufficient amount of that thing to lose, they lose what they are able to lose and continue resolving the event. A character can never lose a checkmark that would cause him or her to lose a perk, have negative money, or be brought below the minimum experience required for his or her current level, and the town can never be brought below the minimum prosperity for its current level.
+
+### REPUTATION
+
+Reputation is tied to a specific party and is tracked on the party sheet. Any time a new party is formed, that party starts at **0 reputation**. Through event consequences or by completing certain scenarios, the party will gain or lose reputation. A party can have a maximum reputation of 20 and a minimum reputation of -20. A party’s reputation has a number of implications: 
+
+- Many events have consequences that are only applied if the party meets specific reputation requirements. 
+- When buying items, players modify the cost based on their reputation. They receive a reduction in cost at a higher reputation and an increase in cost at a lower reputation. These cost modifications are written next to the reputation track on the party sheet. 
+- Certain sealed envelopes are opened when a party reaches specific positive and negative values of reputation.
+
+## Visiting Gloomhaven
+
+Whenever a party returns to Gloomhaven, they can perform a variety of activities: **creating new characters**, **completing city events**, **buying and selling items**, **leveling up their character**, **donating to the sanctuary**, **enhancing ability cards**, and **announcing retirement**. A new visit to Gloomhaven can be triggered after every scenario played in campaign mode. 
+
+### CREATING NEW CHARACTERS
+
+The first step in any character’s story is creation. Players will create new characters when they first start playing the game, when they retire an old character and wish to continue playing, or pretty much whenever they want to try something new. When the box is first opened, the following six classes are available to play: Brute ![Brute](img/icons/class/01.png), Tinkerer ![Brute](img/icons/class/02.png), Spellweaver ![Brute](img/icons/class/03.png), Scoundrel ![Brute](img/icons/class/04.png), Cragheart ![Brute](img/icons/class/05.png), and Mindthief ![Brute](img/icons/class/06.png). When a player creates a new character, he or she gains access to that character’s character mat and deck of Level 1 and “X” ability cards. The player should create a new entry in the class’s corresponding character sheet notepad, and also draw two random personal quest cards, choosing to keep one and shuffling the other back into the deck. A player can start a character at any level equal to or lower than the prosperity level of the city (see Gloomhaven Prosperity on p. 48 for details). If a player starts a character above Level 1, they should go through all the steps outlined on p. 44 for each level increase in sequence, up to and including their chosen starting level. In addition, a newly created character receives an amount of gold equal to 15x(L+1), where L is their starting level. A character starts with an amount of experience equal to the minimum required for their level (the number listed below that level on the character sheet).
+
+---
+**<p align="right">Page 43</p>**
+
+---
+
+### COMPLETING CITY EVENTS
+
+Once per visit to Gloomhaven, a party may complete a city event. City events are functionally the same as road events, but are drawn from the city event deck and generally have better outcomes than road events.
+
+### BUYING AND SELLING ITEMS
+
+When in Gloomhaven, characters have the opportunity to buy item cards by spending the gold they’ve collected from scenarios. In addition, players can also sell back any item for **half** the price listed on the item card (rounded down). When an item is sold, it goes back into the city’s available supply, and the character receives the calculated amount of gold. Players can own as many items as they can afford, but are limited in how many they can equip (see Item Cards on p. 8 for details). **Players cannot trade money or items.**
+
+When the game box is opened and the campaign begins, the city’s available supply should consist of all copies of Item 001 through Item 014. Over the course of the campaign, many more items will be added to the city’s available supply based on the following conditions:
+
+- Any time an item design is gained from a scenario or event, every copy of that item card is added to the city’s available supply.
+- As the city gains prosperity levels (see Gloomhaven Prosperity on p. 48 for details), new items will be made available in the supply. The list of what items are made available at each prosperity level can be found to the right.
+- Lastly, when a character retires, all of their item cards go back into the shop’s supply.
+
+Prosperity | Item Cards
+-|-
+1|001–014
+2|015–021
+3|022–028
+4|029–035
+5|036–042
+6|043–049
+7|050–056
+8|057–063
+9|064–070
+
+Within any one party, the number of items available for purchase is limited by how many copies of the item’s card there are. No character may own duplicates of the same item. If a different party plays the game with different characters, items possessed by **unused characters** are considered to be in the city’s available supply and can be purchased. Players should always keep track of what items they own on their character sheets in case the cards get moved around by other groups.
