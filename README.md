@@ -596,3 +596,63 @@ In addition to specific loot abilities, **a character must also loot any money t
 ![Experience](img/rulebook/experience.png)
 
 Some actions also have an experience value attached to them, denoted by ![XP](img/icons/general/xp.png). When that action is taken, the character gains the number of experience specified. An ability card cannot be played for the experience alone—a character must use one or more of the accompanying abilities to earn the experience. In addition, sometimes the action specifies that experience is only earned under certain conditions, such as consuming an elemental infusion or if the attacked target is adjacent to an attacker’s allies (a). Some persistent bonuses will also give a character experience, denoted by ![XP charge](img/icons/general/charge-xp.png), when that charge of the bonus is expended (b) (i.e., when the character token moves off that slot). **Characters do not automatically gain experience from killing monsters. Only using specific actions awards experience.**
+
+---
+**<p align="right">Page 28</p>**
+
+---
+
+![Tracking dial](img/rulebook/tracking-dial.png)
+
+Experience is tracked on the right side of a player’s tracking dial by rotating the wheel to the appropriate number (c).
+
+### CHARACTER DAMAGE
+
+Whenever any **damage** is dealt to a character, the player has two options:
+
+- **Suffer the damage** and **move his or her hit point total on the tracking wheel down the appropriate number**, or…
+- **Choose one card to lose** from his or her **hand** or **two cards to lose** from his or her **discard pile** to negate the damage (any additional effects of the attack are still applied). **Note** that before a character acts in a round, the two cards chosen at the beginning of the round are neither in the player’s hand or lost or discard pile, and so cannot be lost to negate damage.
+
+Whenever a character is healed, move his or her **hit point total on the tracking wheel up the appropriate number** (d). The tracking wheel cannot go above the character's maximum hit point value indicated on the player’s character mat (e).
+
+### EXHAUSTION
+
+A character can become **exhausted** in one of two ways: 
+
+- If a character ever drops below one hit point on the hit point tracker, or… 
+- If, at the beginning of a round, a player cannot play two cards from his or her hand (because they have one card or no cards in his or her hand) and also cannot rest (because they have one card or no cards in their discard pile). Exhaustion due to insufficient cards does not affect a character’s current hit point total.
+- 
+- In either case, all ability cards are placed in the characters lost pile, the character’s figure is removed from the map, and the character can no longer participate in the scenario in any way. **There is no coming back from being exhausted during a scenario**, and thus it should be avoided at all costs. If **all** characters become exhausted during a scenario, the scenario is lost.
+
+### ITEMS
+
+Characters can use items at any time, within the constraints of what is written on the item card, including in the middle of a card ability. However, if an item affects an attack (e.g. adds a bonus, an effect, advantage, or disadvantage), it has to be used before an attack modifier is drawn. If an effect is added to an attack, it functions exactly as if it had been written on the action card being used for the attack. There is no limit to the number of items a character can use on their turn or even during a specific ability. Any instance of applying the effects of an item card to a situation is considered a use. Like persistent abilities, an item with multiple use circles **must** be used when the situation applies.
+
+---
+**<p align="right">Page 29</p>**
+
+---
+
+## Monster Turn
+
+Monsters’ decisions are controlled by a system of action cards that **automate** what the monsters will do on their turn in the initiative order. They are **not** controlled by a separate player. All monsters will perform the actions listed on their ability card for the round in the order written. **They will not move or attack unless these actions are listed on their card.**
+
+Note that each type of monster can come in two ranks: **normal** and **elite**. Normal monsters are designated with a white stand and elite monsters are designated with a gold stand. When an elite monster acts, use the statistics in the “Elite” section of the monster statistic card.
+
+### ORDER OF ACTION
+
+![Monster standee and stat card](img/rulebook/monster-standee.png)
+
+All monsters of the same type take individual turns at the same initiative value listed on their monster ability card. **All elites of a type activate first, then the normal monsters of that type activate.** If more than one elite or normal monster of a given type is present on the board, then the monsters activate in ascending numerical order according to the numbers on their tokens (a).
+
+*In addition to determining order of action, the number on the monster standee (a) corresponds to a section of the monster stat sleeve (b) that can be used to track damage and condition tokens.*
+
+![Monster initiative example](img/rulebook/monster-initiative-example.png)
+
+***Example:** With the setup to the left, the elite monster to the right (2) will activate first, then the other elite (3). Next the normal monster on the top will activate (1), then the lower monster (4). Even though (1) is lower in numerical order than (2) and (3), (2) and (3) are elite, so they activate first.*
+
+### MONSTER FOCUS
+
+Before performing any action on their ability card, each individual monster will focus on a specific enemy—either a character or character summon.
+
+- A monster will focus on the enemy figure it can perform its current attack against using the least amount of movement. It finds the shortest possible path to get in range and line-of-sight to use its attack, and the figure that can be attacked at the end of that path is the focus. This enemy figure is considered the “closest.” It doesn’t matter if the monster can’t get within range to attack with its current movement, as long as there is a path to eventually get within range. If a monster does not have an attack listed on its ability card for the round, it finds a focus as if it had a melee attack. In the case where the monster can move the same number of spaces to get within range (and line-of-sight) of multiple enemy figures (e.g., because it starts its turn within range of multiple enemies), proximity from the monster’s current position (i.e. number of hexes they are away, not counting through walls) is then checked as a tie-breaker for determining “closest.”
