@@ -1277,4 +1277,71 @@ When a new scenario is unlocked, find its corresponding number on the world map 
 
 # Game Variant: Reduced Randomness
 
-If players desire to reduce the variance in damage caused by the “2x” ![2x card](img/misc/2x-card.png) and “Null” ![Null card](img/misc/null-card.png) attack modifier effects, they can instead treat BLESS ![Bless card](img/misc/bless-card.png) and the standard “2x” cards as a +2 ![+2 card](img/misc/plus-2-card.png) modifier and CURSE ![Curse card](img/misc/curse-card.png) and the standard “Null” cards as a -2 ![-2 card](img/misc/minus-2-card.png) modifier. Players should still shuffle the corresponding attack modifier deck at the end of a round after one of these cards is drawn
+If players desire to reduce the variance in damage caused by the “2x” ![2x card](img/misc/2x-card.png) and “Null” ![Null card](img/misc/null-card.png) attack modifier effects, they can instead treat BLESS ![Bless card](img/misc/bless-card.png) and the standard “2x” cards as a +2 ![+2 card](img/misc/plus-2-card.png) modifier and CURSE ![Curse card](img/misc/curse-card.png) and the standard “Null” cards as a -2 ![-2 card](img/misc/minus-2-card.png) modifier. Players should still shuffle the corresponding attack modifier deck at the end of a round after one of these cards is drawn.
+
+---
+**<p align="right">Page 50</p>**
+
+---
+
+# Game Variant: Permanent Death
+
+If players desire an extra threat of danger, they can decide to play Gloomhaven with permanent death. Any character will permanently die when they drop below one hit point (instead of being exhausted). Characters can still become exhausted as normal if they are unable to rest or play cards, except that their figure remains on the map and can still be targeted by monster attacks. The character cannot act at all and is considered to have an initiative of 99 for the purposes of monster focus. After a scenario is failed, any character who is still alive at the end of the round survives and can continue playing. 
+
+When a character dies, all the materials for the character are returned to the box, any items the character owned are returned to the city’s available supply, all money the character owned is gone, their personal quest is shuffled back into the personal quest deck, and their character sheet is removed from the game. The player whose character died must then create a new character (see Creating New Characters on p. 42 for details) to continue playing.
+
+# Game Variant: Random Dungeon Deck
+
+Instead of playing through a scenario from the Scenario Book, players always have the option to play through a random dungeon instead. Random dungeons will not progress the campaign in any way, but they can be used to gain additional experience, money, checkmarks, and personal quest progress for characters.
+
+Each random dungeon consists of three randomly generated rooms and the goal is always to clear all rooms of monsters. The three rooms will be set up one at a time, with the next room only being revealed once the door to it has been opened. Each room is set up using a room card and a monster card, each drawn randomly from the tops of their shuffled decks.
+
+### A ROOM CARD INCLUDES:
+
+![Random room card](img/rulebook/random-room-card.png)
+
+- A noun title (a). When combined with the adjective title on the
+monster card, this provides the full title of the room.
+- A graphical depiction of the map tile(s) used in the setup of the room along with twelve numerical designations of where various elements of the monster card are placed during setup (b). The room setup will also depict any obstacle overlay tiles to be placed. It is possible to run out of specific overlay tiles when setting up the second or third room. In these cases, use a comparable overlay tile of the same type.
+- Designations for where players enter (c) or exit (d) the room and what types the entrance(s) and exit(s) are (see below for details). Entrances and exits always correspond to the nearest half-hex of the tile with a puzzle connection. If this is the first room of the dungeon, players can place their figure on any empty hex within two hexes of the entrance. If the first room has multiple entrances, players can collectively choose on which entrance to start.
+
+---
+**<p align="right">Page 51</p>**
+
+---
+
+- The entrance type available for the room on the back of the card (e). There are two types of entrances and exits: A and B. If players exit a room from an A exit, they must enter the next room from an A entrance and vice versa with B. If the entrance of the top room in the deck does not match the exit the players used in the previous room, the top card is discarded until a matching entrance type is found.
+
+  If a room has two exits, players may use whichever one they wish, though the one they don’t use is closed off. If a room has two entrances, players must use the entrance that corresponds to the previous room’s exit. 
+- Penalties for revealing the room (f). Whenever a new room is revealed and set up, a penalty may activate depending on the room and the difficulty decided on by the players. The suggested difficulty is to use no penalties in the first room, the minor penalty of the second room when it is revealed, and the major penalty of the third room when it is revealed. Players can decrease or increase the number and severity of the penalties as they like, up to a point where major penalties are activated for each of the three rooms when they are revealed. If the character who opened the door is referenced in the penalty of the first room, players can decide who the penalty targets. If the previous room is referenced in the penalty of the first room, nothing happens. 
+- The specific map tile(s) used to create the room (g).
+
+### A MONSTER CARD INCLUDES:
+
+![Random monster card](img/rulebook/random-monster-card.png)
+
+- An adjective title (h). When combined with the noun title on the room card, this provides the full title of the room. 
+- Designations for the twelve numbered spaces on the room card (i). Each monster has  designations for a two, three, and four character game, as in the normal setup for a scenario. 
+- Descriptions for any treasure tile contents (j). Though treasure tiles in a random dungeon will never contain elements important to the campaign, they can contain a number of useful benefits for the players. 
+- Designations of trap types (k). Note that the red damage symbol (l) indicates the trap is a damage trap.
+
+# Credits
+
+**GAME DESIGN AND DEVELOPMENT:** Isaac Childres
+
+**GRAPHIC DESIGN:** Josh McDowell, Isaac Childres
+
+**ART:** Alexandr Elichev, Álvaro Nebot, Josh McDowell
+
+**SCULPTING:** James Van Schaik
+
+**EDITING:** Jim Spivey, Mathew G. Somers, Marcel Cwertetschka
+
+**STORY AND WORLD-BUILDING:** Isaac Childres
+
+**SPECIAL THANKS:**  
+Kristyn Childres, Katie, Finn, Ada, and Cora McDowell, Charilaos Bacharis, Clinton Bradford, Brandon Butcher, Travis Chance, Joseph Childres, Rob Daviau, Paul Grogan, Brendon Hall, Richard Ham, Kasper Hansen, Walker Hardin, Chuck Hennemann, Scott Horton, Brian Hunter, David Isakov, Alexander Klatte, Carl Klutzke, Brian Lee, Nick Little, Kevin Manning, Jan Meyberg, Timo Multamäki, Ray Phay, Joan Prats, Andrew Ritchey, Adam Sadler, Brady Sadler, Eric Sanson, Scott Starkey, JC Trombley, Arne Vikhagen, Michael Wilkins, Stefan Zappe
+
+**KICKSTARTER CONTRIBUTORS:**  
+I would like to sincerely thank all the backers of the Gloomhaven Kickstarter project. It was a long journey, and I only made it through with your help. I could not have asked for a more supportive group of people.  
+I would also like to specifically thank the backers who created official scenarios during the campaign: Marcel Cwertetschka, Tim and Kim De Smet, Jared Gillespie, David Isakov, Jeremy Kaemmer, Mathew G. Somers
