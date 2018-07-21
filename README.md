@@ -809,3 +809,44 @@ The **campaign board** is used to track the global progress of the game world. T
 - A reference grid for the map (f) so that scenario locations can more easily be found. 
 - A space for tracking global achievements (g). When a global achievement is unlocked, its corresponding sticker (h) should be placed in one of the sticker slots in this space (see Achievements on p. 40 for details). 
 - A prosperity track (i). When the prosperity of Gloomhaven increases, a square on the prosperity track should be marked for every point of increase, moving from left to right (see Gloomhaven Prosperity on p. 48 for details). At certain thresholds, this will increase the prosperity level of Gloomhaven.
+
+---
+**<p align="right">Page 36</p>**
+
+---
+
+## Party Sheet
+
+A **party** is formed when a new group of players gets together to play the game. They will document the formation of the party by starting a new entry in the party sheet notepad. Party achievements, reputation, and location will be tracked on this notepad.
+
+A party can persist from scenario to scenario and play session to play session, as long as the players want. The makeup of the party will change over time, especially as characters retire and new characters are created. Changes to the party makeup are fine, not only for characters, but players as well. New parties can also be formed at any time, though new characters should be made for a new party.
+
+### A PARTY SHEET INCLUDES:
+
+![Party sheet](img/rulebook/party-sheet.png)
+
+- A space to name the party (a). Every good party should have a name. Be creative. 
+- A space to track the current scenario location of the party (b). This is mainly relevant for linked scenarios (see Traveling and Road Events on pp. 41–42 for details). 
+- A space for notes (c). If there is anything else a party would like to track, they can do so here. 
+- A space to track party achievements (d). Whenever a party earns a party achievement, it should be noted here (see Achievements on p. 40 for details). 
+- A reputation track (e). A party will gain and lose reputation over time for a number of reasons, and this is tracked by penciling in or erasing sections of the reputation track on the notepad (see Reputation on p. 42 for details). To the right of the track, the item price discounts and penalties for high and low reputation (f) are visible.
+
+---
+**<p align="right">Page 37</p>**
+
+---
+
+## Character Sheet
+
+When a new character is created, the player should start a new entry in the character’s corresponding character sheet notepad. As players play through a campaign, they will need to keep notes on what experience, gold, items, perks, and available ability cards they have in their deck by using this character sheet.
+
+### A CHARACTER SHEET INCLUDES:
+
+![Character sheet](img/rulebook/character-sheet.png)
+
+- A space to name the character (a). Every character should have a name. Be creative. 
+- A space to mark the current level of the character (b). As characters gain experience, they will increase in level (see Leveling Up on pp. 44–45 for details). The total amount of experience needed is written below each level (c). 
+- Spaces to keep detailed notes on the amount of experience (d) and gold (e) a character has. 
+- A space to track all the items a character has in their possession (f). 
+- A perk list specific to the character class (g). Whenever a character gains a perk (see Additional Perks on p. 44 for details), they mark the one on the list they want. 
+- A space for additional notes (h). If players would like to track progress on other aspects of their character, they can do so here. This space also includes a track for checkmarks (i) attained through battle goals.
