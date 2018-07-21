@@ -712,3 +712,55 @@ Monster attacks function exactly like character attacks, and are modified by the
 **Healing:** Monster healing functions exactly like character healing as discussed on p. 26. With a “Heal X” ability, the monster will heal themselves or an ally within the specified range, whichever has lost the most hit points.
 
 **Summons:** Monster summon abilities place new monsters on the board that behave exactly like the normal monsters, acting according to played monster ability cards of their type. Summoned monsters are placed in an empty hex adjacent to the summoning monster and also as close to an enemy as possible. If there are no empty adjacent hexes or there are no available standees of the summoned monster type, the summon fails. Summoned monsters never act on the round they are summoned, nor do they drop money tokens when killed.
+
+---
+**<p align="right">Page 32</p>**
+
+---
+
+**Bonus abilities:** Ability card bonuses are activated through actions **only when the monster activates** and are only active until the end of the round in which the card was drawn. 
+
+**Looting:** Monsters do **not** perform end-of-turn looting, but some monsters do have loot actions. In these cases, a monster will pick up all money tokens within the specified range. These money tokens are lost and are not dropped again when the looting monster is killed. Monsters are unable to loot treasure tiles.
+
+### AMBIGUITY
+
+If the rules ever make any monster action ambiguous because there are multiple viable hexes to which the monster could move, multiple equally viable targets to heal or attack, or multiple hexes a monster could push or pull a character into, the players must decide which option the monster will take.
+
+### BOSSES
+
+![Boss ability deck](img/rulebook/boss-ability-cards.png)
+
+![Boss stat card](img/rulebook/boss-stat-sheet.png)
+
+Players will occasionally encounter bosses in their adventures. All bosses have their own stat card but act using a universal “Boss” ability card deck (a). **Note** that bosses are not considered normal or elite monsters. Bosses perform special actions on their turn that are summarized on their stat card. Explanations for more complicated abilities can be found in the Scenario Book. Bosses’ stats are often based on the number of characters, which is signified by the letter “C” on the boss stat card. Lastly, **bosses are immune to certain negative conditions. The conditions to which they are immune are listed on their stat card** (b).
+
+## End of Round
+
+Once all figures have taken a turn, the round ends and some cleanup steps may be necessary:
+
+- If a standard **“2x”** ![2x card](img/misc/2x-card.png) or **“Null”** ![Null card](img/misc/null-card.png) attack modifier card was drawn from a specific modifier deck during the round, shuffle all the discards of that deck back into its draw deck. 
+- If a monster ability card with a shuffle symbol ![Shuffle](img/icons/general/shuffle.png) was drawn at the start of the round, shuffle all discards for the corresponding monster type back into its deck. 
+- If there are any elemental infusion tokens in the **Strong** column, move them to the Waning column. If there are any elemental infusion tokens in the **Waning** column, move them to Inert. 
+- Place all active round bonus ability cards in the appropriate discard or lost pile (depending on whether an action with a [lost card] symbol was used). 
+- Players may also perform a **short rest** (see Resting on p. 17 for details) if they are able.
+
+---
+**<p align="right">Page 33</p>**
+
+---
+
+### ROUND TRACKER
+
+![Round tracker](img/rulebook/round-tracker.png)
+
+Some scenarios may require players to keep track of what round it is. A round track can be found at the top of the elemental infusion table for this purpose. At the end of every round, simply move the tracker token forward one space. Note that it is not necessary to keep track of the rounds for most scenarios.
+
+# Finishing a Scenario
+
+A scenario can end in one of two ways: success or failure. Once a scenario’s success or failure conditions are triggered, **the remainder of the round is played out**, and then the scenario ends.
+
+**Success or failure**, players tally the experience their individual characters earned during the scenario and tally the money tokens their characters looted during the scenario and convert them into gold. Each money token looted is worth an amount of gold based on the scenario level and specified on the chart on p. 15. Anything not looted during the scenario is **not** collected. Players also recover all lost and discarded ability cards, refresh all spent and exhausted item cards, and return their hit point dials to their maximum hit point value so that they can start fresh in a future scenario. Players should also go through their attack modifier deck and remove any BLESS cards, CURSE cards, and any other negative cards added through scenario and item effects. This should also be done with the monster attack modifier deck. All battle goals are shuffled back into the battle goal deck, regardless of whether they were completed.
+
+**If players successfully complete the scenario**, they receive checkmarks for their characters’ completed battle goal cards at this time. Checkmarks are recorded on the player’s character sheet and completing a set of three immediately earns a character an additional perk (see Additional Perks on p. 44 for details). Even if a character is exhausted, as long as the scenario was successfully completed, that character can still complete his or her battle goal, earn scenario rewards, and keep all the money and experience he or she collected before becoming exhausted. There is no penalty for becoming exhausted. Players also receive bonus experience for successfully completing the scenario. This bonus is equal to **four plus twice the scenario level** (see Scenario Level on p. 15 for details).
+
+If players are playing in a campaign, successfully completing a scenario will also allow them to read the conclusion flavor text of the scenario and gain the benefits listed at the end (see Scenario Completion on p. 49 for details). In a campaign the money and experience collected during a scenario will be very important to improve a character’s skills and abilities and should be tracked on the player’s character sheet. If the scenario was not part of a campaign, money and experience can be used as metric for gauging how well each character did.
