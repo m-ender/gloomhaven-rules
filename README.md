@@ -1012,3 +1012,64 @@ Prosperity | Item Cards
 9|064–070
 
 Within any one party, the number of items available for purchase is limited by how many copies of the item’s card there are. No character may own duplicates of the same item. If a different party plays the game with different characters, items possessed by **unused characters** are considered to be in the city’s available supply and can be purchased. Players should always keep track of what items they own on their character sheets in case the cards get moved around by other groups.
+
+
+---
+**<p align="right">Page 44</p>**
+
+---
+
+### LEVELING UP
+
+When a character gains the amount of experience listed on the table to the right, they must level up. **Leveling up only occurs in town.**
+
+Level | Experience
+-|-
+1|0
+2|45
+3|95
+4|150
+5|210
+6|275
+7|345
+8|420
+9|500
+
+When a character reaches a new level, add **one** new card to their active card pool. The card selected must be from the character’s class and have a card level **equal to or less than the character’s new level.**
+
+Additionally, when leveling up, the player can mark **one** of the **perk** boxes on the right side of their character sheet. This signifies an evolution of the character’s attack modifier deck. Apply the bonuses of the marked perk box to the character’s modifier deck using the class’s accompanying deck of available modifier cards. If a perk has multiple check boxes next to it, this means that the perk can be gained multiple times for the cost of one perk each.
+
+***Example:** The Brute marks the “Replace one ![Minus 1](img/misc/minus-1.png) card with one ![Plus 1](img/misc/plus-1.png) card,” so he removes a ![Minus 1 card](img/misc/minus-1-card.png) card from his attack modifier deck and adds a ![Brute plus 1 card](img/misc/brute-plus-1-card.png) card (taken from his Brute modifier deck) in its place.*
+
+Lastly, leveling up also increases a character’s hit point total, as indicated on their character mat. Leveling up **never** changes a character’s maximum hand size. This is fixed for each class.
+
+#### ADDITIONAL PERKS
+
+Any time a character successfully completes a battle goal card at the end of a scenario, they receive a number of checkmarks, which are tracked in the specified area of the notes section of their character sheet. For every three checkmarks a character earns, he or she immediately gains an additional perk on their character sheet and applies its effects to their attack modifier deck. Any checkmarks from a battle goal that are left over after achieving a perk are applied toward the next perk. A character can achieve a total of six additional perks in this way.
+
+---
+**<p align="right">Page 45</p>**
+
+---
+
+#### BUILDING A HAND OF CARDS
+
+When playing a class for the first time, it is recommended that players use a hand comprised entirely of Level 1 cards (denoted by a **1** below the title). However, each character also has immediate access to three Level X cards. These are typically more complex and situational than Level 1 cards. Once a player is familiar with the basic abilities of the class, they should consider incorporating one or more Level X cards into their hand, removing an equal number of Level 1 cards to observe the hand limit.
+
+As characters level up, higher level ability cards will also become available. Even though players have access to more cards, the maximum number of cards they can take into battle (hand limit) remains the same. Therefore, at the beginning of a scenario, players must **select a number of cards from the character’s available card pool equal to the character’s hand limit**. These cards will form the player’s hand, and only cards in the player’s hand may be used during a scenario.
+
+#### SCENARIO SCALING
+
+As characters level up, the recommended scenario level will also increase, as discussed on p. 15. This will increase monster levels, trap damage, gold gained from money tokens, and scenario completion experience.
+
+### DONATING TO THE SANCTUARY
+
+Once per visit to Gloomhaven, each player can donate 10 gold to the Sanctuary of the Great Oak, a temple and hospital in the city. Doing so allows the donating player to add two BLESS ![Bless card](img/misc/bless-card.png) attack modifier cards to their attack modifier deck for the next scenario.
+
+### ENHANCING ABILITY CARDS
+
+Once players have completed “The Power of Enhancement” global achievement, they can spend gold while visiting Gloomhaven to increase the power of their ability cards. To do this, a player places the desired sticker from the enhancement sticker sheets onto a designated spot (a) of an ability card in their character’s active card pool. This sticker denotes a permanent enhancement to the ability.
+
+![Enhancement spot](img/rulebook/enhancement-spot.png)
+
+Ability cards can be enhanced in a variety of ways, with each costing a specific amount of gold. This cost must be paid by the character whose ability card is being enhanced.
