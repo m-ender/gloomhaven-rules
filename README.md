@@ -539,3 +539,60 @@ Even though a bonus card is placed in the active area, it is still considered **
 #### SHIELD
 
 ![Shield](img/icons/general/shield.png) A “Shield X” bonus ability gives the recipient a defender’s bonus that reduces any incoming attack value by X. Multiple shield bonuses stack with one another and can be applied in any order. **A shield bonus only applies to damage caused by an attack.**
+
+---
+**<p align="right">Page 26</p>**
+
+---
+
+#### RETALIATE
+
+![Retaliate](img/icons/general/retaliate.png) A “Retaliate X” bonus ability causes the recipient to inflict X points of damage on figures who attack it from an adjacent hex for each attack made. A retaliate bonus can also be accompanied by a “Range Y” value, which means that the retaliate damage is applied to any attacker within Y hexes. A retaliate takes effect after the attack that initiated it. If the retaliating figure is killed or exhausted by the attack, then the retaliate does not activate. Multiple retaliate bonuses stack with one another, and retaliate itself is not an attack or even a targeted effect.
+
+### HEAL
+
+![Heal](img/icons/general/heal.png) A “Heal X” ability allows a figure to return X hit points to either themselves or one ally within the ability’s range. Heals are always accompanied by one of two labels: 
+
+- **“Range Y”** means that any ally within Y hexes, or the figure performing the heal, can be affected by the heal. Like all ranged abilities, the recipient must be in line-of-sight. 
+- **“Self”** mean the figure can only affect him or herself with the heal.
+
+### SUMMON
+
+Some abilities summon other ally figures to the board. Summoned figures (summons) are placed in an empty hex adjacent to the figure performing the summon. If there are no available hexes, the summon ability cannot be used. Summons are represented by a colored summon token. There are eight different colors of summon tokens so that multiple summons can be tracked at the same time, and players can assign any color they like to a specific summon, placing tracker tokens on their summon ability cards for easy reference.
+
+Summons have basic statistics for hit points, attack value, move value, and range value along with any special traits written on the ability card. A summon is considered a persistent bonus (the card is placed in the active area) until either the summon loses all its hit points, its corresponding ability card is removed from the active area, or the summoner becomes exhausted, at which point the summon is removed from the board.
+
+A summon’s turn in the initiative order is always **directly before the character who summoned it**, and is separate from that character’s turn. Summons are not controlled by the summoning player, but instead obey automated monster rules, permanently following the ability card **“Move+0, Attack+0”** (see Monster Turn on pp. 29–32 for details) and using the player’s attack modifier deck to perform its attacks.
+
+A player can have multiple different summon abilities in play at once, in which case they act in the order in which they were summoned. Summoned figures **never** take a turn in the round they are summoned. Summon kills are credited to the owner of the summon.
+
+---
+**<p align="right">Page 27</p>**
+
+---
+
+### RECOVER AND REFRESH
+
+Certain abilities allow a player to **recover** discarded or lost **ability** cards. This means that the player can look through his or her discard or lost pile (or discarded or lost cards in his or her active area), select up to a number of cards specified in the ability, and immediately return them to his or her hand. Some cards, however, **cannot be recovered or refreshed once lost**. This is denoted by the ![Unrecoverable](img/icons/general/unrecoverable.png) symbol. This symbol applies to the card no matter how the card was lost or consumed.
+
+**Refresh** abilities allow players to regain the use of spent or consumed **item** cards.
+
+In the case of both recover and refresh, the type of card gained (discarded or lost for ability cards, spent or consumed for item cards) is specified in the ability.
+
+![Recover](img/icons/general/large/recover.png) | ![Refresh](img/icons/general/large/refresh.png) | ![Unrecoverable](img/icons/general/large/unrecoverable.png)
+-----|------|------
+Recover Ability Card | Refresh Item | Cannot be recovered or refreshed once lost or consumed
+
+### LOOT
+
+![Loot](img/icons/general/loot.png) A “Loot X” ability allows a character to pick up every money token and treasure tile within range X. This action is unaffected by the positions of monsters or obstacles, but note this is considered a ranged ability for the purposes of line-of-sight. Money tokens are kept in a player’s personal supply and are not shared with the other players. If a treasure tile is looted, immediately refer to the reference number in the treasure index in the back of the scenario book to determine what is found (see Treasure on p. 15 for details). If a character loots an item he or she already owns a copy of, the new item is immediately sold to the city’s available supply (see Buying and Selling Items on p. 43 for details).
+
+#### END-OF-TURN-LOOTING
+
+In addition to specific loot abilities, **a character must also loot any money tokens or treasure tiles present in the hex he or she occupies at the end of the character’s turn**. Character summons do not perform end-of-turn looting.
+
+### GAINING EXPERIENCE
+
+![Experience](img/rulebook/experience.png)
+
+Some actions also have an experience value attached to them, denoted by ![XP](img/icons/general/xp.png). When that action is taken, the character gains the number of experience specified. An ability card cannot be played for the experience alone—a character must use one or more of the accompanying abilities to earn the experience. In addition, sometimes the action specifies that experience is only earned under certain conditions, such as consuming an elemental infusion or if the attacked target is adjacent to an attacker’s allies (a). Some persistent bonuses will also give a character experience, denoted by ![XP charge](img/icons/general/charge-xp.png), when that charge of the bonus is expended (b) (i.e., when the character token moves off that slot). **Characters do not automatically gain experience from killing monsters. Only using specific actions awards experience.**
