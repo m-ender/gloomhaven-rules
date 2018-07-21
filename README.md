@@ -1224,3 +1224,57 @@ The total number of enhanced cards in a class’s ability deck must be **equal t
 ![Enhancement example](img/rulebook/enhancement-example.png)
 
 ***Example:** The Brute wishes to enhance the top action of his ability card with a +1 on the attack (a). The base cost of this is 50 gold, but it is doubled because the attack targets multiple enemies. In addition, this is a level 3 ability card (b), so another 50 gold is added, for a total of 150 gold. Afterwards, the Brute now wants to add an attack hex to the action (c). This would normally cost 66 gold (200 gold divided by three existing hexes, rounded down), but again, 50 gold is added because the card is level 3, and now an additional 75 gold is added because the action was previously enhanced once, for a total 191 gold.*
+
+---
+**<p align="right">Page 48</p>**
+
+---
+
+### ANNOUNCING RETIREMENT
+
+If a character currently fulfills the conditions of his or her personal quest and is visiting Gloomhaven, the character **must** announce retirement. The character may perform any other town activities beforehand, but he or she cannot play any new scenarios using a character with a fulfilled personal quest. The character has accomplished his or her dreams and has no more motivation to go exploring monster-filled ruins. All the materials for the character are returned to the box, any items the character owned are returned to the city’s available supply, and all money the character owned is gone. Additionally, the city gains 1 prosperity.
+
+Fulfilling personal quests will always unlock new content for the game. They will allow the player to open a sealed box or envelope, which will usually unlock a new character class. Any time players are directed to open a box or envelope and it has already been opened because of some previous condition, a new random item design and random side scenario are unlocked instead (see p. 38 for details). When a personal quest is fulfilled, the personal quest card is removed from the game.
+
+Each time an individual player retires a character, that player also gains one extra perk to apply to all future characters they create. This effect is cumulative, so when a player retires their second character, his or her next character would gain two additional perks. Though this effect is applied to players, if one player is controlling multiple characters at once in a campaign (e.g., solo play), he or she considers each character lineage they control a different player for this bonus.
+
+When a specific character class **retires** for the first time, new city and road events are usually added to the events decks. The reference number for these is written on the back side of the class’s character mat in the bottom **right (rightmost number)**. In addition, whenever a new character class is **unlocked** through retirement or other means, new city and road events are also added to the decks. This reference number is on the back side of the unlocked class’s character mat in the bottom **right (leftmost number)**. Each reference number applies to both the city and road event decks.
+
+When a player’s character retires, they can choose a new character to play, drawing two new personal quest cards, keeping one and discarding the other. Players are free to use the same class for their new character, but fulfilling personal quests usually unlocks a new class, encouraging players to explore new play styles over the course of the campaign. New characters may start at any level equal to or less than the current prosperity level of the town.
+
+It is possible to run out of available personal quest cards. If there are no personal quest cards left when a player creates a new character, then that character does not receive a personal quest. A character without a personal quest can never retire, though the player is still free to switch characters whenever he or she wishes.
+
+### GLOOMHAVEN PROSPERITY
+
+As the characters grow in power, the town of Gloomhaven grows in **prosperity**. Gloomhaven prosperity can be gained either through certain events or by completing certain scenarios. The prosperity points are tracked along the bottom of the map board, and the town will attain new levels when reaching the designated thresholds.
+
+When the city reaches a new level of prosperity, players gain two benefits:
+
+- New items become available for purchase, according to the chart on p. 43.
+- New characters may begin at any level equal to or less than the prosperity level of the town. Likewise, any character with a level lower than the prosperity level may immediately advance their level to match. In either case, follow the level-up steps on p. 44, adjusting the character’s experience value to the minimum value required for the new level.
+
+---
+**<p align="right">Page 49</p>**
+
+---
+
+## Scenario Completion
+
+When a scenario is successfully completed as part of the campaign, a number of rewards are gained by the party. These are listed at the end of the scenario’s entry in the Scenario Book. Rewards can include global or party achievements, extra gold or experience for each party member, prosperity increases, unlocked scenarios, items, or item designs. As discussed on p. 42, if a scenario reward directs a party to lose something, they can’t lose more than what they have.
+
+When a new scenario is unlocked, find its corresponding number on the world map using its grid location and place the sticker matching the scenario on top of it. Note that the scenario numbers in circles within the story text do not unlock scenarios. These are simply references to what the story text is referring to. If an item is gained as a reward, players should find one copy of that item from the deck of unavailable items and give it to one of the present characters. If an item design is gained as a reward, players should find all copies of that item from the deck of unavailable items and add them to the city’s available supply of items.
+
+# Special Conditions for Opening Envelopes
+
+- [ ] Gain 5 “Ancient Technology” global achievements – open envelope **A**
+- [ ] Have a party gain both “The Drake’s Command” and “The Drake’s Treasure” party achievements – add City Event 75 and Road Event 66 to the decks, and gain “The Drake Aided” global achievement
+- [ ] Donate a total of 100 gold to the Sanctuary of the Great Oak – open envelope **B**
+- [ ] Have a party reputation of 10 or higher – open box ![Sun class](img/icons/class/07.png)
+- [ ] Have a party reputation of 20 – add City Event 76 and Road Event 67 to the deck
+- [ ] Have a party reputation of -10 or lower – open box ![Eclipse class](img/icons/class/10.png)
+- [ ] Have a party reputation of -20 – add City Event 77 and Road Event 68 to the deck
+- [ ] Retire a character – open the Town Records Book
+
+# Game Variant: Reduced Randomness
+
+If players desire to reduce the variance in damage caused by the “2x” ![2x card](img/misc/2x-card.png) and “Null” ![Null card](img/misc/null-card.png) attack modifier effects, they can instead treat BLESS ![Bless card](img/misc/bless-card.png) and the standard “2x” cards as a +2 ![+2 card](img/misc/plus-2-card.png) modifier and CURSE ![Curse card](img/misc/curse-card.png) and the standard “Null” cards as a -2 ![-2 card](img/misc/minus-2-card.png) modifier. Players should still shuffle the corresponding attack modifier deck at the end of a round after one of these cards is drawn
