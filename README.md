@@ -1073,3 +1073,154 @@ Once players have completed “The Power of Enhancement” global achievement, t
 ![Enhancement spot](img/rulebook/enhancement-spot.png)
 
 Ability cards can be enhanced in a variety of ways, with each costing a specific amount of gold. This cost must be paid by the character whose ability card is being enhanced.
+
+---
+**<p align="right">Page 46</p>**
+
+---
+
+Each kind of enhancement sticker has a different function and has restrictions on where it can be placed. “Main line ability” refers to an ability written in large font (as opposed to modifiers written in a smaller font under the main line):
+
+Sticker | Restrictions | Examples
+--------|--------------|---------
+![Enhancement Sticker +1](img/rulebook/enhancement-sticker-plus-1.png) | Can be placed on any ability line or summon base stat line with a numerical value. That value is increased by 1. | ![Enhancement Example +1](img/rulebook/enhancement-example-plus-1.png)
+![Enhancement Sticker Negative Condition](img/rulebook/enhancement-sticker-negative-condition.png) | Can be placed on any main ability line that targets enemies. The specified condition is applied to all targets of the ability. | ![Enhancement Example Negative Condition](img/rulebook/enhancement-example-negative-condition.png)
+![Enhancement Sticker Positive Condition](img/rulebook/enhancement-sticker-positive-condition.png) | Can be placed on any main ability line that affects allies or yourself. A “Move” ability does not count as affecting yourself. The specified condition is applied to all targets of the ability. | ![Enhancement Example Positive Condition](img/rulebook/enhancement-example-positive-condition.png)
+![Enhancement Sticker Jump](img/rulebook/enhancement-sticker-jump.png) | Can be placed on any “Move” ability line. The movement is now considered a jump. | ![Enhancement Example Jump](img/rulebook/enhancement-example-jump.png)
+![Enhancement Sticker Elements](img/rulebook/enhancement-sticker-element.png) | Can be placed on any main ability line. The element is created when the ability is used. In the case of a ![Any element](img/icons/elements/any.png) the player chooses the element as normal. | ![Enhancement Example Elements](img/rulebook/enhancement-example-element.png)
+![Enhancement Sticker Area of Effect](img/rulebook/enhancement-sticker-aoe.png) | Can be placed to increase the graphical depiction of an area attack. The new hex becomes an additional target of the attack. | ![Enhancement Example Area of Effect](img/rulebook/enhancement-example-aoe.png)
+
+The base cost associated with any enhancement depends on the sticker **and** what ability the sticker is enhancing. Double the base cost of an enhancement (other than an attack hex) if it is applied to an ability that targets multiple figures. Additional costs are added based on the level of the ability card and the number of previously placed enhancement stickers on the same **action**.
+
+The total number of enhanced cards in a class’s ability deck must be **equal to or less than** the prosperity level of the town. Once placed, enhancement stickers should never be removed. **Enhancements persist through all instances of a specific character class, even after retirement.**
+
+---
+**<p align="right">Page 47</p>**
+
+---
+
+<table>
+  <tr>
+    <td colspan="2" align="center"><b>Base <img alt="+1 enhancement" src="img/misc/enhancement-sticker-plus-1.png"> Enhancement Cost</b></center>
+    <td rowspan="16">
+    <td colspan="2" align="center"><b>Base Other Effects Cost</b>
+    <td rowspan="18">
+    <td colspan="2" align="center"><b>Level of Ability Card</b>
+
+  <tr>
+    <td>Move <img alt="Move" src="img/icons/general/move.png">
+    <td align="right">30g
+    <td>POISON <img alt="POISON" src="img/icons/status/poison.png">
+    <td align="right">75g
+    <td>1
+    <td align="right">+0g
+
+  <tr>
+    <td>Attack <img alt="Attack" src="img/icons/general/attack.png">
+    <td align="right">50g
+    <td>WOUND <img alt="WOUND" src="img/icons/status/wound.png">
+    <td align="right">75g
+    <td>2
+    <td align="right">+25g
+    
+  <tr>
+    <td>Range <img alt="Range" src="img/icons/general/range.png">
+    <td align="right">30g
+    <td>MUDDLE <img alt="MUDDLE" src="img/icons/status/muddle.png">
+    <td align="right">50g
+    <td>3
+    <td align="right">+50g
+
+  <tr>
+    <td>Shield <img alt="Shield" src="img/icons/general/shield.png">
+    <td align="right">100g
+    <td>IMMOBILIZE <img alt="IMMOBILIZE" src="img/icons/status/immobilize.png">
+    <td align="right">100g
+    <td>4
+    <td align="right">+75g
+
+  <tr>
+    <td>PUSH <img alt="PUSH" src="img/icons/status/push.png">
+    <td align="right">30g
+    <td>DISARM <img alt="DISARM" src="img/icons/status/disarm.png">
+    <td align="right">150g
+    <td>5
+    <td align="right">+100g
+
+  <tr>
+    <td>PULL <img alt="PULL" src="img/icons/status/pull.png">
+    <td align="right">30g
+    <td>CURSE <img alt="CURSE" src="img/icons/status/curse.png">
+    <td align="right">75g
+    <td>6
+    <td align="right">+125g
+
+  <tr>
+    <td>PIERCE <img alt="PIERCE" src="img/icons/status/pierce.png">
+    <td align="right">30g
+    <td colspan="2">
+    <td>7
+    <td align="right">+150g
+
+  <tr>
+    <td>Retaliate <img alt="Retaliate" src="img/icons/general/retaliate.png">
+    <td align="right">100g
+    <td>STRENGTHEN <img alt="STRENGTHEN" src="img/icons/status/strengthen.png">
+    <td align="right">50g
+    <td>8
+    <td align="right">+175g
+
+  <tr>
+    <td>Heal <img alt="Heal" src="img/icons/general/heal.png">
+    <td align="right">30g
+    <td>BLESS <img alt="BLESS" src="img/icons/status/bless.png">
+    <td align="right">50g
+    <td>9
+    <td align="right">+200g
+
+  <tr>
+    <td>Target <img alt="Target" src="img/icons/general/target.png">
+    <td align="right">50g
+    <td colspan="2">
+    <td colspan="2" rowspan="3">
+  <tr>
+    <td colspan="2" align="center"><b>(For summons)</b>
+    <td>Jump <img alt="Jump" src="img/icons/general/jump.png">
+    <td align="right">50g
+  <tr>
+    <td>Move <img alt="Move" src="img/icons/general/move.png">
+    <td align="right">100g
+    <td colspan="2">
+  <tr>
+    <td>Attack <img alt="Attack" src="img/icons/general/attack.png">
+    <td align="right">100g
+    <td>Specific element <img alt="Air" src="img/icons/elements/air.png"><img alt="Light" src="img/icons/elements/light.png"><img alt="Ice" src="img/icons/elements/ice.png"><img alt="Dark" src="img/icons/elements/dark.png"><img alt="Fire" src="img/icons/elements/fire.png"><img alt="Earth" src="img/icons/elements/earth.png">
+    <td align="right">100g
+    <td colspan="2" align="center"><b>Number of Previous Enhancements</b>
+  <tr>
+    <td>Range <img alt="Range" src="img/icons/general/range.png">
+    <td align="right">50g
+    <td>Any element <img alt="Any element" src="img/icons/elements/any.png">
+    <td align="right">150g
+    <td>0
+    <td align="right">+0g
+  <tr>
+    <td>HP <img alt="HP" src="img/icons/general/heal.png">
+    <td align="right">50g
+    <td colspan="2">
+    <td>1
+    <td align="right">+75g
+  <tr>
+    <td colspan="5" align="center"><b>Double base cost for any ability with multiple targets.</b>
+    <td>2
+    <td align="right">+150g
+  <tr>
+    <td colspan="3">Attack Hex <img alt="AoE target" src="img/icons/general/aoe-target.png">
+    <td colspan="2">200g divided by the number of hexes currently targeted with the attack
+    <td>3
+    <td align="right">+225g
+</table>
+
+![Enhancement example](img/rulebook/enhancement-example.png)
+
+***Example:** The Brute wishes to enhance the top action of his ability card with a +1 on the attack (a). The base cost of this is 50 gold, but it is doubled because the attack targets multiple enemies. In addition, this is a level 3 ability card (b), so another 50 gold is added, for a total of 150 gold. Afterwards, the Brute now wants to add an attack hex to the action (c). This would normally cost 66 gold (200 gold divided by three existing hexes, rounded down), but again, 50 gold is added because the card is level 3, and now an additional 75 gold is added because the action was previously enhanced once, for a total 191 gold.*
