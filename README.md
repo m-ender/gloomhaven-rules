@@ -850,3 +850,53 @@ When a new character is created, the player should start a new entry in the char
 - A space to track all the items a character has in their possession (f). 
 - A perk list specific to the character class (g). Whenever a character gains a perk (see Additional Perks on p. 44 for details), they mark the one on the list they want. 
 - A space for additional notes (h). If players would like to track progress on other aspects of their character, they can do so here. This space also includes a track for checkmarks (i) attained through battle goals.
+
+---
+**<p align="right">Page 38</p>**
+
+---
+
+## Personal Quest Cards
+
+When a character is created, he or she is dealt two random **personal quest cards** and chooses one to keep, returning the other to the personal quest deck. A character’s personal quest is their primary reason for participating in a party.
+
+### A PERSONAL QUEST CARD INCLUDES:
+
+![Personal quest card](img/rulebook/personal-quest-card.png)
+
+- A thematic description of the quest (a).
+- The specific requirements for completing the quest and the rewards for doing so (b). When a personal quest is completed, the character will retire (see Announcing Retirement on p. 48 for details).
+
+## Random Item Design Cards
+
+![Random item design card](img/rulebook/random-item-design-card.png)
+
+Whenever a “Random Item Design” is listed as the reward when looting a treasure tile, the looting player should draw a card from the random item design deck. These cards look very similar to normal item cards, but have a blue back, shown at the right. When a card is drawn, the player should find the one additional copy of the drawn item with the same reference number in the deck of unavailable items and add both cards to the city’s available supply of items. It is possible to deplete the random item design deck. In this case, additional random item design rewards have no effect.
+
+## Random Side Scenario Cards
+
+![Random side scenario card](img/rulebook/random-side-scenario-card.png)
+
+Whenever a “Random Side Scenario” is listed as the reward when looting a treasure tile, the looting players should draw a card from the random side scenario deck. The drawn scenario is then immediately unlocked and its corresponding sticker is placed on the campaign map. The drawn scenario card is then removed from the game. It is possible to deplete the random side scenario deck. In this case, additional random side scenario rewards have no effect.
+
+---
+**<p align="right">Page 39</p>**
+
+---
+
+## City and Road Event Cards
+
+![Event cards](img/rulebook/event-cards.png)
+
+Players will have many opportunities to encounter city and road events throughout a campaign. When players encounter an event, they draw the top card off the corresponding deck and read the front side (a). Note that event cards have content on both sides, and the back (b) should not be read until the front is resolved. City events and road events have different art and content, but they work the same way.
+
+### AN EVENT CARD CONTAINS:
+
+- A thematic introduction to the event (c). This should be read first. 
+- A **decision point** (d). The party as a whole must choose between two options depending on their preference. Only after a collective decision has been reached should the card be flipped over and the proper **outcome** on the back resolved. 
+- The number of the event (e). This number will be referenced in the game when instructing players to add specific events to their respective decks. 
+- Descriptions of both choices (f). Depending on which option the party chose, players should read the corresponding choice and ignore the other. 
+- The outcome of a choice (g), which consists of a block of thematic text followed by the specific game play effects on the game in bold. A choice can contain multiple separate outcomes, some dependent on specific conditions (see Completing Road Events on pp. 41–42 for details). 
+- Icons directing players to either remove the event card from the game (h) or return it to the bottom of the corresponding event deck (i) after the outcome is resolved.
+
+When the game box is opened and the campaign begins, a shuffled city event deck and road event deck should both be created using city and road events 01 through 30. Players will be directed to add or remove certain events from these decks over the course of the campaign. When a card is added to an event deck, the event deck should then be shuffled. Note that adding a card is different from returning a played card to an event deck, in which case it is placed on the bottom of the deck and the deck is not shuffled.
