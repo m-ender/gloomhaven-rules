@@ -900,3 +900,58 @@ Players will have many opportunities to encounter city and road events throughou
 - Icons directing players to either remove the event card from the game (h) or return it to the bottom of the corresponding event deck (i) after the outcome is resolved.
 
 When the game box is opened and the campaign begins, a shuffled city event deck and road event deck should both be created using city and road events 01 through 30. Players will be directed to add or remove certain events from these decks over the course of the campaign. When a card is added to an event deck, the event deck should then be shuffled. Note that adding a card is different from returning a played card to an event deck, in which case it is placed on the bottom of the deck and the deck is not shuffled.
+
+---
+**<p align="right">Page 40</p>**
+
+---
+
+## Sealed Boxes and Envelopes
+
+The game box includes a number of sealed boxes and envelopes, each designated with a symbol or letter. At certain times, the game will direct players to open one of these. If it contains materials for a new character class, that character class is now available for anyone starting a new character. If the envelope contains other contents, the contents will direct the players how to use them.
+
+Players will be directed to open boxes or envelopes when they complete personal quests or meet specific conditions. These conditions are listed on p. 49.
+
+## Town Records
+
+The game box also includes a small sealed book titled “Town Records.” Players are directed to open this book once the first character retires, at which point they can begin reading the book from front to back. At certain points in the book, players will be directed to stop reading until certain conditions are met.
+
+## Achievements
+
+The achievement system is the main way that players will keep track of major changes in the world and what scenarios a particular party has access to while playing in campaign mode. There are two types of achievements: **global achievements** and **party achievements**. 
+
+**Global achievements** affect the entire game world, regardless of what party is playing in it. Global achievements are tracked with stickers along the top of the world map. Some global achievements have a specific type (listed after the achievement in the format of “Type: Achievement,” e.g., “City Rule: Militaristic”). Only one global achievement of each type can be active at a time. If a global achievement is gained and there is already an active achievement of the same type, the previous achievement is overwritten and the new sticker is placed on top of the previous one. Multiple instances of a single global achievement are possible, so long they don’t have a specific type.
+
+**Party achievements** are tied to a specific party and are mainly used to keep track of what scenarios are available to play in campaign mode for that party.
+
+---
+**<p align="right">Page 41</p>**
+
+---
+
+# Playing a Campaign
+
+## Traveling and Road Events
+
+After every scenario, whether it was a success or failure, players have the choice to either return to Gloomhaven or to immediately **travel** to a new scenario.
+
+In the case that players immediately travel to a new scenario, they must complete a road event before starting the new scenario **unless they are playing the same scenario, the new scenario is linked to the previous scenario, or they are playing in casual mode.** In a scenario’s entry in the Scenario Book, the scenarios that are **linked** to that entry are listed on the upper right side of the page. If the two scenarios are **linked**, players can immediately start the new scenario without completing a road event.
+
+If players return to Gloomhaven, once they are finished with their **business** in town (see Visiting Gloomhaven on pp. 42–48 for details), then the party will still need to **travel** to a new scenario and complete a road event **unless the new scenario is linked to Gloomhaven or it is being played in casual mode**. This link will also be listed in the scenario’s entry in the scenario book.
+
+***Example:** After completing the **Black Barrow** scenario, the party unlocks the **Barrow Lair** scenario. These two scenarios are **linked**, so they could travel to the Barrow Lair without completing a road event. Instead, they decide to go back to **Gloomhaven** to spend the money they gathered. Now when they travel to the Barrow Lair, they must complete a road event because the Barrow Lair is not linked to Gloomhaven.*
+
+### COMPLETING ROAD EVENTS
+
+To complete a road event, players draw a single card from the road event deck and read the introductory text on the front. After this text, two options are given, and players must agree on a single choice before turning over the card and reading the matching outcome. **Once the outcome has been read, the choice cannot be changed**, and players must gain or lose whatever the outcome directs.
+
+Depending on the makeup and reputation of the party, a single **choice** (A or B) can have several different **outcomes**. A choice should be read top to bottom, resolving all outcomes that apply to the party.
+
+An outcome can be preceded by one of the following conditions:
+
+- <img align="left" src="img/rulebook/event-outcome-class.png"> A class icon. As long as one of the listed class icons matches the class icon of a current member of the party, the outcome is applied.
+- <img align="left" src="img/rulebook/event-outcome-reputation.png"> A range of reputation. If the party’s reputation is within the designated range, the outcome is applied.
+- <img align="left" src="img/rulebook/event-outcome-gold.png"> A collective gold amount. If the party collectively has equal to or more than the gold amount, that amount is lost, and the outcome is applied.
+- <img align="left" src="img/rulebook/event-outcome-otherwise.png"> The word “otherwise.” If none of the preceding outcomes were applied, apply this outcome instead.
+
+If the outcome does not have a condition, the outcome is applied.
