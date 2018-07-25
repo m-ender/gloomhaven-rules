@@ -78,7 +78,7 @@ Playing ability cards is what allows a character to perform **actions** in a sce
 
 Item cards are acquired by spending gold in between scenarios or looting specific treasure tiles. All item cards a character equips will be placed below his or her character mat and can be used during a battle to augment his or her abilities. Item cards are not class-specific, so any character can use any item. However, characters are limited in the number of items they can **equip** (bring into a scenario). Each character can equip only one Head item, one Body item, one Legs item, up to two One Hand items **OR** one Two Hand item, and up to a number of Small Items equal to half their level, rounded up. **Characters cannot own more than one copy of any item card.**
 
-[Head icon](img/icons/items/large/head.png) | [Body icon](img/icons/items/large/body.png) | [Legs icon](img/icons/items/large/legs.png) | [Two Hands icon](img/icons/items/large/two-hands.png) | [One Hand icon](img/icons/items/large/one-hand.png) | [Small icon](img/icons/items/large/small-item.png)
+[Head icon](img/icons/items/large/head.png) | [Body icon](img/icons/items/large/body.png) | [Legs icon](img/icons/items/large/legs.png) | [One Hand icon](img/icons/items/large/one-hand.png) | [Two Hands icon](img/icons/items/large/two-hands.png) | [Small icon](img/icons/items/large/small-item.png)
 -----|------|------|----------|-----------|-----------
 Head | Body | Legs | One Hand | Two Hands | Small Item
 
