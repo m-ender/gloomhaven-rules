@@ -1,6 +1,10 @@
 # Gloomhaven Rule Book
 An inofficial lightweight, searchable copy of the rule book. All text is taken directly from the official rule book and any mistakes are my own.
 
+- [README.md](README.md) contains all the relevant images from the rule book and weighs in at about 16MB.
+- [README-no-large-images.md](README-no-large-images.md) has most of the screenshots from the rule book replaced with links to those images and is only about 2MB.
+- [README-no-images.md](README-no-images.md) contains no images at all (only links to them) and is less than 500KB in size.
+
 ---
 **<p align="right">Pages 4 and 5</p>**
 
