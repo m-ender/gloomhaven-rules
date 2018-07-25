@@ -701,7 +701,7 @@ Monsters without the Flying trait consider negative hexes (traps or hazardous te
 
 [Monster trap example 2](img/rulebook/monster-trap-example-2.png)
 
-Example: Archer (1) will focus on the Brute (a), since she can get in range to attack him with the least number of moves. If the archer has a Range 3 attack and Move 2, she will move to hex (b) and attack her focus. If she only has Move 1, however, she will stay where she is and not attack. She will not move into the trap (c), even though it would put her in range to attack the Brute, because there is still another viable path to get within range of the Brute, even if she can’t use it this turn. She also will not move to hex (d), as it would get her no closer to being in range of the Brute.
+***Example:** Archer (1) will focus on the Brute (a), since she can get in range to attack him with the least number of moves. If the archer has a Range 3 attack and Move 2, she will move to hex (b) and attack her focus. If she only has Move 1, however, she will stay where she is and not attack. She will not move into the trap (c), even though it would put her in range to attack the Brute, because there is still another viable path to get within range of the Brute, even if she can’t use it this turn. She also will not move to hex (d), as it would get her no closer to being in range of the Brute.*
 
 ### MONSTER ATTACKS
 
