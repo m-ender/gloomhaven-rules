@@ -1,5 +1,5 @@
 # Gloomhaven Rule Book
-An inofficial light-weight, searchable copy of the rule book. All text is taken directly from the official rule book and any mistakes are my own.
+An inofficial lightweight, searchable copy of the rule book. All text is taken directly from the official rule book and any mistakes are my own.
 
 ---
 **<p align="right">Pages 4 and 5</p>**
