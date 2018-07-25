@@ -686,6 +686,10 @@ Having abilities other than “Attack” on its ability card does not affect a m
 
 ***Example:** Monster (1) can perform a “Move 3” ability. It first focuses on the Brute (a), since he is the closest enemy. If the monster had a ranged attack, it would remain in its current hex and attack the Brute. If it had a single-target melee attack, it would move 1 hex (b) to be adjacent to the Brute and attack. If it could attack two targets with a melee attack, it would move 2 hexes (c) to be adjacent to both the Brute and the Tinkerer. If it could melee attack three or more targets, it would move 3 hexes (d) to be adjacent to all three characters.*
 
+- [README.md](README.md) contains all the relevant images from the rule book and weighs in at about 16MB.
+- [README-no-large-images.md](README.md) has most of the screenshots from the rule book replaced with links to those images and is only about 2MB.
+- [README-no-images.md](README.md) contains no images at all (only links to them) and is less than 500KB in size.
+
 ---
 **<p align="right">Page 31</p>**
 
