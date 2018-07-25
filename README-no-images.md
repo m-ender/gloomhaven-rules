@@ -32,7 +32,7 @@ The following section will teach you the mechanics for playing through an indivi
 
 ## Character Mats
 
-When a player begins their journey with the game, he or she will select one of the available character classes to play. Only one copy of each character class can be played in any given scenario. Each class has a unique set of abilities, so this is an important decision to make. When the box is first opened, the Brute ![Brute](img/icons/class/01.png), Tinkerer ![Tinkerer](img/icons/class/02.png), Spellweaver ![Spellweaver](img/icons/class/03.png), Scoundrel ![Scoundrel](img/icons/class/04.png), Cragheart ![Cragheart](img/icons/class/05.png), and Mindthief ![Mindthief](img/icons/class/06.png) are available.
+When a player begins their journey with the game, he or she will select one of the available character classes to play. Only one copy of each character class can be played in any given scenario. Each class has a unique set of abilities, so this is an important decision to make. When the box is first opened, the [Brute](img/icons/class/01.png), [Tinkerer](img/icons/class/02.png), [Spellweaver](img/icons/class/03.png), [Scoundrel](img/icons/class/04.png), [Cragheart](img/icons/class/05.png), and [Mindthief](img/icons/class/06.png) are available.
 
 Once a character class has been chosen, the player takes the corresponding character mat, character tokens, and that character’s starting hand of Level 1 ability cards from the larger tuck box containing the character’s symbol, as well as the miniature contained in the smaller character tuck box.
 
@@ -72,9 +72,9 @@ Playing ability cards is what allows a character to perform **actions** in a sce
 
 ## Item Cards
 
-Item cards are acquired by spending gold in between scenarios or looting specific treasure tiles. All item cards a character equips will be placed below his or her character mat and can be used during a battle to augment his or her abilities. Item cards are not class-specific, so any character can use any item. However, characters are limited in the number of items they can **equip** (bring into a scenario). Each character can equip only one ![Head item](img/icons/items/head.png) item, one ![Body item](img/icons/items/body.png) item, one ![Legs item](img/icons/items/legs.png) item, up to two ![One Hand item](img/icons/items/one-hand.png) items **OR** one ![Two Hands item](img/icons/items/two-hands.png) item, and up to a number of ![Small item](img/icons/items/small-item.png) equal to half their level, rounded up. **Characters cannot own more than one copy of any item card.**
+Item cards are acquired by spending gold in between scenarios or looting specific treasure tiles. All item cards a character equips will be placed below his or her character mat and can be used during a battle to augment his or her abilities. Item cards are not class-specific, so any character can use any item. However, characters are limited in the number of items they can **equip** (bring into a scenario). Each character can equip only one Head item, one Body item, one Legs item, up to two One Hand items **OR** one Two Hand item, and up to a number of Small Items equal to half their level, rounded up. **Characters cannot own more than one copy of any item card.**
 
-![Head item](img/icons/items/large/head.png) | ![Body item](img/icons/items/large/body.png) | ![Legs item](img/icons/items/large/legs.png) | ![Two Hands item](img/icons/items/large/two-hands.png) | ![One Hand item](img/icons/items/large/one-hand.png) | ![Small item](img/icons/items/large/small-item.png)
+[Head icon](img/icons/items/large/head.png) | [Body icon](img/icons/items/large/body.png) | [Legs icon](img/icons/items/large/legs.png) | [Two Hands icon](img/icons/items/large/two-hands.png) | [One Hand icon](img/icons/items/large/one-hand.png) | [Small icon](img/icons/items/large/small-item.png)
 -----|------|------|----------|-----------|-----------
 Head | Body | Legs | One Hand | Two Hands | Small Item
 
@@ -84,12 +84,12 @@ Head | Body | Legs | One Hand | Two Hands | Small Item
 
 - The name of the item (a) and the amount of gold a character must pay to acquire the item from the shop (b).
 - What happens to the card after it is used (c). 
-  - This symbol ![Spend](img/icons/general/spend.png) means the item is **spent** after use, which is denoted by rotating the card to its side. Spent cards can be refreshed when a character performs a long rest (see Resting on p. 17 for more details). Sometimes an item is used multiple times before it is spent or consumed. This is depicted by use slots (d) on the card and can be tracked using a character token. 
-  - This symbol ![Consume](img/icons/general/loss.png) (not pictured) means the item is **consumed** after use, which is shown by flipping the card facedown. Consumed cards can only be refreshed **during a scenario** by specific abilities. **All items are refreshed between scenarios.** No item can be permanently consumed. 
+  - [This symbol](img/icons/general/spend.png) means the item is **spent** after use, which is denoted by rotating the card to its side. Spent cards can be refreshed when a character performs a long rest (see Resting on p. 17 for more details). Sometimes an item is used multiple times before it is spent or consumed. This is depicted by use slots (d) on the card and can be tracked using a character token. 
+  - [This symbol](img/icons/general/loss.png) (not pictured) means the item is **consumed** after use, which is shown by flipping the card facedown. Consumed cards can only be refreshed **during a scenario** by specific abilities. **All items are refreshed between scenarios.** No item can be permanently consumed. 
   - If a card depicts neither of these symbols, there are no restrictions on the number of times it can be used during a scenario, other than what is written in the text of the card.
 - When the item can be used and the bonus gained by the character when the item card is used (e).
 - The equip slot (Head, Body, Legs, One Hand, Two Hands, Small Item) the item occupies (f).
-- Some equipped items add a number of ![Penalty attack modifier cards](img/misc/penalty-card.png) cards to the equipping character’s attack modifier deck at the start of a scenario. If this is the case, the number of modifier cards is specified on the item (g).
+- Some equipped items add a number of [-1 cards](img/misc/penalty-card.png) to the equipping character’s attack modifier deck at the start of a scenario. If this is the case, the number of modifier cards is specified on the item (g).
 - A count of how many of this item are in the game (h) and where this card lies within that count (i).
 - Reference number for the item (j), which is on the back of the card.
 
@@ -114,7 +114,7 @@ A monster stat sleeve should be used to track damage and condition tokens and to
 - A monster’s **movement** value (f), the base number of hexes a monster can move with a **Move** action.
 - A monster’s **attack** value (g), the base amount of damage the monster does with an **Attack** action.
 - A monster’s **range** value (h), which is the base number of hexes away from the monster’s own hex that the monster can reach with an attack or a heal. A “–” as the range value signifies the monster’s normal **Attack** action can only target adjacent hexes (i.e., a **melee** attack).
-- Any special traits this monster type possesses (i). These traits are permanent and persist from round to round. These traits may include Flying, which is symbolized by ![Flying](img/icons/general/flying.png) (j) next to the monster’s name (see Move on p. 19 for details).
+- Any special traits this monster type possesses (i). These traits are permanent and persist from round to round. These traits may include Flying, which is symbolized by [this symbol](img/icons/general/flying.png) (j) next to the monster’s name (see Move on p. 19 for details).
 
 ---
 **<p align="right">Page 10</p>**
@@ -166,15 +166,15 @@ A rolling modifier symbol (g) indicates that an additional modifier card should 
 
 [BLESS and CURSE cards](img/rulebook/bless-curse-cards.png)
 
-A special BLESS (h) or CURSE (i) border. If a BLESS or CURSE card is drawn, it should be **removed** from the player’s deck instead of being placed into the discard. Curse cards also have either a ![Monster icon](img/misc/monster.png) or an ![Star icon](img/misc/star.png) to denote whether they can be placed in the monster attack modifier deck ![Monster icon](img/misc/monster.png), or a character's attack modifier deck ![Star icon](img/misc/star.png).
+A special BLESS (h) or CURSE (i) border. If a BLESS or CURSE card is drawn, it should be **removed** from the player’s deck instead of being placed into the discard. Curse cards also have either a [monster icon](img/misc/monster.png) or a [player icon](img/misc/star.png) to denote whether they can be placed in the monster attack modifier deck, or a character's attack modifier deck.
 
 [Shuffle symbol](img/rulebook/shuffle.png)
 
-A shuffle symbol (j). At the end of the round in which a “Null” ![Null card](img/misc/null-card.png) or “2x” ![2x card](img/misc/2x-card.png) card is drawn from a deck, players will shuffle all the played modifier cards back into that particular draw deck. This shuffling also happens if a modifier card must be drawn and there are none left in the draw pile.
+A shuffle symbol (j). At the end of the round in which a [“Null” card](img/misc/null-card.png) or [“2x” card](img/misc/2x-card.png) card is drawn from a deck, players will shuffle all the played modifier cards back into that particular draw deck. This shuffling also happens if a modifier card must be drawn and there are none left in the draw pile.
 
 [Modifier type icons](img/rulebook/modifier-type-icons.png)
 
-A type icon (k). All standard attack modifier decks have a 1, 2, 3, 4, or M icon (l) for easy sorting, such that all cards with a given icon form the standard 20-card deck. All cards a character class adds to their modifier decks through perks (see Leveling Up on pp. 44–45 for details) have the symbol of that character class (m). Cards added to a modifier deck by a scenario or item effect have a ![Star icon](img/misc/star.png) icon (n). These cards should be removed at the end of a scenario.
+A type icon (k). All standard attack modifier decks have a 1, 2, 3, 4, or M icon (l) for easy sorting, such that all cards with a given icon form the standard 20-card deck. All cards a character class adds to their modifier decks through perks (see Leveling Up on pp. 44–45 for details) have the symbol of that character class (m). Cards added to a modifier deck by a scenario or item effect have a [player icon](img/misc/star.png) (n). These cards should be removed at the end of a scenario.
 
 ---
 **<p align="right">Page 12</p>**
@@ -206,11 +206,11 @@ When setting up a new scenario, the first step is to look in the scenario book t
  
   Indications used to populate the scenario map based on the monster key . These indications may be in one of two different orientations depending on the overall orientation of the map. Monster placement is indicated in a symbol’s upper left for two characters, upper right for three characters and bottom for four characters. **BLACK** means the monster is not present, **WHITE** means a normal monster is present, and **GOLD** means an elite monster is present. Normal monsters should be placed on the map with their corresponding standees in white bases, and elite monsters should be placed in gold bases. Example: / indicates which type of monster is placed on this hex, and in this case no monster is placed in for two characters, a normal monster is placed for three characters, and an elite monster is placed for four characters. 
 
-  ***Example:** ![Monster key example](img/misc/monster-key-example.png) indicates which type of monster is placed on this hex, and in this case no monster is placed in for two characters, a normal monster is placed for three characters, and an elite monster is placed for four characters.*
+  ***Example:** [This monster key](img/misc/monster-key-example.png) indicates which type of monster is placed on this hex, and in this case no monster is placed in for two characters, a normal monster is placed for three characters, and an elite monster is placed for four characters.*
 
   **Note that only monsters in the starting room are placed at the beginning of a scenario. Monster standees each have a number to determine the order in which they act during the turn (see Order of Action on p. 29 for details). The standee numbers should be randomized when placed.**
   
-- The available starting character locations, depicted by ![Starting location](img/icons/general/starting-location.png) (r) . Players can choose to place their figures on any empty ![Starting location](img/icons/general/starting-location.png) hex at the start of the scenario.
+- The available starting character locations, depicted by [this symbol](img/icons/general/starting-location.png) (r) . Players can choose to place their figures on any empty starting hex at the start of the scenario.
 - The type of traps used in this scenario (s) and the reward for looting any treasure tiles on the board (t). The numbers for the treasures are referenced in the back of the Scenario Book, so that rewards are kept secret.
 - Locations of money tokens (u) and overlay tiles (v) to be placed on the map when the room tile is revealed.
 
@@ -227,10 +227,10 @@ A scenario is constructed from a set of map tiles as instructed in the Scenario 
 
 - **Doors** ![Door colour](img/misc/colour-door.png). A door acts as a separation between two rooms. When a character moves onto a closed door tile, they immediately flip over the door tile to the open side, revealing the adjacent room tile. Immediately place overlay tiles, monsters, and money tokens as indicated in the scenario description for the revealed room. While closed doors do not hinder character movement at all, they act as a wall for any monsters or character-summoned figures, and figures cannot be forced through a closed door. Open doors do not hinder any movement and cannot be closed. Door art varies by environment type, but they all function exactly the same.
 - **Corridors** ![Corridor colour](img/misc/colour-corridor.png). A corridor is placed on the connection of two map tiles to cover the walls and create a single room out of multiple map tiles. Corridors act like normal empty hexes.
-- **Traps** ![Trap colour](img/misc/colour-trap.png). A trap is sprung when a figure enters its hex with normal or forced movement. Flying ![Flying](img/icons/general/flying.png) and Jump ![Jump](img/icons/general/jump.png) movements are unaffected by traps. When a trap is sprung, it inflicts some negative effect on the figure who sprung it and then it is **removed from the board**. A trap can also be disarmed through specific actions to remove it from the board without suffering its negative effects. Trap effects are varied and are specified in the Scenario Book. If part of a trap’s effect is listed as “damage,” the trap will inflict **2+L damage** on the affected figure, where L is the **scenario level**. Characters and monsters can also create traps on the board, with the effects specified by the ability that creates the trap. Whenever a trap is placed on the board, tokens for the damage and effects the trap applies should be placed on top of the trap tile for easy reference.
-- **Hazardous terrain** ![Harzardous terrain colour](img/misc/colour-hazardous.png). If a figure enters a hex with hazardous terrain via normal or forced movement, each hex will inflict half the damage of a trap (rounded down). Flying ![Flying](img/icons/general/flying.png) and Jump ![Jump](img/icons/general/jump.png) movements are unaffected by hazardous terrain. Unlike traps, hazardous terrain does not get removed after its effect is applied, but instead remains on the board indefinitely. Starting a turn on or exiting these hexes does not cause additional damage.
-- **Difficult terrain** ![Difficult terrain colour](img/misc/colour-difficult.png). It takes a figure two normal movement points to enter a hex with difficult terrain. Flying ![Flying](img/icons/general/flying.png), Jump ![Jump](img/icons/general/jump.png), and forced movements are unaffected by difficult terrain.
-- **Obstacles** ![Obstacles colour](img/misc/colour-obstacle.png). Obstacles have varying artwork, but they all have the same function: figures cannot move through obstacles with a normal movement, but can move through them with a Flying ![Flying](img/icons/general/flying.png) or Jump ![Jump](img/icons/general/jump.png) movement. **Obstacles do not hinder ranged attacks.** It is possible for certain character abilities to create or move obstacles. When doing so, players can never completely cut off one area of the scenario map from another, such that the area cannot be moved into without going through the obstacles.
+- **Traps** ![Trap colour](img/misc/colour-trap.png). A trap is sprung when a figure enters its hex with normal or forced movement. [Flying](img/icons/general/flying.png) and [Jump](img/icons/general/jump.png) movements are unaffected by traps. When a trap is sprung, it inflicts some negative effect on the figure who sprung it and then it is **removed from the board**. A trap can also be disarmed through specific actions to remove it from the board without suffering its negative effects. Trap effects are varied and are specified in the Scenario Book. If part of a trap’s effect is listed as “damage,” the trap will inflict **2+L damage** on the affected figure, where L is the **scenario level**. Characters and monsters can also create traps on the board, with the effects specified by the ability that creates the trap. Whenever a trap is placed on the board, tokens for the damage and effects the trap applies should be placed on top of the trap tile for easy reference.
+- **Hazardous terrain** ![Harzardous terrain colour](img/misc/colour-hazardous.png). If a figure enters a hex with hazardous terrain via normal or forced movement, each hex will inflict half the damage of a trap (rounded down). [Flying](img/icons/general/flying.png) and [Jump](img/icons/general/jump.png) movements are unaffected by hazardous terrain. Unlike traps, hazardous terrain does not get removed after its effect is applied, but instead remains on the board indefinitely. Starting a turn on or exiting these hexes does not cause additional damage.
+- **Difficult terrain** ![Difficult terrain colour](img/misc/colour-difficult.png). It takes a figure two normal movement points to enter a hex with difficult terrain. [Flying](img/icons/general/flying.png), [Jump](img/icons/general/jump.png), and forced movements are unaffected by difficult terrain.
+- **Obstacles** ![Obstacles colour](img/misc/colour-obstacle.png). Obstacles have varying artwork, but they all have the same function: figures cannot move through obstacles with a normal movement, but can move through them with a [Flying](img/icons/general/flying.png) or [Jump](img/icons/general/jump.png) movement. **Obstacles do not hinder ranged attacks.** It is possible for certain character abilities to create or move obstacles. When doing so, players can never completely cut off one area of the scenario map from another, such that the area cannot be moved into without going through the obstacles.
 
 ---
 **<p align="right">Page 15</p>**
@@ -308,9 +308,9 @@ Players should not show other players the cards in their hands nor give specific
 - **Examples of appropriate communication:** “I’m attacking this guard near the middle of the round.”; “I’m planning on moving here and healing you pretty early in the round, hopefully before the monsters attack.” 
 - **Examples of inappropriate communication:** “You’ll need lower than an initiative 17 to go before me.”; “I should be doing 4 points of damage to the bandit, so you don’t have to worry about him.”; “I’m going to use Impaling Eruption and wipe out everyone.”
 
-During a player’s turn, the two played cards will be used to perform actions and then are either **discarded**, **lost**, or **activated**, depending on the actions that were taken. Played cards are normally placed in a player’s **discard pile** unless otherwise noted. **Discarded** cards can be returned to a player’s **hand** through **resting** (see below). If the performed action from a card contains a ![Loss](img/icons/general/loss.png) symbol in the lower right of the action field, the card is instead placed in a player’s **lost pile**. Lost cards can only be returned to a player’s hand during a scenario by using a special **recover** action. Whether the corresponding card is lost or discarded, some actions may contain an **active** effect (denoted by the symbols at right). Instead of being placed in the discard or lost pile, the card is placed in the **active area** in front of the player to keep track of the effect. Once the effect wears off, the card is then transferred to the appropriate pile (see Active Bonuses on pp. 25–26 for details).
+During a player’s turn, the two played cards will be used to perform actions and then are either **discarded**, **lost**, or **activated**, depending on the actions that were taken. Played cards are normally placed in a player’s **discard pile** unless otherwise noted. **Discarded** cards can be returned to a player’s **hand** through **resting** (see below). If the performed action from a card contains a [Lost symbol](img/icons/general/loss.png) in the lower right of the action field, the card is instead placed in a player’s **lost pile**. Lost cards can only be returned to a player’s hand during a scenario by using a special **recover** action. Whether the corresponding card is lost or discarded, some actions may contain an **active** effect (denoted by the symbols at right). Instead of being placed in the discard or lost pile, the card is placed in the **active area** in front of the player to keep track of the effect. Once the effect wears off, the card is then transferred to the appropriate pile (see Active Bonuses on pp. 25–26 for details).
 
-![Lost](img/icons/general/large/loss.png) | ![Recover](img/icons/general/large/recover.png) | ![Persistent Bonus](img/icons/general/large/persistent-bonus.png) | ![Round Bonus](img/icons/general/large/round-bonus.png)
+[Lost symbol](img/icons/general/large/loss.png) | [Recover symbol](img/icons/general/large/recover.png) | [Persistent Bonus symbol](img/icons/general/large/persistent-bonus.png) | [Round Bonus symbol](img/icons/general/large/round-bonus.png)
 -----|------|------|----------
 Lost | Recover | Persistent Bonus (Active Effect) | Round Bonus (Active Effect)
 
@@ -321,7 +321,7 @@ Players **must** either play two cards from their hand or declare a **long rest 
 Resting is the main way players can return discarded cards back into their hand of available cards. A player has two options when resting: a **short rest** or a **long rest**. In both cases, the rest action can -**only** be taken if a player has two or more cards in his or her discard pile, and a rest action **always** results in losing one of the discarded cards.
 
 - **Short rest:** During the cleanup step of a round, a player can perform a short rest. This allows that player to immediately shuffle his or her discard pile and **randomly** place one of the cards in the lost pile, then return the rest of the discarded cards to his or her hand. If the player would like to instead **keep** the card that was randomly lost, he or she can choose to suffer 1 damage and **randomly** lose a **different** discarded card, but this can only be done once per rest.
-- **Long rest:** A long rest is declared during the card selection step of a round and constitutes the player’s entire turn for the round. Resting players are considered to have an initiative value of 99. On the player’s turn, at the end of the initiative order, he or she must **choose** to lose one of his or her discarded cards, then return the rest of the discarded cards to his or her hand. The resting character also **performs a “Heal ![Heal](img/icons/general/heal.png) 2, Self” action and refreshes all of his or her spent item cards.**
+- **Long rest:** A long rest is declared during the card selection step of a round and constitutes the player’s entire turn for the round. Resting players are considered to have an initiative value of 99. On the player’s turn, at the end of the initiative order, he or she must **choose** to lose one of his or her discarded cards, then return the rest of the discarded cards to his or her hand. The resting character also **performs a “Heal 2, Self” action and refreshes all of his or her spent item cards.**
 
 ---
 **<p align="right">Page 18</p>**
@@ -355,11 +355,11 @@ Players can also use **any card they play** as an **“Attack 2”** action on t
 
 ### MOVE
 
-![Move](img/icons/general/move.png) A **“Move X”** ability allows a character to move **up to** X number of hexes on the map. Figures (characters and monsters) can move through allies, but cannot move through enemies or obstacles. Traps and other terrain effects of hexes must be resolved when a figure enters them with normal movement. A figure cannot end its movement in the same hex as another figure. Figures can **never** move through walls.
+A [**“Move X”**](img/icons/general/move.png) ability allows a character to move **up to** X number of hexes on the map. Figures (characters and monsters) can move through allies, but cannot move through enemies or obstacles. Traps and other terrain effects of hexes must be resolved when a figure enters them with normal movement. A figure cannot end its movement in the same hex as another figure. Figures can **never** move through walls.
 
-![Jump](img/icons/general/jump.png) Some Move abilities are specified as a “Jump.” **Move X (Jump)** allows the character to ignore all figures and terrain effects during their movement. However, the last hex of a jump is still considered a normal movement, and so must obey the normal movement rules above.
+Some Move abilities are specified as a [“Jump.”](img/icons/general/jump.png) **Move X (Jump)** allows the character to ignore all figures and terrain effects during their movement. However, the last hex of a jump is still considered a normal movement, and so must obey the normal movement rules above.
 
-![Flying](img/icons/general/flying.png) Some figures may also have the **“Flying”** special trait. This allows figures to completely ignore any figures and terrain tiles during any part of their movement, including the last hex, except that they still must end their movement in an **unoccupied** hex (no figures present). This includes forced movement like PUSH or PULL. If a figure loses its Flying trait while occupying an obstacle hex, it takes damage as if it had sprung a damage trap and then moves immediately to the nearest **empty** hex (no figures, tokens, or overlay tiles of any kind present except corridors, pressure plates, and open doors).
+Some figures may also have the [**“Flying”**](img/icons/general/flying.png) special trait. This allows figures to completely ignore any figures and terrain tiles during any part of their movement, including the last hex, except that they still must end their movement in an **unoccupied** hex (no figures present). This includes forced movement like PUSH or PULL. If a figure loses its Flying trait while occupying an obstacle hex, it takes damage as if it had sprung a damage trap and then moves immediately to the nearest **empty** hex (no figures, tokens, or overlay tiles of any kind present except corridors, pressure plates, and open doors).
 
 #### REVEALING A ROOM
 
@@ -369,9 +369,9 @@ Once everything is placed in the new room, any present monster types without an 
 
 ### ATTACK
 
-![Attack](img/icons/general/attack.png) An **“Attack X”** ability allows a character to do a base X amount of damage to an enemy within their range. Figures cannot attack their allies. There are two types of attacks: **ranged** and **melee**.
+An [**“Attack X”**](img/icons/general/attack.png) ability allows a character to do a base X amount of damage to an enemy within their range. Figures cannot attack their allies. There are two types of attacks: **ranged** and **melee**.
 
-![Range](img/icons/general/range.png) **Ranged attacks** are accompanied by a **“Range Y”** value, which means any enemy within Y hexes can be targeted by the attack. Any ranged attack targeting an adjacent enemy gains Disadvantage against that target (see Advantage and Disadvantage on pp. 20–21 for details).
+**Ranged attacks** are accompanied by a [**“Range Y”**](img/icons/general/range.png) value, which means any enemy within Y hexes can be targeted by the attack. Any ranged attack targeting an adjacent enemy gains Disadvantage against that target (see Advantage and Disadvantage on pp. 20–21 for details).
 
 **Melee attacks** have no accompanying range value and are considered to have a default range of 1 hex, which means they typically target adjacent enemies.
 
@@ -419,9 +419,9 @@ Instances of Advantage and Disadvantage are mostly gained by specific character 
 
 Some attacks and other abilities allow figures to target multiple hexes or multiple targets at the same time. In these cases, the area of effect for the ability is shown on the ability card. **Note that any rotational orientation of the depicted diagram is valid. Also note that each target constitutes a separate *attack* (drawing its own attack modifier card), but all attacks together make up a single *attack action*.**
 
-![Area of Effect: attacker](img/icons/general/aoe-attacker.png) Grey indicates the hex on which the figure is currently located. An area attack which includes a grey hex is always considered a melee attack.
+[Grey](img/icons/general/aoe-attacker.png) indicates the hex on which the figure is currently located. An area attack which includes a grey hex is always considered a melee attack.
 
-![Area of Effect: target](img/icons/general/aoe-target.png) Red indicates the hexes with enemies affected by the ability.
+[Red](img/icons/general/aoe-target.png) indicates the hexes with enemies affected by the ability.
 
 For a ranged area attack, only one of the red hexes needs to be within the range specified, and it does not need to contain an enemy. However, for both ranged and melee area attacks, **you can only attack enemies in hexes you have line of sight to**.
 
@@ -429,7 +429,7 @@ For a ranged area attack, only one of the red hexes needs to be within the range
 -|-
 ***Example:** This attack indicates that the figure can perform a ranged “Attack 4” on a cluster of three hexes as long as at least one of those hexes is within Range 3.* | ***Example:** This attack indicates that the figure can perform a melee “Attack 3” on the cluster of three hexes.*
 
-![Target](img/icons/general/target.png) Some attacks are accompanied by a “Target X” value, which means the character can target X number of different enemies within the attack’s range with the attack.
+Some attacks are accompanied by a [“Target X”](img/icons/general/target.png) value, which means the character can target X number of different enemies within the attack’s range with the attack.
 
 For any attack that targets multiple enemies, an attack modifier card is drawn for **each target**. It is not possible to target the same enemy with multiple attacks from the same ability. **Note:** Abilities can **never** target allies (positive abilities meant for allies will use the term “affect” instead of “target”). An ally can be within the affected area of an attack, but **they will not be targeted by it.**
 
@@ -444,15 +444,15 @@ Note also that as long as an attack does not specify range, it is considered mel
 
 Attack abilities will often have effects that increase their power. If an attack effect is listed on an ability card after an attack, the target (or targets) of the attack is subject to the additional effect as well, after damage from the attack is resolved. **Attack effects are applied regardless of whether the corresponding attack does damage.** These effects (except experience gains) are optional and can be skipped. Some character actions can also apply these effects without an attack, and in such cases the target of the effect is written on the ability card.
 
-![Push](img/icons/status/push.png) **PUSH X** – The target is forced to move X hexes in a direction specified by the attacker, but each hex moved must place the target **farther away from** the attacker than it was previously. If there are no viable hexes into which to push the target, the push ends. The target can be pushed through its allies, but not its enemies.
+[**PUSH X**](img/icons/status/push.png) – The target is forced to move X hexes in a direction specified by the attacker, but each hex moved must place the target **farther away from** the attacker than it was previously. If there are no viable hexes into which to push the target, the push ends. The target can be pushed through its allies, but not its enemies.
 
-![Pull](img/icons/status/pull.png) **PULL X** – The target is forced to move X hexes in a direction specified by the attacker, but each hex moved must place the target **closer to** the attacker than it was previously. If there are no viable hexes into which to pull the target, the pull ends. The target can be pulled through its allies, but not its enemies. Both push and pull effects are considered movements, however, they are not affected by difficult terrain.
+[**PULL X**](img/icons/status/pull.png) – The target is forced to move X hexes in a direction specified by the attacker, but each hex moved must place the target **closer to** the attacker than it was previously. If there are no viable hexes into which to pull the target, the pull ends. The target can be pulled through its allies, but not its enemies. Both push and pull effects are considered movements, however, they are not affected by difficult terrain.
 
-![Pierce](img/icons/status/pierce.png) **PIERCE X** – Up to X points of the target’s Shield are ignored for the attack. Unlike other effects, PIERCE is applied while calculating the accompanying attack damage instead of afterwards.
+[**PIERCE X**](img/icons/status/pierce.png) – Up to X points of the target’s Shield are ignored for the attack. Unlike other effects, PIERCE is applied while calculating the accompanying attack damage instead of afterwards.
 
 ***Example:** an Attack 3 PIERCE 2 ability used on a monster with Shield 3 would ignore two of the monster’s Shield points and inflict 2 damage (modified by an attack modifier card).*
 
-![Add Target](img/icons/status/add-target.png) **ADD TARGET** – If a figure triggers this effect with an attack action, the figure may add an additional target within range to their attack. All added effects and conditions of the attack action are applied to the target, as well, except for effects that would result in additional targets outside of the original added target (e.g., area attacks).
+[**ADD TARGET**](img/icons/status/add-target.png) – If a figure triggers this effect with an attack action, the figure may add an additional target within range to their attack. All added effects and conditions of the attack action are applied to the target, as well, except for effects that would result in additional targets outside of the original added target (e.g., area attacks).
 
 ### CONDITIONS
 
@@ -460,32 +460,32 @@ Certain abilities may apply conditions to their targets. When a condition is app
 
 The following are **negative conditions**. If an ability has the name of one of these conditions contained within it, then the condition is applied to all targets of the ability, after the main effect of the ability is applied. Conditions are applied regardless of whether the corresponding attack does damage.
 
-![Poison](img/icons/status/poison.png) **POISON** – If a figure is poisoned, all enemies add +1 Attack to all of their attacks targeting the figure. If a Heal ability is used on a poisoned figure, the POISON token is removed, and the Heal has no other effect.
+[**POISON**](img/icons/status/poison.png) – If a figure is poisoned, all enemies add +1 Attack to all of their attacks targeting the figure. If a Heal ability is used on a poisoned figure, the POISON token is removed, and the Heal has no other effect.
 
-![Wound](img/icons/status/wound.png) **WOUND** – If a figure is wounded, it suffers one point of damage at the start of each of its turns. If a Heal ability is used on a wounded figure, the WOUND token is removed and the Heal continues normally. If a figure is both poisoned and wounded, a Heal ability would remove both conditions but have no other effect.
+[**WOUND**](img/icons/status/wound.png) – If a figure is wounded, it suffers one point of damage at the start of each of its turns. If a Heal ability is used on a wounded figure, the WOUND token is removed and the Heal continues normally. If a figure is both poisoned and wounded, a Heal ability would remove both conditions but have no other effect.
 
-![Immobilize](img/icons/status/immobilize.png) **IMMOBILIZE** – If a figure is immobilized, it cannot perform any **move** abilities on its turn. At the end of its next turn, the IMMOBILIZE token is removed.
+[**IMMOBILIZE**](img/icons/status/immobilize.png) – If a figure is immobilized, it cannot perform any **move** abilities on its turn. At the end of its next turn, the IMMOBILIZE token is removed.
 
 ---
 **<p align="right">Page 23</p>**
 
 ---
 
-![Disarm](img/icons/status/disarm.png) **DISARM** – If a figure is disarmed, it cannot perform any **attack** abilities on its turn. At the end of its next turn, the DISARM token is removed.
+[**DISARM**](img/icons/status/disarm.png) – If a figure is disarmed, it cannot perform any **attack** abilities on its turn. At the end of its next turn, the DISARM token is removed.
 
-![Stun](img/icons/status/stun.png) **STUN** – If a figure is stunned, it cannot perform **any** abilities or use items on its turn **except to perform a long rest** (in the case of characters). At the end of its next turn, the STUN token is removed. Players must still play two cards or rest on their turn, and if a player plays two cards while stunned, the actions played are not used, and the cards are simply discarded.
+[**STUN**](img/icons/status/stun.png) – If a figure is stunned, it cannot perform **any** abilities or use items on its turn **except to perform a long rest** (in the case of characters). At the end of its next turn, the STUN token is removed. Players must still play two cards or rest on their turn, and if a player plays two cards while stunned, the actions played are not used, and the cards are simply discarded.
 
-![Muddle](img/icons/status/muddle.png) **MUDDLE** – If a figure is muddled, it gains Disadvantage on all of its attacks. At the end of its next turn, the MUDDLE token is removed.
+[**MUDDLE**](img/icons/status/muddle.png) – If a figure is muddled, it gains Disadvantage on all of its attacks. At the end of its next turn, the MUDDLE token is removed.
 
-![Curse](img/icons/status/curse.png) **CURSE** – If a figure is cursed, it must shuffle a CURSE card into its remaining attack modifier deck. When this card is revealed through one of the figure’s attacks, it is removed from the deck instead of being placed into the attack modifier discard pile. Note that there are two separate curse decks: 10 cards with a ![Monster icon](img/misc/monster.png) in the lower left corner and 10 cards with an ![Star icon](img/misc/star.png). ![Monster icon](img/misc/monster.png) cards can only be placed in the monster attack deck (when a monster is cursed), and ![Star icon](img/misc/star.png) cards can only be placed in a character's attack deck (when a character or character summon is cursed). Thus, a maximum of only 10 curse cards can be placed into any one deck.
+[**CURSE**](img/icons/status/curse.png) – If a figure is cursed, it must shuffle a CURSE card into its remaining attack modifier deck. When this card is revealed through one of the figure’s attacks, it is removed from the deck instead of being placed into the attack modifier discard pile. Note that there are two separate curse decks: 10 cards with a [monster icon](img/misc/monster.png) in the lower left corner and 10 cards with a [player icon](img/misc/star.png). Monster icon cards can only be placed in the monster attack deck (when a monster is cursed), and player icon cards can only be placed in a character's attack deck (when a character or character summon is cursed). Thus, a maximum of only 10 curse cards can be placed into any one deck.
 
 The following are **positive conditions**. Figures can apply positive conditions to themselves or allies through specific actions. Positive conditions cannot be prematurely removed.
 
-![Invisible](img/icons/status/invisible.png) **INVISIBLE** – If a figure is invisible, it cannot be focused on or targeted by an enemy. Invisibility does not affect a figure’s interactions with his or her allies. At the end of its next turn, the INVISIBLE token is removed. Monsters treat invisible characters exactly as if they were obstacles.
+[**INVISIBLE**](img/icons/status/invisible.png) – If a figure is invisible, it cannot be focused on or targeted by an enemy. Invisibility does not affect a figure’s interactions with his or her allies. At the end of its next turn, the INVISIBLE token is removed. Monsters treat invisible characters exactly as if they were obstacles.
 
-![Strengthen](img/icons/status/strengthen.png) **STRENGTHEN** – If a figure is strengthened, it gains Advantage on all of its attacks. At the end of its next turn, the STRENGTHEN token is removed.
+[**STRENGTHEN**](img/icons/status/strengthen.png) – If a figure is strengthened, it gains Advantage on all of its attacks. At the end of its next turn, the STRENGTHEN token is removed.
 
-![Bless](img/icons/status/bless.png) **BLESS** – If a figure is blessed, it must shuffle a BLESS card into its remaining attack modifier deck. When this card is revealed through one of the figure’s attacks, it is removed from the deck instead of being placed into the attack modifier discard pile.
+[**BLESS**](img/icons/status/bless.png) – If a figure is blessed, it must shuffle a BLESS card into its remaining attack modifier deck. When this card is revealed through one of the figure’s attacks, it is removed from the deck instead of being placed into the attack modifier discard pile.
 
 ### ELEMENTAL INFUSIONS
 
@@ -504,15 +504,15 @@ At the end of every round, however, all elemental infusions will wane, moving **
 
 [Elemental consumption](img/rulebook/elemental-consumption.png)
 
-Elemental infusions can be used to augment the effects of certain abilities. This augment is represented by an elemental symbol covered with a red ![Consume element](img/icons/elements/consume.png) (b), followed by a colon and how the ability is augmented if the element is consumed. If an ability is used that consumes an element and the corresponding element token is in the Strong or Waning column, that element token **may** be used to augment the ability by moving the token to the Inert column. A single icon cannot be used to consume more than one infusion, and **it is not possible to create an element and consume it on the same turn**, but it may be consumed by anyone with a later turn in the initiative order of the same round.
+Elemental infusions can be used to augment the effects of certain abilities. This augment is represented by an elemental symbol covered with a [red consume symbol](img/icons/elements/consume.png) (b), followed by a colon and how the ability is augmented if the element is consumed. If an ability is used that consumes an element and the corresponding element token is in the Strong or Waning column, that element token **may** be used to augment the ability by moving the token to the Inert column. A single icon cannot be used to consume more than one infusion, and **it is not possible to create an element and consume it on the same turn**, but it may be consumed by anyone with a later turn in the initiative order of the same round.
 
 If an ability contains multiple separate augments, the player may choose which augments to use in any order. If a single augment lists multiple element uses, all elements must be used to activate the augment.
 
 Just like characters, monsters also have the ability to create and consume elements. Monsters always consume elements if they can, and every activated monster of that type will gain the benefit of the consumed element, not just the first monster to consume it.
 
-![Any element](img/icons/elements/any.png) This multi-colored circle represents **any single one** of the six elements. If this symbol is present on a monster’s ability card, the players choose which element is created or consumed.
+[This multi-colored circle](img/icons/elements/any.png) represents **any single one** of the six elements. If this symbol is present on a monster’s ability card, the players choose which element is created or consumed.
 
-![Fire](img/icons/elements/large/fire.png) | ![Ice](img/icons/elements/large/ice.png) | ![Air](img/icons/elements/large/air.png) | ![Earth](img/icons/elements/large/earth.png) | ![Light](img/icons/elements/large/light.png) | ![Dark](img/icons/elements/large/dark.png)
+[Fire symbol](img/icons/elements/large/fire.png) | [Ice symbol](img/icons/elements/large/ice.png) | [Air symbol](img/icons/elements/large/air.png) | [Earth symbol](img/icons/elements/large/earth.png) | [Light symbol](img/icons/elements/large/light.png) | [Dark symbol](img/icons/elements/large/dark.png)
 -----|------|------|----------|-----------|-----------
 Fire | Ice | Air | Earth | Light | Dark
 
@@ -525,7 +525,7 @@ Fire | Ice | Air | Earth | Light | Dark
 
 Some abilities can give a character, or his or her allies, bonuses on other abilities, either **persistently** until certain conditions are fulfilled **or** for the rest of the **round**. These abilities are denoted with symbols, and the cards with these effects are played into the **active area** in front of the player to keep track of these bonuses.
 
-**Persistent bonuses** can be identified by the symbol ![Persistent bonus](img/icons/general/persistent-bonus.png) displayed on the card. These ability effects will be active from the time the card is played until the conditions specified on the card are met. These conditions usually track the number of times a particular game event has occurred, such as making or defending against an attack. Place a token on the first marked position of the card’s action and advance it one space each time the effect is triggered, left to right, top to bottom. When the ability has been used once for each space on the card, remove the card from play by placing it in the lost pile. Players **must** use the benefits of a persistent bonus when possible, even if no benefit is gained. If there are no conditions specified or positions marked, the card may remain in the player’s active area for the rest of the scenario and can be removed from play at any time by placing it in the lost pile.
+**Persistent bonuses** can be identified by [the symbol](img/icons/general/persistent-bonus.png) displayed on the card. These ability effects will be active from the time the card is played until the conditions specified on the card are met. These conditions usually track the number of times a particular game event has occurred, such as making or defending against an attack. Place a token on the first marked position of the card’s action and advance it one space each time the effect is triggered, left to right, top to bottom. When the ability has been used once for each space on the card, remove the card from play by placing it in the lost pile. Players **must** use the benefits of a persistent bonus when possible, even if no benefit is gained. If there are no conditions specified or positions marked, the card may remain in the player’s active area for the rest of the scenario and can be removed from play at any time by placing it in the lost pile.
 
 [Persistent bonus example](img/rulebook/persistent-bonus-example.png)
 
@@ -534,13 +534,13 @@ Some abilities can give a character, or his or her allies, bonuses on other abil
 [Character tokens](img/rulebook/character-tokens.png)
 *Examples of Character Tokens*
 
-**Round bonuses** will have this symbol ![Round bonus](img/icons/general/round-bonus.png) on the card. The effect of the ability will be active from the time the card is played until the end of the round, at which point the card will be placed in the player’s discard or lost pile (depending on whether the action also contains an ![Loss](img/icons/general/loss.png) symbol).
+**Round bonuses** will have [this symbol](img/icons/general/round-bonus.png) on the card. The effect of the ability will be active from the time the card is played until the end of the round, at which point the card will be placed in the player’s discard or lost pile (depending on whether the action also contains a [Lost symbol](img/icons/general/loss.png)).
 
-Even though a bonus card is placed in the active area, it is still considered **discarded** or **lost**, depending on whether the action also contains an ![Loss](img/icons/general/loss.png) symbol. At any time, these cards can be moved to the appropriate pile, however, doing so immediately removes any bonuses that were being applied by the card.
+Even though a bonus card is placed in the active area, it is still considered **discarded** or **lost**, depending on whether the action also contains a [Lost symbol](img/icons/general/loss.png). At any time, these cards can be moved to the appropriate pile, however, doing so immediately removes any bonuses that were being applied by the card.
 
 #### SHIELD
 
-![Shield](img/icons/general/shield.png) A “Shield X” bonus ability gives the recipient a defender’s bonus that reduces any incoming attack value by X. Multiple shield bonuses stack with one another and can be applied in any order. **A shield bonus only applies to damage caused by an attack.**
+A [“Shield X”](img/icons/general/shield.png) bonus ability gives the recipient a defender’s bonus that reduces any incoming attack value by X. Multiple shield bonuses stack with one another and can be applied in any order. **A shield bonus only applies to damage caused by an attack.**
 
 ---
 **<p align="right">Page 26</p>**
@@ -549,11 +549,11 @@ Even though a bonus card is placed in the active area, it is still considered **
 
 #### RETALIATE
 
-![Retaliate](img/icons/general/retaliate.png) A “Retaliate X” bonus ability causes the recipient to inflict X points of damage on figures who attack it from an adjacent hex for each attack made. A retaliate bonus can also be accompanied by a “Range Y” value, which means that the retaliate damage is applied to any attacker within Y hexes. A retaliate takes effect after the attack that initiated it. If the retaliating figure is killed or exhausted by the attack, then the retaliate does not activate. Multiple retaliate bonuses stack with one another, and retaliate itself is not an attack or even a targeted effect.
+A [“Retaliate X”](img/icons/general/retaliate.png) bonus ability causes the recipient to inflict X points of damage on figures who attack it from an adjacent hex for each attack made. A retaliate bonus can also be accompanied by a “Range Y” value, which means that the retaliate damage is applied to any attacker within Y hexes. A retaliate takes effect after the attack that initiated it. If the retaliating figure is killed or exhausted by the attack, then the retaliate does not activate. Multiple retaliate bonuses stack with one another, and retaliate itself is not an attack or even a targeted effect.
 
 ### HEAL
 
-![Heal](img/icons/general/heal.png) A “Heal X” ability allows a figure to return X hit points to either themselves or one ally within the ability’s range. Heals are always accompanied by one of two labels: 
+A [“Heal X”](img/icons/general/heal.png) ability allows a figure to return X hit points to either themselves or one ally within the ability’s range. Heals are always accompanied by one of two labels: 
 
 - **“Range Y”** means that any ally within Y hexes, or the figure performing the heal, can be affected by the heal. Like all ranged abilities, the recipient must be in line-of-sight. 
 - **“Self”** mean the figure can only affect him or herself with the heal.
@@ -575,19 +575,19 @@ A player can have multiple different summon abilities in play at once, in which 
 
 ### RECOVER AND REFRESH
 
-Certain abilities allow a player to **recover** discarded or lost **ability** cards. This means that the player can look through his or her discard or lost pile (or discarded or lost cards in his or her active area), select up to a number of cards specified in the ability, and immediately return them to his or her hand. Some cards, however, **cannot be recovered or refreshed once lost**. This is denoted by the ![Unrecoverable](img/icons/general/unrecoverable.png) symbol. This symbol applies to the card no matter how the card was lost or consumed.
+Certain abilities allow a player to **recover** discarded or lost **ability** cards. This means that the player can look through his or her discard or lost pile (or discarded or lost cards in his or her active area), select up to a number of cards specified in the ability, and immediately return them to his or her hand. Some cards, however, **cannot be recovered or refreshed once lost**. This is denoted by the [unrecoverable symbol](img/icons/general/unrecoverable.png). This symbol applies to the card no matter how the card was lost or consumed.
 
 **Refresh** abilities allow players to regain the use of spent or consumed **item** cards.
 
 In the case of both recover and refresh, the type of card gained (discarded or lost for ability cards, spent or consumed for item cards) is specified in the ability.
 
-![Recover](img/icons/general/large/recover.png) | ![Refresh](img/icons/general/large/refresh.png) | ![Unrecoverable](img/icons/general/large/unrecoverable.png)
+[Recover symbol](img/icons/general/large/recover.png) | [Refresh symbol](img/icons/general/large/refresh.png) | [Unrecoverable symbol](img/icons/general/large/unrecoverable.png)
 -----|------|------
 Recover Ability Card | Refresh Item | Cannot be recovered or refreshed once lost or consumed
 
 ### LOOT
 
-![Loot](img/icons/general/loot.png) A “Loot X” ability allows a character to pick up every money token and treasure tile within range X. This action is unaffected by the positions of monsters or obstacles, but note this is considered a ranged ability for the purposes of line-of-sight. Money tokens are kept in a player’s personal supply and are not shared with the other players. If a treasure tile is looted, immediately refer to the reference number in the treasure index in the back of the scenario book to determine what is found (see Treasure on p. 15 for details). If a character loots an item he or she already owns a copy of, the new item is immediately sold to the city’s available supply (see Buying and Selling Items on p. 43 for details).
+A [“Loot X”](img/icons/general/loot.png) ability allows a character to pick up every money token and treasure tile within range X. This action is unaffected by the positions of monsters or obstacles, but note this is considered a ranged ability for the purposes of line-of-sight. Money tokens are kept in a player’s personal supply and are not shared with the other players. If a treasure tile is looted, immediately refer to the reference number in the treasure index in the back of the scenario book to determine what is found (see Treasure on p. 15 for details). If a character loots an item he or she already owns a copy of, the new item is immediately sold to the city’s available supply (see Buying and Selling Items on p. 43 for details).
 
 #### END-OF-TURN-LOOTING
 
@@ -597,7 +597,7 @@ In addition to specific loot abilities, **a character must also loot any money t
 
 [Experience](img/rulebook/experience.png)
 
-Some actions also have an experience value attached to them, denoted by ![XP](img/icons/general/xp.png). When that action is taken, the character gains the number of experience specified. An ability card cannot be played for the experience alone—a character must use one or more of the accompanying abilities to earn the experience. In addition, sometimes the action specifies that experience is only earned under certain conditions, such as consuming an elemental infusion or if the attacked target is adjacent to an attacker’s allies (a). Some persistent bonuses will also give a character experience, denoted by ![XP charge](img/icons/general/charge-xp.png), when that charge of the bonus is expended (b) (i.e., when the character token moves off that slot). **Characters do not automatically gain experience from killing monsters. Only using specific actions awards experience.**
+Some actions also have an experience value attached to them, denoted by [this symbol](img/icons/general/xp.png). When that action is taken, the character gains the number of experience specified. An ability card cannot be played for the experience alone—a character must use one or more of the accompanying abilities to earn the experience. In addition, sometimes the action specifies that experience is only earned under certain conditions, such as consuming an elemental infusion or if the attacked target is adjacent to an attacker’s allies (a). Some persistent bonuses will also give a character experience, denoted by [this symbol](img/icons/general/charge-xp.png), when that charge of the bonus is expended (b) (i.e., when the character token moves off that slot). **Characters do not automatically gain experience from killing monsters. Only using specific actions awards experience.**
 
 ---
 **<p align="right">Page 28</p>**
@@ -740,8 +740,8 @@ Players will occasionally encounter bosses in their adventures. All bosses have 
 
 Once all figures have taken a turn, the round ends and some cleanup steps may be necessary:
 
-- If a standard **“2x”** ![2x card](img/misc/2x-card.png) or **“Null”** ![Null card](img/misc/null-card.png) attack modifier card was drawn from a specific modifier deck during the round, shuffle all the discards of that deck back into its draw deck. 
-- If a monster ability card with a shuffle symbol ![Shuffle](img/icons/general/shuffle.png) was drawn at the start of the round, shuffle all discards for the corresponding monster type back into its deck. 
+- If a standard [**“2x”** card](img/misc/2x-card.png) or [**“Null”** card](img/misc/null-card.png) attack modifier card was drawn from a specific modifier deck during the round, shuffle all the discards of that deck back into its draw deck. 
+- If a monster ability card with a [shuffle symbol](img/icons/general/shuffle.png) was drawn at the start of the round, shuffle all discards for the corresponding monster type back into its deck. 
 - If there are any elemental infusion tokens in the **Strong** column, move them to the Waning column. If there are any elemental infusion tokens in the **Waning** column, move them to Inert. 
 - Place all active round bonus ability cards in the appropriate discard or lost pile (depending on whether an action with a [lost card] symbol was used). 
 - Players may also perform a **short rest** (see Resting on p. 17 for details) if they are able.
@@ -953,10 +953,10 @@ Depending on the makeup and reputation of the party, a single **choice** (A or B
 
 An outcome can be preceded by one of the following conditions:
 
-- <img align="left" src="img/rulebook/event-outcome-class.png"> A class icon. As long as one of the listed class icons matches the class icon of a current member of the party, the outcome is applied.
-- <img align="left" src="img/rulebook/event-outcome-reputation.png"> A range of reputation. If the party’s reputation is within the designated range, the outcome is applied.
-- <img align="left" src="img/rulebook/event-outcome-gold.png"> A collective gold amount. If the party collectively has equal to or more than the gold amount, that amount is lost, and the outcome is applied.
-- <img align="left" src="img/rulebook/event-outcome-otherwise.png"> The word “otherwise.” If none of the preceding outcomes were applied, apply this outcome instead.
+- [A class icon.](img/rulebook/event-outcome-class.png) As long as one of the listed class icons matches the class icon of a current member of the party, the outcome is applied.
+- [A range of reputation.](img/rulebook/event-outcome-reputation.png) If the party’s reputation is within the designated range, the outcome is applied.
+- [A collective gold amount.](img/rulebook/event-outcome-gold.png) If the party collectively has equal to or more than the gold amount, that amount is lost, and the outcome is applied.
+- [The word “otherwise.”](img/rulebook/event-outcome-otherwise.png) If none of the preceding outcomes were applied, apply this outcome instead.
 
 If the outcome does not have a condition, the outcome is applied.
 
@@ -982,7 +982,7 @@ Whenever a party returns to Gloomhaven, they can perform a variety of activities
 
 ### CREATING NEW CHARACTERS
 
-The first step in any character’s story is creation. Players will create new characters when they first start playing the game, when they retire an old character and wish to continue playing, or pretty much whenever they want to try something new. When the box is first opened, the following six classes are available to play: Brute ![Brute](img/icons/class/01.png), Tinkerer ![Tinkerer](img/icons/class/02.png), Spellweaver ![Spellweaver](img/icons/class/03.png), Scoundrel ![Scoundrel](img/icons/class/04.png), Cragheart ![Cragheart](img/icons/class/05.png), and Mindthief ![Mindthief](img/icons/class/06.png). When a player creates a new character, he or she gains access to that character’s character mat and deck of Level 1 and “X” ability cards. The player should create a new entry in the class’s corresponding character sheet notepad, and also draw two random personal quest cards, choosing to keep one and shuffling the other back into the deck. A player can start a character at any level equal to or lower than the prosperity level of the city (see Gloomhaven Prosperity on p. 48 for details). If a player starts a character above Level 1, they should go through all the steps outlined on p. 44 for each level increase in sequence, up to and including their chosen starting level. In addition, a newly created character receives an amount of gold equal to 15x(L+1), where L is their starting level. A character starts with an amount of experience equal to the minimum required for their level (the number listed below that level on the character sheet).
+The first step in any character’s story is creation. Players will create new characters when they first start playing the game, when they retire an old character and wish to continue playing, or pretty much whenever they want to try something new. When the box is first opened, the following six classes are available to play: [Brute](img/icons/class/01.png), [Tinkerer](img/icons/class/02.png), [Spellweaver](img/icons/class/03.png), [Scoundrel](img/icons/class/04.png), [Cragheart](img/icons/class/05.png), and [Mindthief](img/icons/class/06.png). When a player creates a new character, he or she gains access to that character’s character mat and deck of Level 1 and “X” ability cards. The player should create a new entry in the class’s corresponding character sheet notepad, and also draw two random personal quest cards, choosing to keep one and shuffling the other back into the deck. A player can start a character at any level equal to or lower than the prosperity level of the city (see Gloomhaven Prosperity on p. 48 for details). If a player starts a character above Level 1, they should go through all the steps outlined on p. 44 for each level increase in sequence, up to and including their chosen starting level. In addition, a newly created character receives an amount of gold equal to 15x(L+1), where L is their starting level. A character starts with an amount of experience equal to the minimum required for their level (the number listed below that level on the character sheet).
 
 ---
 **<p align="right">Page 43</p>**
@@ -1043,7 +1043,7 @@ When a character reaches a new level, add **one** new card to their active card 
 
 Additionally, when leveling up, the player can mark **one** of the **perk** boxes on the right side of their character sheet. This signifies an evolution of the character’s attack modifier deck. Apply the bonuses of the marked perk box to the character’s modifier deck using the class’s accompanying deck of available modifier cards. If a perk has multiple check boxes next to it, this means that the perk can be gained multiple times for the cost of one perk each.
 
-***Example:** The Brute marks the “Replace one ![Minus 1](img/misc/minus-1.png) card with one ![Plus 1](img/misc/plus-1.png) card,” so he removes a ![Minus 1 card](img/misc/minus-1-card.png) card from his attack modifier deck and adds a ![Brute plus 1 card](img/misc/brute-plus-1-card.png) card (taken from his Brute modifier deck) in its place.*
+***Example:** The Brute marks the “Replace one [-1](img/misc/minus-1.png) with one [+1](img/misc/plus-1.png),” so he removes a [-1 card](img/misc/minus-1-card.png) from his attack modifier deck and adds a [+1 card](img/misc/brute-plus-1-card.png) card (taken from his Brute modifier deck) in its place.*
 
 Lastly, leveling up also increases a character’s hit point total, as indicated on their character mat. Leveling up **never** changes a character’s maximum hand size. This is fixed for each class.
 
@@ -1068,7 +1068,7 @@ As characters level up, the recommended scenario level will also increase, as di
 
 ### DONATING TO THE SANCTUARY
 
-Once per visit to Gloomhaven, each player can donate 10 gold to the Sanctuary of the Great Oak, a temple and hospital in the city. Doing so allows the donating player to add two BLESS ![Bless card](img/misc/bless-card.png) attack modifier cards to their attack modifier deck for the next scenario.
+Once per visit to Gloomhaven, each player can donate 10 gold to the Sanctuary of the Great Oak, a temple and hospital in the city. Doing so allows the donating player to add two [BLESS attack modifier cards](img/misc/bless-card.png) to their attack modifier deck for the next scenario.
 
 ### ENHANCING ABILITY CARDS
 
@@ -1087,12 +1087,12 @@ Each kind of enhancement sticker has a different function and has restrictions o
 
 Sticker | Restrictions | Examples
 --------|--------------|---------
-![Enhancement Sticker +1](img/rulebook/enhancement-sticker-plus-1.png) | Can be placed on any ability line or summon base stat line with a numerical value. That value is increased by 1. | ![Enhancement Example +1](img/rulebook/enhancement-example-plus-1.png)
-![Enhancement Sticker Negative Condition](img/rulebook/enhancement-sticker-negative-condition.png) | Can be placed on any main ability line that targets enemies. The specified condition is applied to all targets of the ability. | ![Enhancement Example Negative Condition](img/rulebook/enhancement-example-negative-condition.png)
-![Enhancement Sticker Positive Condition](img/rulebook/enhancement-sticker-positive-condition.png) | Can be placed on any main ability line that affects allies or yourself. A “Move” ability does not count as affecting yourself. The specified condition is applied to all targets of the ability. | ![Enhancement Example Positive Condition](img/rulebook/enhancement-example-positive-condition.png)
-![Enhancement Sticker Jump](img/rulebook/enhancement-sticker-jump.png) | Can be placed on any “Move” ability line. The movement is now considered a jump. | ![Enhancement Example Jump](img/rulebook/enhancement-example-jump.png)
-![Enhancement Sticker Elements](img/rulebook/enhancement-sticker-element.png) | Can be placed on any main ability line. The element is created when the ability is used. In the case of a ![Any element](img/icons/elements/any.png) the player chooses the element as normal. | ![Enhancement Example Elements](img/rulebook/enhancement-example-element.png)
-![Enhancement Sticker Area of Effect](img/rulebook/enhancement-sticker-aoe.png) | Can be placed to increase the graphical depiction of an area attack. The new hex becomes an additional target of the attack. | ![Enhancement Example Area of Effect](img/rulebook/enhancement-example-aoe.png)
+[+1](img/rulebook/enhancement-sticker-plus-1.png) | Can be placed on any ability line or summon base stat line with a numerical value. That value is increased by 1. | [Examples: +1](img/rulebook/enhancement-example-plus-1.png)
+[Negative conditions](img/rulebook/enhancement-sticker-negative-condition.png) | Can be placed on any main ability line that targets enemies. The specified condition is applied to all targets of the ability. | [Examples: negative conditions](img/rulebook/enhancement-example-negative-condition.png)
+[Positive conditions](img/rulebook/enhancement-sticker-positive-condition.png) | Can be placed on any main ability line that affects allies or yourself. A “Move” ability does not count as affecting yourself. The specified condition is applied to all targets of the ability. | [Examples: positive conditions](img/rulebook/enhancement-example-positive-condition.png)
+[Jump](img/rulebook/enhancement-sticker-jump.png) | Can be placed on any “Move” ability line. The movement is now considered a jump. | [Example: Jump](img/rulebook/enhancement-example-jump.png)
+[Elements](img/rulebook/enhancement-sticker-element.png) | Can be placed on any main ability line. The element is created when the ability is used. In the case of an [any element symbol](img/icons/elements/any.png) the player chooses the element as normal. | [Examples: elements](img/rulebook/enhancement-example-element.png)
+[Area of Effect](img/rulebook/enhancement-sticker-aoe.png) | Can be placed to increase the graphical depiction of an area attack. The new hex becomes an additional target of the attack. | [Example: Area of Effect](img/rulebook/enhancement-example-aoe.png)
 
 The base cost associated with any enhancement depends on the sticker **and** what ability the sticker is enhancing. Double the base cost of an enhancement (other than an attack hex) if it is applied to an ability that targets multiple figures. Additional costs are added based on the level of the ability card and the number of previously placed enhancement stickers on the same **action**.
 
@@ -1105,111 +1105,111 @@ The total number of enhanced cards in a class’s ability deck must be **equal t
 
 <table>
   <tr>
-    <td colspan="2" align="center"><b>Base <img alt="+1 enhancement" src="img/misc/enhancement-sticker-plus-1.png"> Enhancement Cost</b></center>
+    <td colspan="2" align="center"><b>Base <a href="img/misc/enhancement-sticker-plus-1.png">+1 Enhancement</a> Cost</b></center>
     <td rowspan="16">
     <td colspan="2" align="center"><b>Base Other Effects Cost</b>
     <td rowspan="18">
     <td colspan="2" align="center"><b>Level of Ability Card</b>
 
   <tr>
-    <td>Move <img alt="Move" src="img/icons/general/move.png">
+    <td><a href="img/icons/general/move.png">Move</a>
     <td align="right">30g
-    <td>POISON <img alt="POISON" src="img/icons/status/poison.png">
+    <td><a href="img/icons/status/poison.png">POISON</a>
     <td align="right">75g
     <td>1
     <td align="right">+0g
 
   <tr>
-    <td>Attack <img alt="Attack" src="img/icons/general/attack.png">
+    <td><a href="img/icons/general/attack.png">Attack</a>
     <td align="right">50g
-    <td>WOUND <img alt="WOUND" src="img/icons/status/wound.png">
+    <td><a href="img/icons/status/wound.png">WOUND</a>
     <td align="right">75g
     <td>2
     <td align="right">+25g
     
   <tr>
-    <td>Range <img alt="Range" src="img/icons/general/range.png">
+    <td><a href="img/icons/general/range.png">Range</a>
     <td align="right">30g
-    <td>MUDDLE <img alt="MUDDLE" src="img/icons/status/muddle.png">
+    <td><a href="img/icons/status/muddle.png">MUDDLE</a>
     <td align="right">50g
     <td>3
     <td align="right">+50g
 
   <tr>
-    <td>Shield <img alt="Shield" src="img/icons/general/shield.png">
+    <td><a href="img/icons/general/shield.png">Shield</a>
     <td align="right">100g
-    <td>IMMOBILIZE <img alt="IMMOBILIZE" src="img/icons/status/immobilize.png">
+    <td><a href="img/icons/status/immobilize.png">IMMOBILIZE</a>
     <td align="right">100g
     <td>4
     <td align="right">+75g
 
   <tr>
-    <td>PUSH <img alt="PUSH" src="img/icons/status/push.png">
+    <td><a href="img/icons/status/push.png">PUSH</a>
     <td align="right">30g
-    <td>DISARM <img alt="DISARM" src="img/icons/status/disarm.png">
+    <td><a href="img/icons/status/disarm.png">DISARM</a>
     <td align="right">150g
     <td>5
     <td align="right">+100g
 
   <tr>
-    <td>PULL <img alt="PULL" src="img/icons/status/pull.png">
+    <td><a href="img/icons/status/pull.png">PULL</a>
     <td align="right">30g
-    <td>CURSE <img alt="CURSE" src="img/icons/status/curse.png">
+    <td><a href="img/icons/status/curse.png">CURSE</a>
     <td align="right">75g
     <td>6
     <td align="right">+125g
 
   <tr>
-    <td>PIERCE <img alt="PIERCE" src="img/icons/status/pierce.png">
+    <td><a href="img/icons/status/pierce.png">PIERCE</a>
     <td align="right">30g
     <td colspan="2">
     <td>7
     <td align="right">+150g
 
   <tr>
-    <td>Retaliate <img alt="Retaliate" src="img/icons/general/retaliate.png">
+    <td><a href="img/icons/general/retaliate.png">Retaliate</a>
     <td align="right">100g
-    <td>STRENGTHEN <img alt="STRENGTHEN" src="img/icons/status/strengthen.png">
+    <td><a href="img/icons/status/strengthen.png">STRENGTHEN</a>
     <td align="right">50g
     <td>8
     <td align="right">+175g
 
   <tr>
-    <td>Heal <img alt="Heal" src="img/icons/general/heal.png">
+    <td><a href="img/icons/general/heal.png">Heal</a>
     <td align="right">30g
-    <td>BLESS <img alt="BLESS" src="img/icons/status/bless.png">
+    <td><a href="img/icons/status/bless.png">BLESS</a>
     <td align="right">50g
     <td>9
     <td align="right">+200g
 
   <tr>
-    <td>Target <img alt="Target" src="img/icons/general/target.png">
+    <td><a href="img/icons/general/target.png">Target</a>
     <td align="right">50g
     <td colspan="2">
     <td colspan="2" rowspan="3">
   <tr>
     <td colspan="2" align="center"><b>(For summons)</b>
-    <td>Jump <img alt="Jump" src="img/icons/general/jump.png">
+    <td><a href="img/icons/general/jump.png">Jump</a>
     <td align="right">50g
   <tr>
-    <td>Move <img alt="Move" src="img/icons/general/move.png">
+    <td><a href="img/icons/general/move.png">Move</a>
     <td align="right">100g
     <td colspan="2">
   <tr>
-    <td>Attack <img alt="Attack" src="img/icons/general/attack.png">
+    <td><a href="img/icons/general/attack.png">Attack</a>
     <td align="right">100g
-    <td>Specific element <img alt="Air" src="img/icons/elements/air.png"><img alt="Light" src="img/icons/elements/light.png"><img alt="Ice" src="img/icons/elements/ice.png"><img alt="Dark" src="img/icons/elements/dark.png"><img alt="Fire" src="img/icons/elements/fire.png"><img alt="Earth" src="img/icons/elements/earth.png">
+    <td>Specific element <a href="img/icons/elements/air.png">A</a> <a href="img/icons/elements/light.png">L</a> <a href="img/icons/elements/ice.png">I</a> <a href="img/icons/elements/dark.png">D</a> <a href="img/icons/elements/fire.png">F</a> <a href="img/icons/elements/earth.png">E</a> 
     <td align="right">100g
     <td colspan="2" align="center"><b>Number of Previous Enhancements</b>
   <tr>
-    <td>Range <img alt="Range" src="img/icons/general/range.png">
+    <td><a href="img/icons/general/range.png">Range</a>
     <td align="right">50g
-    <td>Any element <img alt="Any element" src="img/icons/elements/any.png">
+    <td><a href="img/icons/elements/any.png">Any element</a>
     <td align="right">150g
     <td>0
     <td align="right">+0g
   <tr>
-    <td>HP <img alt="HP" src="img/icons/general/heal.png">
+    <td><a href="img/icons/general/heal.png">HP</a>
     <td align="right">50g
     <td colspan="2">
     <td>1
@@ -1219,7 +1219,7 @@ The total number of enhanced cards in a class’s ability deck must be **equal t
     <td>2
     <td align="right">+150g
   <tr>
-    <td colspan="3">Attack Hex <img alt="AoE target" src="img/icons/general/aoe-target.png">
+    <td colspan="3"><a href="img/icons/general/aoe-target.png">Attack Hex</a>
     <td colspan="2">200g divided by the number of hexes currently targeted with the attack
     <td>3
     <td align="right">+225g
@@ -1273,15 +1273,15 @@ When a new scenario is unlocked, find its corresponding number on the world map 
 - [ ] Gain 5 “Ancient Technology” global achievements – open envelope **A**
 - [ ] Have a party gain both “The Drake’s Command” and “The Drake’s Treasure” party achievements – add City Event 75 and Road Event 66 to the decks, and gain “The Drake Aided” global achievement
 - [ ] Donate a total of 100 gold to the Sanctuary of the Great Oak – open envelope **B**
-- [ ] Have a party reputation of 10 or higher – open box ![Sun class](img/icons/class/07.png)
+- [ ] Have a party reputation of 10 or higher – open box [Sun](img/icons/class/07.png)
 - [ ] Have a party reputation of 20 – add City Event 76 and Road Event 67 to the deck
-- [ ] Have a party reputation of -10 or lower – open box ![Eclipse class](img/icons/class/10.png)
+- [ ] Have a party reputation of -10 or lower – open box [Eclipse](img/icons/class/10.png)
 - [ ] Have a party reputation of -20 – add City Event 77 and Road Event 68 to the deck
 - [ ] Retire a character – open the Town Records Book
 
 # Game Variant: Reduced Randomness
 
-If players desire to reduce the variance in damage caused by the “2x” ![2x card](img/misc/2x-card.png) and “Null” ![Null card](img/misc/null-card.png) attack modifier effects, they can instead treat BLESS ![Bless card](img/misc/bless-card.png) and the standard “2x” cards as a +2 ![+2 card](img/misc/plus-2-card.png) modifier and CURSE ![Curse card](img/misc/curse-card.png) and the standard “Null” cards as a -2 ![-2 card](img/misc/minus-2-card.png) modifier. Players should still shuffle the corresponding attack modifier deck at the end of a round after one of these cards is drawn.
+If players desire to reduce the variance in damage caused by the [“2x”](img/misc/2x-card.png) and [“Null”](img/misc/null-card.png) attack modifier effects, they can instead treat [BLESS cards](img/misc/bless-card.png) and the standard “2x” cards as a [+2 modifier](img/misc/plus-2-card.png) and [CURSE cards](img/misc/curse-card.png) and the standard “Null” cards as a [-2 modifier](img/misc/minus-2-card.png). Players should still shuffle the corresponding attack modifier deck at the end of a round after one of these cards is drawn.
 
 ---
 **<p align="right">Page 50</p>**
