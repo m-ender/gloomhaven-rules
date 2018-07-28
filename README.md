@@ -625,8 +625,8 @@ A character can become **exhausted** in one of two ways:
 
 - If a character ever drops below one hit point on the hit point tracker, or… 
 - If, at the beginning of a round, a player cannot play two cards from his or her hand (because they have one card or no cards in his or her hand) and also cannot rest (because they have one card or no cards in their discard pile). Exhaustion due to insufficient cards does not affect a character’s current hit point total.
-- 
-- In either case, all ability cards are placed in the characters lost pile, the character’s figure is removed from the map, and the character can no longer participate in the scenario in any way. **There is no coming back from being exhausted during a scenario**, and thus it should be avoided at all costs. If **all** characters become exhausted during a scenario, the scenario is lost.
+
+In either case, all ability cards are placed in the characters lost pile, the character’s figure is removed from the map, and the character can no longer participate in the scenario in any way. **There is no coming back from being exhausted during a scenario**, and thus it should be avoided at all costs. If **all** characters become exhausted during a scenario, the scenario is lost.
 
 ### ITEMS
 
