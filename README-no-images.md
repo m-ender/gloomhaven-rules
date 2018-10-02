@@ -468,16 +468,16 @@ The following are **negative conditions**. If an ability has the name of one of 
 
 [**WOUND**](img/icons/status/wound.png) – If a figure is wounded, it suffers one point of damage at the start of each of its turns. If a Heal ability is used on a wounded figure, the WOUND token is removed and the Heal continues normally. If a figure is both poisoned and wounded, a Heal ability would remove both conditions but have no other effect.
 
-[**IMMOBILIZE**](img/icons/status/immobilize.png) – If a figure is immobilized, it cannot perform any **move** abilities on its turn. At the end of its next turn, the IMMOBILIZE token is removed.
+[**IMMOBILIZE**](img/icons/status/immobilize.png) – If a figure is immobilized, it cannot perform any **move** abilities. At the end of its next turn, the IMMOBILIZE token is removed.
 
 ---
 **<p align="right">Page 23</p>**
 
 ---
 
-[**DISARM**](img/icons/status/disarm.png) – If a figure is disarmed, it cannot perform any **attack** abilities on its turn. At the end of its next turn, the DISARM token is removed.
+[**DISARM**](img/icons/status/disarm.png) – If a figure is disarmed, it cannot perform any **attack** abilities. At the end of its next turn, the DISARM token is removed.
 
-[**STUN**](img/icons/status/stun.png) – If a figure is stunned, it cannot perform **any** abilities or use items on its turn **except to perform a long rest** (in the case of characters). At the end of its next turn, the STUN token is removed. Players must still play two cards or rest on their turn, and if a player plays two cards while stunned, the actions played are not used, and the cards are simply discarded.
+[**STUN**](img/icons/status/stun.png) – If a figure is stunned, it cannot perform **any** abilities or use items **except to perform a long rest** (in the case of characters). At the end of its next turn, the STUN token is removed. Players must still play two cards or rest on their turn, and if a player plays two cards while stunned, the actions played are not used, and the cards are simply discarded.
 
 [**MUDDLE**](img/icons/status/muddle.png) – If a figure is muddled, it gains Disadvantage on all of its attacks. At the end of its next turn, the MUDDLE token is removed.
 
