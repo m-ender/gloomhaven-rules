@@ -88,7 +88,7 @@ An unofficial lightweight, searchable copy of the rule book. All text is taken d
 
 1. Traveling and Road Events [pp.41-42](#page41)
   	1. Completing Road Events [pp.41-42](#page41)
-	  1. Reputation [p.42](#page42)
+	1. Reputation [p.42](#page42)
 1. Visiting Gloomhaven [pp.42-48](#page42)
 	  1. Creating New Characters [p.42](#page42)
 	  1. Completing City Events [p.43](#page43)
@@ -101,7 +101,7 @@ An unofficial lightweight, searchable copy of the rule book. All text is taken d
 	  1. Enhancing Ability Cards p[p.45-47](#page45)
 	  1. Announcing Retirement [p.48](#page48)
 	  1. Gloomhaven Prosperity [p.48](#page48)
-1.Scenario Completion [p.49](#page49)
+1. Scenario Completion [p.49](#page49)
 
 ## Special Conditions for Opening Envelopes [p.49](#page49)
 
