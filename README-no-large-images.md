@@ -5,8 +5,119 @@ An unofficial lightweight, searchable copy of the rule book. All text is taken d
 - [README-no-large-images.md](README-no-large-images.md) has most of the screenshots from the rule book replaced with links to those images and is only about 2MB.
 - [README-no-images.md](README-no-images.md) contains no images at all (only links to them) and is less than 500KB in size.
 
+
 ---
-**<p align="right">Pages 4 and 5</p>**
+**<p align="right"><a name="page3">3</a></p>**
+
+---
+
+# Table of Contents
+
+## Play Overview [pp.4-12](#page4)
+
+1. Character Mats [p.6](#page6)
+1. Character Ability Cards [p.7](#page7)
+1. Item Cards [p.8](#page8)
+1. Monster Statistic Cards [p.9](#page9)
+1. Monster Ability Cards [p.10](#page10)
+1. Battle Goal Cards [p.10](#page10)
+1. Attack Modifier Cards [p.11](#page11)
+
+## Scenario Setup [pp.12-16](#page12)
+
+1. Scenario Page [pp.12-13](#page12)
+1. Overlay Tiles [pp.14-15](#page14)
+1. Scenario Level [p.15](#page15)
+1. Game Variant: Open Information and Solo Play [p.16](#page16)
+1. Monster Turn [pp.29-32](#page29)
+
+## Round Overview [pp.16-31](#page16)
+
+1. Card Selection [pp.16-17](#page16)
+	1. Resting [p.17](#page17)
+1. Determining Initiative [p.18](#page18)
+1. Character Turn [pp.18-28](#page18)
+	1. Move [p.19](#page19)
+		1. Revealing a Room [p.19](#page19)
+  	1. Attack [pp.19-22](#page19)
+		1. Advantage and Disadvantage [pp.20-21](#page20)
+	   	1. Area Effects [p.21](#page21)
+		1. Attack Effects [p.22](#page22)
+	  1. Conditions [pp.22-23](#page22)
+	  1. Elemental Infusions [pp.23-24](#page23)
+	  1. Active Bonuses [pp.25_26](#page25)
+	    	1. Shield [p.25](#page25)
+	    	1. Retaliate [p.26](#page26)
+	  1. Heal [p.26](#page26)
+	  1. Summon [p.26](#page26)
+	  1. Recover and Refresh [p.27](#page27)
+	  1. Loot [p.27](#page27)
+	    	1. End of Turn Looting [p.27](#page27)
+	  1. Gaining Experience [pp.27-28](#page27)
+	  1. Character Damage [p.28](#page28)
+	  1. Exhaustion [p.28](#page28)
+	  1. Items [p.28](#page28)
+1. Monster Turn [pp29-32](#page29)
+	  1. Order of Action [p.29](#page29)
+	  1. Monster Focus [pp.29-30](#page29)
+	  1. Monster Movement [pp.30-31](#page30)
+    		1. Monster Interaction with Traps and Hazardous Terrain [p.31](#page31)
+	  1. Monster Attacks [p.31](#page31)
+	  1. Other Monster Abilities [pp.31-32](#page31)
+	  1. Ambiguity [p.32](#page32)
+	  1. Bosses [p.32](#page32)
+1. End of Round [p.32](#page32)
+	  1. Round Tracker [p.33](#page33)
+
+## Finishing a Scenario [p.33](#page33)
+
+## Special Scenario Rules [p.34](#page34)
+
+1. Campaign Overview [pp.34-40](#page34)
+1. Campaign Board [p.35](#page35)
+1. Party Sheet [p.36](#page36)
+1. Character Sheet [p.37](#page37)
+1. Personal Quest Cards [p.38](#page38)
+1. Random Item Design Cards [p.38](#page38)
+1. Random Side Scenario Cards [p.38](#page38)
+1. City and Road Event Cards [p.39](#page39)
+1. Sealed Boxes and Envelopes [p.40](#page40)
+1. Town Records [p.40](#page40)
+1. Achievements [p.40](#page40)
+
+## Playing a Campaign [pp.41-47](#page41)
+
+1. Traveling and Road Events [pp.41-42](#page41)
+  	1. Completing Road Events [pp.41-42](#page41)
+	1. Reputation [p.42](#page42)
+1. Visiting Gloomhaven [pp.42-48](#page42)
+	  1. Creating New Characters [p.42](#page42)
+	  1. Completing City Events [p.43](#page43)
+	  1. Buying and Selling Items [p.43](#page43)
+	  1. Leveling Up [pp.44-45](#page44)
+		    1. Additional Perks [p.44](#page44)
+		    1. Building a Hand of Cards [p.45](#page45)
+		    1. Scenario Scaling [p.45](#page45)
+	  1. Donating to the Sanctuary [p.45](#page45)
+	  1. Enhancing Ability Cards p[p.45-47](#page45)
+	  1. Announcing Retirement [p.48](#page48)
+	  1. Gloomhaven Prosperity [p.48](#page48)
+1. Scenario Completion [p.49](#page49)
+
+## Special Conditions for Opening Envelopes [p.49](#page49)
+
+## Game Variant: Reduced Randomness [p.49](#page49)
+
+## Game Variant: Permanent Death [p.50](#page50)
+
+## Game Variant: Random Dungeon Deck [pp.50-51](#page50)
+
+## Credits [p.51](#page51)
+
+## Quick Guide [p.52 (back cover)](#page52)
+
+---
+**<p align="right"><a name="page4">Pages 4 and 5</a></p>**
 
 ---
 
@@ -30,7 +141,7 @@ The following section will teach you the mechanics for playing through an indivi
 - The elemental infusion table (q) with all six elements set in the “Inert” column.
 
 ---
-**<p align="right">Page 6</p>**
+**<p align="right"><a name="page6">Page 6</a></p>**
 
 ---
 
@@ -52,7 +163,7 @@ Once a character class has been chosen, the player takes the corresponding chara
 - The reference number of the event cards (k) added to each deck when the character class is unlocked (not present on the six starting classes) and of event cards (l) added the first time the character class retires (see Announcing Retirement on p. 48 for details). These reference numbers apply to both city and road event decks.
 
 ---
-**<p align="right">Page 7</p>**
+**<p align="right"><a name="page7">Page 7</a></p>**
 
 ---
 
@@ -70,7 +181,7 @@ Playing ability cards is what allows a character to perform **actions** in a sce
 - A top action (d) and bottom action (e). When the two ability cards are played on a player’s turn, one is used for the top action and the other for the bottom action. Note that a single **action** can contain several separate **abilities** (f). (See Character Turn on pp. 18–28 for more details on character actions.)
 
 ---
-**<p align="right">Page 8</p>**
+**<p align="right"><a name="page8">Page 8</a></p>**
 
 ---
 
@@ -98,7 +209,7 @@ Head | Body | Legs | One Hand | Two Hands | Small Item
 - Reference number for the item (j), which is on the back of the card.
 
 ---
-**<p align="right">Page 9</p>**
+**<p align="right"><a name="page9">Page 9</a></p>**
 
 ---
 
@@ -121,7 +232,7 @@ A monster stat sleeve should be used to track damage and condition tokens and to
 - Any special traits this monster type possesses (i). These traits are permanent and persist from round to round. These traits may include Flying, which is symbolized by ![Flying](img/icons/general/flying.png) (j) next to the monster’s name (see Move on p. 19 for details).
 
 ---
-**<p align="right">Page 10</p>**
+**<p align="right"><a name="page10">Page 10</a></p>**
 
 ---
 
@@ -145,7 +256,7 @@ Each round, after players have selected their own ability cards, one card is pla
 **At the beginning of every scenario, each character receives two battle goal cards in secret and chooses one to keep, discarding the other.** If the scenario is successfully completed and the character meets the criteria of the chosen card (a), he or she will earn a number of **checkmarks** as specified on the bottom of the card (b). Checkmarks are used to enhance a player’s attack modifier deck (see Additional Perks on p. 44 for details). If the scenario resulted in failure, the character receives nothing from his or her battle goal card, regardless of whether the goal was achieved. Players can keep track of their battle goal progress using notes if necessary. Players should keep their battle goals secret from one another until the scenario is over.
 
 ---
-**<p align="right">Page 11</p>**
+**<p align="right"><a name="page11">Page 11</a></p>**
 
 ---
 
@@ -181,7 +292,7 @@ A shuffle symbol (j). At the end of the round in which a “Null” ![Null card]
 A type icon (k). All standard attack modifier decks have a 1, 2, 3, 4, or M icon (l) for easy sorting, such that all cards with a given icon form the standard 20-card deck. All cards a character class adds to their modifier decks through perks (see Leveling Up on pp. 44–45 for details) have the symbol of that character class (m). Cards added to a modifier deck by a scenario or item effect have a ![Star icon](img/misc/star.png) icon (n). These cards should be removed at the end of a scenario.
 
 ---
-**<p align="right">Page 12</p>**
+**<p align="right"><a name="page12">Page 12</a></p>**
 
 ---
 
@@ -200,7 +311,7 @@ When setting up a new scenario, the first step is to look in the scenario book t
 - Any other rewards (k) earned by completing the scenario when in a campaign.
 
 ---
-**<p align="right">Page 13</p>**
+**<p align="right"><a name="page13">Page 13</a></p>**
 
 ---
 
@@ -219,7 +330,7 @@ When setting up a new scenario, the first step is to look in the scenario book t
 - Locations of money tokens (u) and overlay tiles (v) to be placed on the map when the room tile is revealed.
 
 ---
-**<p align="right">Page 14</p>**
+**<p align="right"><a name="page14">Page 14</a></p>**
 
 ---
 
@@ -237,7 +348,7 @@ A scenario is constructed from a set of map tiles as instructed in the Scenario 
 - **Obstacles** ![Obstacles colour](img/misc/colour-obstacle.png). Obstacles have varying artwork, but they all have the same function: figures cannot move through obstacles with a normal movement, but can move through them with a Flying ![Flying](img/icons/general/flying.png) or Jump ![Jump](img/icons/general/jump.png) movement. **Obstacles do not hinder ranged attacks.** It is possible for certain character abilities to create or move obstacles. When doing so, players can never completely cut off one area of the scenario map from another, such that the area cannot be moved into without going through the obstacles.
 
 ---
-**<p align="right">Page 15</p>**
+**<p align="right"><a name="page15">Page 15</a></p>**
 
 ---
 
@@ -270,7 +381,7 @@ Scenario level | Monster level | Gold conversion | Trap damage | Bonus experienc
 ***Example**: If a party contains a Level 6 character, two Level 4 characters, and a Level 3 character, the average would be 4.25; divided by 2 and rounded up is 3, so a normal scenario difficulty level would be 3. The choice of scenario level is completely up to the players. Higher scenario levels will result in more difficult monsters, but will also yield more gold and experience.*
 
 ---
-**<p align="right">Page 16</p>**
+**<p align="right"><a name="page16">Page 16</a></p>**
 
 ---
 
@@ -304,7 +415,7 @@ A scenario consists of a series of **rounds** that are played until players eith
 At the beginning of a round, each player will secretly select two cards from his or her hand to play facedown in front of them. Of the two cards, one should be selected as the **leading card**, which will determine the player’s order in the initiative for the round (see Determining Initiative on p. 18 for details).
 
 ---
-**<p align="right">Page 17</p>**
+**<p align="right"><a name="page17">Page 17</a></p>**
 
 ---
 
@@ -328,7 +439,7 @@ Resting is the main way players can return discarded cards back into their hand 
 - **Long rest:** A long rest is declared during the card selection step of a round and constitutes the player’s entire turn for the round. Resting players are considered to have an initiative value of 99. On the player’s turn, at the end of the initiative order, he or she must **choose** to lose one of his or her discarded cards, then return the rest of the discarded cards to his or her hand. The resting character also **performs a “Heal ![Heal](img/icons/general/heal.png) 2, Self” action and refreshes all of his or her spent item cards.**
 
 ---
-**<p align="right">Page 18</p>**
+**<p align="right"><a name="page18">Page 18</a></p>**
 
 ---
 
@@ -353,7 +464,7 @@ On a character’s turn, he or she will perform the **top** action of one of the
 Players can also use **any card they play** as an **“Attack 2”** action on the **top** half or a **“Move 2”** action on the **bottom**. If a card is used this way, it is always discarded, regardless of what is printed on the card. On their turn, before, during, or after performing their two actions, players can use any number of items they have equipped.
 
 ---
-**<p align="right">Page 19</p>**
+**<p align="right"><a name="page19">Page 19</a></p>**
 
 ---
 
@@ -382,7 +493,7 @@ Once everything is placed in the new room, any present monster types without an 
 **Line-of-sight:** All ranged and melee attacks can only be performed against enemies within line-of-sight, which means that a line can be drawn from any corner of the attacker’s hex to any corner of the defender’s hex without touching any part of a wall (the line edge of a map tile or the entire area of any partial hex along the edge of a map tile, unless covered by an overlay tile). Only walls block line-of-sight. In addition, **any ability** which specifies a range can only be performed on a figure within line-of-sight. If a non-attack ability does not specify a range, then line-of-sight is not required. Also note that two hexes separated by a wall line are not considered adjacent, and range cannot be counted through walls.
 
 ---
-**<p align="right">Page 20</p>**
+**<p align="right"><a name="page20">Page 20</a></p>**
 
 ---
 
@@ -411,7 +522,7 @@ Some attacks may have either **Advantage** or **Disadvantage**.
   An attacker with **Disadvantage** will draw two modifier cards from their deck and use whichever one is **worse** (d). Rolling modifiers are disregarded in the case of Disadvantage (e). If two rolling modifier cards were drawn, continue to draw cards until a rolling modifier is not played and then only apply the effect of the last card drawn (f).
 
 ---
-**<p align="right">Page 21</p>**
+**<p align="right"><a name="page21">Page 21</a></p>**
 
 ---
 
@@ -440,7 +551,7 @@ For any attack that targets multiple enemies, an attack modifier card is drawn f
 Note also that as long as an attack does not specify range, it is considered melee, such that it is possible to attack a non-adjacent target with a melee attack if hex configuration allows.
 
 ---
-**<p align="right">Page 22</p>**
+**<p align="right"><a name="page22">Page 22</a></p>**
 
 ---
 
@@ -471,7 +582,7 @@ The following are **negative conditions**. If an ability has the name of one of 
 ![Immobilize](img/icons/status/immobilize.png) **IMMOBILIZE** – If a figure is immobilized, it cannot perform any **move** abilities. At the end of its next turn, the IMMOBILIZE token is removed.
 
 ---
-**<p align="right">Page 23</p>**
+**<p align="right"><a name="page23">Page 23</a></p>**
 
 ---
 
@@ -498,7 +609,7 @@ The following are **positive conditions**. Figures can apply positive conditions
 Some abilities have an elemental affinity associated with them (either **Fire**, **Ice**, **Air**, **Earth**, **Light**, or **Dark**). If any of these symbols is visible by itself in an action’s description (a), it means that by performing any part of the action, the figure must infuse the battlefield with that element. This is represented by moving the corresponding element’s token to the “Strong” column of the elemental infusion table **at the end of the turn** in which the ability was used.
 
 ---
-**<p align="right">Page 24</p>**
+**<p align="right"><a name="page24">Page 24</a></p>**
 
 ---
 
@@ -521,7 +632,7 @@ Just like characters, monsters also have the ability to create and consume eleme
 Fire | Ice | Air | Earth | Light | Dark
 
 ---
-**<p align="right">Page 25</p>**
+**<p align="right"><a name="page25">Page 25</a></p>**
 
 ---
 
@@ -547,7 +658,7 @@ Even though a bonus card is placed in the active area, it is still considered **
 ![Shield](img/icons/general/shield.png) A “Shield X” bonus ability gives the recipient a defender’s bonus that reduces any incoming attack value by X. Multiple shield bonuses stack with one another and can be applied in any order. **A shield bonus only applies to damage caused by an attack.**
 
 ---
-**<p align="right">Page 26</p>**
+**<p align="right"><a name="page26">Page 26</a></p>**
 
 ---
 
@@ -573,7 +684,7 @@ A summon’s turn in the initiative order is always **directly before the charac
 A player can have multiple different summon abilities in play at once, in which case they act in the order in which they were summoned. Summoned figures **never** take a turn in the round they are summoned. Summon kills are credited to the owner of the summon.
 
 ---
-**<p align="right">Page 27</p>**
+**<p align="right"><a name="page27">Page 27</a></p>**
 
 ---
 
@@ -604,7 +715,7 @@ In addition to specific loot abilities, **a character must also loot any money t
 Some actions also have an experience value attached to them, denoted by ![XP](img/icons/general/xp.png). When that action is taken, the character gains the number of experience specified. An ability card cannot be played for the experience alone—a character must use one or more of the accompanying abilities to earn the experience. In addition, sometimes the action specifies that experience is only earned under certain conditions, such as consuming an elemental infusion or if the attacked target is adjacent to an attacker’s allies (a). Some persistent bonuses will also give a character experience, denoted by ![XP charge](img/icons/general/charge-xp.png), when that charge of the bonus is expended (b) (i.e., when the character token moves off that slot). **Characters do not automatically gain experience from killing monsters. Only using specific actions awards experience.**
 
 ---
-**<p align="right">Page 28</p>**
+**<p align="right"><a name="page28">Page 28</a></p>**
 
 ---
 
@@ -635,7 +746,7 @@ In either case, all ability cards are placed in the characters lost pile, the ch
 Characters can use items at any time, within the constraints of what is written on the item card, including in the middle of a card ability. However, if an item affects an attack (e.g. adds a bonus, an effect, advantage, or disadvantage), it has to be used before an attack modifier is drawn. If an effect is added to an attack, it functions exactly as if it had been written on the action card being used for the attack. There is no limit to the number of items a character can use on their turn or even during a specific ability. Any instance of applying the effects of an item card to a situation is considered a use. Like persistent abilities, an item with multiple use circles **must** be used when the situation applies.
 
 ---
-**<p align="right">Page 29</p>**
+**<p align="right"><a name="page29">Page 29</a></p>**
 
 ---
 
@@ -664,7 +775,7 @@ Before performing any action on their ability card, each individual monster will
 - A monster will focus on the enemy figure it can perform its current attack against using the least amount of movement. It finds the shortest possible path to get in range and line-of-sight to use its attack, and the figure that can be attacked at the end of that path is the focus. This enemy figure is considered the “closest.” It doesn’t matter if the monster can’t get within range to attack with its current movement, as long as there is a path to eventually get within range. If a monster does not have an attack listed on its ability card for the round, it finds a focus as if it had a melee attack. In the case where the monster can move the same number of spaces to get within range (and line-of-sight) of multiple enemy figures (e.g., because it starts its turn within range of multiple enemies), proximity from the monster’s current position (i.e. number of hexes they are away, not counting through walls) is then checked as a tie-breaker for determining “closest.”
 
 ---
-**<p align="right">Page 30</p>**
+**<p align="right"><a name="page30">Page 30</a></p>**
 
 ---
 
@@ -691,7 +802,7 @@ Having abilities other than “Attack” on its ability card does not affect a m
 ***Example:** Monster (1) can perform a “Move 3” ability. It first focuses on the Brute (a), since he is the closest enemy. If the monster had a ranged attack, it would remain in its current hex and attack the Brute. If it had a single-target melee attack, it would move 1 hex (b) to be adjacent to the Brute and attack. If it could attack two targets with a melee attack, it would move 2 hexes (c) to be adjacent to both the Brute and the Tinkerer. If it could melee attack three or more targets, it would move 3 hexes (d) to be adjacent to all three characters.*
 
 ---
-**<p align="right">Page 31</p>**
+**<p align="right"><a name="page31">Page 31</a></p>**
 
 ---
 
@@ -720,7 +831,7 @@ Monster attacks function exactly like character attacks, and are modified by the
 **Summons:** Monster summon abilities place new monsters on the board that behave exactly like the normal monsters, acting according to played monster ability cards of their type. Summoned monsters are placed in an empty hex adjacent to the summoning monster and also as close to an enemy as possible. If there are no empty adjacent hexes or there are no available standees of the summoned monster type, the summon fails. Summoned monsters never act on the round they are summoned, nor do they drop money tokens when killed.
 
 ---
-**<p align="right">Page 32</p>**
+**<p align="right"><a name="page32">Page 32</a></p>**
 
 ---
 
@@ -751,7 +862,7 @@ Once all figures have taken a turn, the round ends and some cleanup steps may be
 - Players may also perform a **short rest** (see Resting on p. 17 for details) if they are able.
 
 ---
-**<p align="right">Page 33</p>**
+**<p align="right"><a name="page33">Page 33</a></p>**
 
 ---
 
@@ -772,7 +883,7 @@ A scenario can end in one of two ways: success or failure. Once a scenario’s s
 If players are playing in a campaign, successfully completing a scenario will also allow them to read the conclusion flavor text of the scenario and gain the benefits listed at the end (see Scenario Completion on p. 49 for details). In a campaign the money and experience collected during a scenario will be very important to improve a character’s skills and abilities and should be tracked on the player’s character sheet. If the scenario was not part of a campaign, money and experience can be used as metric for gauging how well each character did.
 
 ---
-**<p align="right">Page 34</p>**
+**<p align="right"><a name="page34">Page 34</a></p>**
 
 ---
 
@@ -801,7 +912,7 @@ In **casual mode**, players can play any revealed scenario on the world map rega
 **The rules that follow will deal specifically with playing the game in campaign mode.**
 
 ---
-**<p align="right">Page 35</p>**
+**<p align="right"><a name="page35">Page 35</a></p>**
 
 ---
 
@@ -819,7 +930,7 @@ The **campaign board** is used to track the global progress of the game world. T
 - A prosperity track (i). When the prosperity of Gloomhaven increases, a square on the prosperity track should be marked for every point of increase, moving from left to right (see Gloomhaven Prosperity on p. 48 for details). At certain thresholds, this will increase the prosperity level of Gloomhaven.
 
 ---
-**<p align="right">Page 36</p>**
+**<p align="right"><a name="page36">Page 36</a></p>**
 
 ---
 
@@ -840,7 +951,7 @@ A party can persist from scenario to scenario and play session to play session, 
 - A reputation track (e). A party will gain and lose reputation over time for a number of reasons, and this is tracked by penciling in or erasing sections of the reputation track on the notepad (see Reputation on p. 42 for details). To the right of the track, the item price discounts and penalties for high and low reputation (f) are visible.
 
 ---
-**<p align="right">Page 37</p>**
+**<p align="right"><a name="page37">Page 37</a></p>**
 
 ---
 
@@ -860,7 +971,7 @@ When a new character is created, the player should start a new entry in the char
 - A space for additional notes (h). If players would like to track progress on other aspects of their character, they can do so here. This space also includes a track for checkmarks (i) attained through battle goals.
 
 ---
-**<p align="right">Page 38</p>**
+**<p align="right"><a name="page38">Page 38</a></p>**
 
 ---
 
@@ -888,7 +999,7 @@ Whenever a “Random Item Design” is listed as the reward when looting a treas
 Whenever a “Random Side Scenario” is listed as the reward when looting a treasure tile, the looting players should draw a card from the random side scenario deck. The drawn scenario is then immediately unlocked and its corresponding sticker is placed on the campaign map. The drawn scenario card is then removed from the game. It is possible to deplete the random side scenario deck. In this case, additional random side scenario rewards have no effect.
 
 ---
-**<p align="right">Page 39</p>**
+**<p align="right"><a name="page39">Page 39</a></p>**
 
 ---
 
@@ -910,7 +1021,7 @@ Players will have many opportunities to encounter city and road events throughou
 When the game box is opened and the campaign begins, a shuffled city event deck and road event deck should both be created using city and road events 01 through 30. Players will be directed to add or remove certain events from these decks over the course of the campaign. When a card is added to an event deck, the event deck should then be shuffled. Note that adding a card is different from returning a played card to an event deck, in which case it is placed on the bottom of the deck and the deck is not shuffled.
 
 ---
-**<p align="right">Page 40</p>**
+**<p align="right"><a name="page40">Page 40</a></p>**
 
 ---
 
@@ -933,7 +1044,7 @@ The achievement system is the main way that players will keep track of major cha
 **Party achievements** are tied to a specific party and are mainly used to keep track of what scenarios are available to play in campaign mode for that party.
 
 ---
-**<p align="right">Page 41</p>**
+**<p align="right"><a name="page41">Page 41</a></p>**
 
 ---
 
@@ -966,7 +1077,7 @@ If the outcome does not have a condition, the outcome is applied.
 
 
 ---
-**<p align="right">Page 42</p>**
+**<p align="right"><a name="page42">Page 42</a></p>**
 
 ---
 
@@ -989,7 +1100,7 @@ Whenever a party returns to Gloomhaven, they can perform a variety of activities
 The first step in any character’s story is creation. Players will create new characters when they first start playing the game, when they retire an old character and wish to continue playing, or pretty much whenever they want to try something new. When the box is first opened, the following six classes are available to play: Brute ![Brute](img/icons/class/01.png), Tinkerer ![Tinkerer](img/icons/class/02.png), Spellweaver ![Spellweaver](img/icons/class/03.png), Scoundrel ![Scoundrel](img/icons/class/04.png), Cragheart ![Cragheart](img/icons/class/05.png), and Mindthief ![Mindthief](img/icons/class/06.png). When a player creates a new character, he or she gains access to that character’s character mat and deck of Level 1 and “X” ability cards. The player should create a new entry in the class’s corresponding character sheet notepad, and also draw two random personal quest cards, choosing to keep one and shuffling the other back into the deck. A player can start a character at any level equal to or lower than the prosperity level of the city (see Gloomhaven Prosperity on p. 48 for details). If a player starts a character above Level 1, they should go through all the steps outlined on p. 44 for each level increase in sequence, up to and including their chosen starting level. In addition, a newly created character receives an amount of gold equal to 15x(L+1), where L is their starting level. A character starts with an amount of experience equal to the minimum required for their level (the number listed below that level on the character sheet).
 
 ---
-**<p align="right">Page 43</p>**
+**<p align="right"><a name="page43">Page 43</a></p>**
 
 ---
 
@@ -1023,7 +1134,7 @@ Within any one party, the number of items available for purchase is limited by h
 
 
 ---
-**<p align="right">Page 44</p>**
+**<p align="right"><a name="page44">Page 44</a></p>**
 
 ---
 
@@ -1056,7 +1167,7 @@ Lastly, leveling up also increases a character’s hit point total, as indicated
 Any time a character successfully completes a battle goal card at the end of a scenario, they receive a number of checkmarks, which are tracked in the specified area of the notes section of their character sheet. For every three checkmarks a character earns, he or she immediately gains an additional perk on their character sheet and applies its effects to their attack modifier deck. Any checkmarks from a battle goal that are left over after achieving a perk are applied toward the next perk. A character can achieve a total of six additional perks in this way.
 
 ---
-**<p align="right">Page 45</p>**
+**<p align="right"><a name="page45">Page 45</a></p>**
 
 ---
 
@@ -1083,7 +1194,7 @@ Once players have completed “The Power of Enhancement” global achievement, t
 Ability cards can be enhanced in a variety of ways, with each costing a specific amount of gold. This cost must be paid by the character whose ability card is being enhanced.
 
 ---
-**<p align="right">Page 46</p>**
+**<p align="right"><a name="page46">Page 46</a></p>**
 
 ---
 
@@ -1103,7 +1214,7 @@ The base cost associated with any enhancement depends on the sticker **and** wha
 The total number of enhanced cards in a class’s ability deck must be **equal to or less than** the prosperity level of the town. Once placed, enhancement stickers should never be removed. **Enhancements persist through all instances of a specific character class, even after retirement.**
 
 ---
-**<p align="right">Page 47</p>**
+**<p align="right"><a name="page47">Page 47</a></p>**
 
 ---
 
@@ -1234,7 +1345,7 @@ The total number of enhanced cards in a class’s ability deck must be **equal t
 ***Example:** The Brute wishes to enhance the top action of his ability card with a +1 on the attack (a). The base cost of this is 50 gold, but it is doubled because the attack targets multiple enemies. In addition, this is a level 3 ability card (b), so another 50 gold is added, for a total of 150 gold. Afterwards, the Brute now wants to add an attack hex to the action (c). This would normally cost 66 gold (200 gold divided by three existing hexes, rounded down), but again, 50 gold is added because the card is level 3, and now an additional 75 gold is added because the action was previously enhanced once, for a total 191 gold.*
 
 ---
-**<p align="right">Page 48</p>**
+**<p align="right"><a name="page48">Page 48</a></p>**
 
 ---
 
@@ -1262,7 +1373,7 @@ When the city reaches a new level of prosperity, players gain two benefits:
 - New characters may begin at any level equal to or less than the prosperity level of the town. Likewise, any character with a level lower than the prosperity level may immediately advance their level to match. In either case, follow the level-up steps on p. 44, adjusting the character’s experience value to the minimum value required for the new level.
 
 ---
-**<p align="right">Page 49</p>**
+**<p align="right"><a name="page49">Page 49</a></p>**
 
 ---
 
@@ -1288,7 +1399,7 @@ When a new scenario is unlocked, find its corresponding number on the world map 
 If players desire to reduce the variance in damage caused by the “2x” ![2x card](img/misc/2x-card.png) and “Null” ![Null card](img/misc/null-card.png) attack modifier effects, they can instead treat BLESS ![Bless card](img/misc/bless-card.png) and the standard “2x” cards as a +2 ![+2 card](img/misc/plus-2-card.png) modifier and CURSE ![Curse card](img/misc/curse-card.png) and the standard “Null” cards as a -2 ![-2 card](img/misc/minus-2-card.png) modifier. Players should still shuffle the corresponding attack modifier deck at the end of a round after one of these cards is drawn.
 
 ---
-**<p align="right">Page 50</p>**
+**<p align="right"><a name="page50">Page 50</a></p>**
 
 ---
 
@@ -1314,7 +1425,7 @@ monster card, this provides the full title of the room.
 - Designations for where players enter (c) or exit (d) the room and what types the entrance(s) and exit(s) are (see below for details). Entrances and exits always correspond to the nearest half-hex of the tile with a puzzle connection. If this is the first room of the dungeon, players can place their figure on any empty hex within two hexes of the entrance. If the first room has multiple entrances, players can collectively choose on which entrance to start.
 
 ---
-**<p align="right">Page 51</p>**
+**<p align="right"><a name="page51">Page 51</a></p>**
 
 ---
 
