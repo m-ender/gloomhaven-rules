@@ -41,7 +41,7 @@ An unofficial lightweight, searchable copy of the rule book. All text is taken d
   	1. Attack [pp.19-22](#page19)
 		1. Advantage and Disadvantage [pp.20-21](#page20)
 	   	1. Area Effects [p.21](#page21)
-	    	1. Attack Effects [p.22](#page22)
+		1. Attack Effects [p.22](#page22)
 	  1. Conditions [pp.22-23](#page22)
 	  1. Elemental Infusions [pp.23-24](#page23)
 	  1. Active Bonuses [pp.25_26](#page25)
