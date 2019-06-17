@@ -5,8 +5,119 @@ An unofficial lightweight, searchable copy of the rule book. All text is taken d
 - [README-no-large-images.md](README-no-large-images.md) has most of the screenshots from the rule book replaced with links to those images and is only about 2MB.
 - [README-no-images.md](README-no-images.md) contains no images at all (only links to them) and is less than 500KB in size.
 
+
 ---
-**<p align="right">Pages 4 and 5</p>**
+**<p align="right"><a name="page3">3</a></p>**
+
+---
+
+# Table of Contents
+
+## Play Overview [pp.4-12](#page4)
+
+1. Character Mats [p.6](#page6)
+1. Character Ability Cards [p.7](#page7)
+1. Item Cards [p.8](#page8)
+1. Monster Statistic Cards [p.9](#page9)
+1. Monster Ability Cards [p.10](#page10)
+1. Battle Goal Cards [p.10](#page10)
+1. Attack Modifier Cards [p.11](#page11)
+
+## Scenario Setup [pp.12-16](#page12)
+
+1. Scenario Page [pp.12-13](#page12)
+1. Overlay Tiles [pp.14-15](#page14)
+1. Scenario Level [p.15](#page15)
+1. Game Variant: Open Information and Solo Play [p.16](#page16)
+1. Monster Turn [pp.29-32](#page29)
+
+## Round Overview [pp.16-31](#page16)
+
+1. Card Selection [pp.16-17](#page16)
+	1. Resting [p.17](#page17)
+1. Determining Initiative [p.18](#page18)
+1. Character Turn [pp.18-28](#page18)
+	1. Move [p.19](#page19)
+		1. Revealing a Room [p.19](#page19)
+  	1. Attack [pp.19-22](#page19)
+		1. Advantage and Disadvantage [pp.20-21](#page20)
+	   	1. Area Effects [p.21](#page21)
+		1. Attack Effects [p.22](#page22)
+	  1. Conditions [pp.22-23](#page22)
+	  1. Elemental Infusions [pp.23-24](#page23)
+	  1. Active Bonuses [pp.25_26](#page25)
+	    	1. Shield [p.25](#page25)
+	    	1. Retaliate [p.26](#page26)
+	  1. Heal [p.26](#page26)
+	  1. Summon [p.26](#page26)
+	  1. Recover and Refresh [p.27](#page27)
+	  1. Loot [p.27](#page27)
+	    	1. End of Turn Looting [p.27](#page27)
+	  1. Gaining Experience [pp.27-28](#page27)
+	  1. Character Damage [p.28](#page28)
+	  1. Exhaustion [p.28](#page28)
+	  1. Items [p.28](#page28)
+1. Monster Turn [pp29-32](#page29)
+	  1. Order of Action [p.29](#page29)
+	  1. Monster Focus [pp.29-30](#page29)
+	  1. Monster Movement [pp.30-31](#page30)
+    		1. Monster Interaction with Traps and Hazardous Terrain [p.31](#page31)
+	  1. Monster Attacks [p.31](#page31)
+	  1. Other Monster Abilities [pp.31-32](#page31)
+	  1. Ambiguity [p.32](#page32)
+	  1. Bosses [p.32](#page32)
+1. End of Round [p.32](#page32)
+	  1. Round Tracker [p.33](#page33)
+
+## Finishing a Scenario [p.33](#page33)
+
+## Special Scenario Rules [p.34](#page34)
+
+1. Campaign Overview [pp.34-40](#page34)
+1. Campaign Board [p.35](#page35)
+1. Party Sheet [p.36](#page36)
+1. Character Sheet [p.37](#page37)
+1. Personal Quest Cards [p.38](#page38)
+1. Random Item Design Cards [p.38](#page38)
+1. Random Side Scenario Cards [p.38](#page38)
+1. City and Road Event Cards [p.39](#page39)
+1. Sealed Boxes and Envelopes [p.40](#page40)
+1. Town Records [p.40](#page40)
+1. Achievements [p.40](#page40)
+
+## Playing a Campaign [pp.41-47](#page41)
+
+1. Traveling and Road Events [pp.41-42](#page41)
+  	1. Completing Road Events [pp.41-42](#page41)
+	1. Reputation [p.42](#page42)
+1. Visiting Gloomhaven [pp.42-48](#page42)
+	  1. Creating New Characters [p.42](#page42)
+	  1. Completing City Events [p.43](#page43)
+	  1. Buying and Selling Items [p.43](#page43)
+	  1. Leveling Up [pp.44-45](#page44)
+		    1. Additional Perks [p.44](#page44)
+		    1. Building a Hand of Cards [p.45](#page45)
+		    1. Scenario Scaling [p.45](#page45)
+	  1. Donating to the Sanctuary [p.45](#page45)
+	  1. Enhancing Ability Cards p[p.45-47](#page45)
+	  1. Announcing Retirement [p.48](#page48)
+	  1. Gloomhaven Prosperity [p.48](#page48)
+1. Scenario Completion [p.49](#page49)
+
+## Special Conditions for Opening Envelopes [p.49](#page49)
+
+## Game Variant: Reduced Randomness [p.49](#page49)
+
+## Game Variant: Permanent Death [p.50](#page50)
+
+## Game Variant: Random Dungeon Deck [pp.50-51](#page50)
+
+## Credits [p.51](#page51)
+
+## Quick Guide [p.52 (back cover)](#page52)
+
+---
+**<p align="right"><a name="page4">Pages 4 and 5</a></p>**
 
 ---
 
