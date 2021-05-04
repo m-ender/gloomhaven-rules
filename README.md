@@ -1459,3 +1459,12 @@ Kristyn Childres, Katie, Finn, Ada, and Cora McDowell, Charilaos Bacharis, Clint
 **KICKSTARTER CONTRIBUTORS:**  
 I would like to sincerely thank all the backers of the Gloomhaven Kickstarter project. It was a long journey, and I only made it through with your help. I could not have asked for a more supportive group of people.  
 I would also like to specifically thank the backers who created official scenarios during the campaign: Marcel Cwertetschka, Tim and Kim De Smet, Jared Gillespie, David Isakov, Jeremy Kaemmer, Mathew G. Somers
+
+---
+**<p align="right"><a name="page52">Page 52</a></p>**
+
+---
+
+# Quick Guide
+
+![Quick Guide](img/rulebook/page-52.jpeg)
