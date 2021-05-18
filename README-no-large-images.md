@@ -13,6 +13,8 @@ An unofficial lightweight, searchable copy of the rule book. All text is taken d
 
 # Table of Contents
 
+## Components [p.2](#page2)
+
 ## Play Overview [pp.4-12](#page4)
 
 1. Character Mats [p.6](#page6)
@@ -115,6 +117,15 @@ An unofficial lightweight, searchable copy of the rule book. All text is taken d
 ## Credits [p.51](#page51)
 
 ## Quick Guide [p.52 (back cover)](#page52)
+
+---
+**<p align="right"><a name="page2">Page 2</a></p>**
+
+---
+
+# Components
+
+[Components](img/rulebook/page-2.jpeg)
 
 ---
 **<p align="right"><a name="page4">Pages 4 and 5</a></p>**
